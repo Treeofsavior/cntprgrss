@@ -1,0 +1,3901 @@
+{@st41b}Learn Attributes{nl}from respective masters of each class.{/}
+{@st43}Attribute List {/}
+{@st59}Close{/}
+{@st43}Learn Attributes{/}
+{@st59}Close{/}
+{@st41b}Silver{/}
+My Achievements
+Server Ranking
+{@st59}An unexpected event is available.{/}
+{@st59}There is a new Help message{/}
+{@st41}Are you sure you want to craft this type of arrow?{/}
+{@st41b}Once{/}
+{@st41b}All{/}
+{@st41b}Pause{/}
+{@st43}Adventure Journal{/}
+{@st43}Auction House{/}
+{@st59}Close{/}
+{@st41b}Items Sold : ×%s, Items Unsold : ×%s{/}
+{@st43}{s22}Item Auction{/}
+{@st59}Close{/}
+Availest
+{@st41b}Remaining Time
+3 hours 16 minutes
+{@st41b}Starting Price
+{@st41b}Bids
+{@st41b}Current Price
+{@st41b}Bidding Price
+{@st41b}Minimum Bid Price from {@st57}%s{@st41b}silver{/}
+{@st41b}Bid{/}
+{@st43b}Buy Now!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
+{@st44}Permission Settings{/}
+{@st45}Name: %s{/}
+{@st45}Party Storage{/}
+{@st49}None
+{@st49}Store
+{@st49}Retrieve
+{@st45}Survey{/}
+{@st49}Create
+{@st49}Delete
+{@st44}Save{/}
+{@st44}Cancel{/}
+{@st43}{s22}Hairstyle Shop{/}
+{@st59}Previous Hairstyle{/}
+{@st59}Next Hairstyle{/}
+{@st41b} Change {s18} (100 TPs required) {/}
+{@st59}Change to selected hairstyle.{/}
+{@st41}Cancel
+{@st43}Black Market{/}
+Book Name
+{@St59}Stop Reading{/}
+{@st59}Previous Page{/}
+{@st59}Next Page{/}
+{@st47}%s appeared!
+{@st43}Score{/}
+Damage Received
+Technique Bonus
+Evasion Bonus
+Clear Time
+Total Score
+{@st42}Elapsed Time
+10 minutes
+10 seconds
+{@st44}Complete
+{@st59}Close{/}
+{@st43}Buff Vending Machine
+Vending Machine Name
+{@st43}Register
+{@st43}Cancel
+Buff Vending Machine
+{@st59}Close
+{@st59}Buff Vending Machine{nl} - You can pay silver to receive buffs from another player.
+Carriage Menu
+{ol}{s22}Disembark{/}
+Casting
+{@st43}Game Settings{/}
+{@st64}Use the arrow keys to select a cell!
+{@st43}Advancement Information {/}
+{@st43}Select Class
+Psychokinesist
+{@st42}%s Circle {/}
+How many circles
+Displays a brief description of the class.
+{@st41b}Attack {@sti7}%s{/}
+{@st41b}Support {@sti7}%s{/}
+{@st41b}Difficulty{@sti7}%s{/}
+{@st59}Close{/}
+Advancement Alarm
+{@st43} Advancement
+{@sti7}{s14} Character {/}
+{@sti8}{s14} Class {/}
+{@st44}Chat{/}
+To. WWWWWWWW and 1 other
+General: /s chat {nl} Shout: /y chat {nl} Party: /p chat{nl} Whisper: /w character's username chat
+{@st41}All Chat{/}
+{@59}Quit{/}
+{@59}Invite{/}
+{@st59}All{/}
+{@st59}Normal (/s chat){/}
+{@st59}Shout (/y chat){/}
+{@st59}Party (/p chat){/}
+{@st59}Whisper (/w team name chat){/}
+{@st59}Adjust Chat Window{/}
+{@st43}{s22}Chat Macro{/}
+{@st43}Macro{/}
+{@st59b}Macro {nl} {@st59s} - How to use: {nl} 1. Drag a gesture icon to any gesture slots at the bottom. {nl} 2. Write your phrase and save. {nl} 3. Use the shortcut key to simultaneously use the phrase and make the gesture. {/}
+{@st59}Close{/}
+{@st41b}Save{/}
+{@st59}Save{/}
+{@st41b}Cancel{/}
+{@st59}Cancel{/}
+{@st42}Chat Settings
+{@st42}Transparency
+Show Chat Balloon
+Show Shouts on Top
+{@st43}Cheat List{/}
+{@st42b}Item{/}
+{@st42b}Monster{/}
+{@st42b}Move map{/}
+{@st42b}Combat Order{/}
+{@st41b}Close{/}
+{s16}{b}Create items by clicking on the Create button or double-click.
+{s16}{b}ea
+{s16}{b}Lv.
+{@st41b}Search{/}
+{s16}{b}Summon monsters by clicking on the Create button or double-click.
+{s16}{b}ea
+{s16}{b}Select a desired area.
+{s18}{b}View Minimap{/}
+{@st41b}Tool List{/}
+{@st59b}Collection {nl}{@st59s}- Purchase the Collection Deck to add collectible items to your collection. {nl} - The collection hotkey will be enabled when you use the Collection Deck Item. {nl} {/}
+{@st59}Close{/}
+{@st43}Collection{/}
+{@st43}Color Spray{/}
+{@st49}Color Spray{/}
+{@st49}Color{/}
+{@st49}Remaining{/}
+{@st49}Brush{/}
+{@st49}{a END_EDIT_SPRAY}Draw{/}{/}
+{@st49}{a SAVE_EDIT_SPRAY}Save{/}{/}
+{@st49}{a LOAD_EDIT_SPRAY}Import{/}{/}
+{@st49}Close{/}
+{@st43}Companion Adoption
+{@st59}Enter the name of your newly adopted companion {/}
+{@st41b}Name{/}
+{@st41b}Price %s{/}
+{@st59}Close{/}
+{@st41b}Adopt
+{@st59}Confirm{/}
+{@st43}Companion Shop
+{@st59}Close{/}
+{@st43}Other Character Info{/}{@st42}
+{@st59}Close{/}
+{@st41b}Information
+{@st41b}Record
+Team Name
+Character Name
+Circle {#ffff00}%s{/} %s Lv. {#ffff00}%s{/}
+Warrior
+Adventure Index {#ffff00}%s{/} (Rank{#ffff00}%s{/}/%s)
+Adventure Index {#ffff00}%s{/} ({#ffff00}Unranked{/})
+Total Achievements : {#ffff00}%s{/}
+Settings
+Clear the tab title to delete the tab.
+{@st49}All{/}
+{@st49}System{/}
+{@st49}Talk{/}
+{@st49}Combat{/}
+{@st49}Item{/}
+{@st43}Credits{/}
+{@st43}Lock Target settings {/}
+NPC Name
+Compare
+Illustration
+Select a conversation
+Text Help
+{@st41}Item Crafting{/}
+{@st45tw2}Crafting the item...
+%r seconds
+{@st41}Cancel{/}
+{@st45tw2}Quantity{/}
+{@st45tw2}Do you want to craft this item?
+{@st41}Confirm{/}
+Quest Information
+{@st59}Cancel Trade{/}
+{@st43}Personal Trade{/}
+My Trading List
+Silver : %s
+Enter
+{@st41}Accept
+{@st41}Confirm
+Other Player's (%s) Trading List
+Other Player's Name
+{s18}{ol} {gr gradation1}Field Event{/}
+{s20}{ol}Defeat the Vubbe Tribe! Would you like to join?
+{s20}{ol}%s Would you like to join?
+{s20}{ol}Participants : (1/5)
+{s20}{ol}Participants : (%s/%s)
+{s20}{ol}The game will begin after 1 second.
+{s20}{ol}The game will begin after %s seconds.
+Do not show this anymore for today.
+Do not show Field Events.
+Join Game
+Start a game with other players.
+Decline game invite.
+Spray Presets
+{@st49}Select{/}
+{@st49}Cancel{/}
+{@st49}Delete{/}
+Enter a file name to save.
+{@st43}Friends
+{@st59}Close{/}
+{@st59b}Friends{nl}{@st59s} - Become friends with other players in the game. {nl} - You can check the status of your friends through the Friends List tab. {nl} - In the Manage tab, you can invite, decline or block your friends. {/}
+{@st41b}Show Online{/}
+{@st41b}List
+{@st41b}Manage
+{@st41b}Send Friend Request
+{@st41b}Block
+{@st59}Search{/}
+{@st44}Guild{/}
+Guild
+List
+News
+Guild Mission
+Members Online
+{@st44}Create Guild{/}
+{@st42}Create{/}
+{@st42}Close{/}
+{@st42}All{/}
+{@st42}Today's Rankings{/}
+{@st42}Weekly Rankings{/}
+{@st56}Rank {/}
+{@st56}Points{/}
+{@st56}Class{/}
+{@st56}Name {/}
+Previous Page
+Next Page
+{@st42}Search ID{/}
+Enter the ID to search
+Close the Hall of Fame
+Enter the ID to search
+{@st59} Stamina {/}
+{@st43}Help List{/}
+{@st59}Close{/}
+{@st59b}Help List{nl}{@st59s} - If you need help with something, you can always read the Help Topics. {nl} - Select a topic to view more information about it. {/}
+{@st43}{s22}Help{/}
+{@st47_b}{b}Help Topics{/}
+{@st42b}Simple Help Contents{/}
+{@st59}View details{/}
+Please enter a quantity
+{@st59}Enter the contents{/}
+{@st41b}Confirm
+{@st59}Confirm {/}
+{@st41b}Close
+{@st59}Cancel {/}
+{@st43}Warp{/}
+{@st59}Close{/}
+{@st59b}Warp{nl}{@st59s} - Allows you to quickly travel to regions you have already visited. {nl} - Feature is activated when two or more warp points are available. {nl} {/}
+{@st41}Current Location : %s{/}
+{@st43}{s22}Warp{/}
+{@st41b}Do you want to move to this area?{/}
+What about Siauliai
+Coin Consumed : 0
+Intro
+{@st43}Inventory{/}
+{@st59}Close{/}
+{@st59b}Equipment {nl} {@st59s}- Hair/Costume: Equipment to change a characters appearance. {nl} - Weapon: Can equip one-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with a one-handed weapon) {nl} - Armor: Top, Bottom, Gloves, Shoes. {nl} - Accessories: Can equip 1 Necklace and 2 Bracelets. {nl} {/}
+{@st59}Hair Costume 1{/}
+{@st59}Hair Costume 2{/}
+{@st59}Necklace{/}
+{@st59}Costume{/}
+{@st59}Top{/}
+{@st59}Gloves{/}
+{@st59}Bottom{/}
+{@st59}Shoes{/}
+{@st59}Left hand{/}
+{@st59}Right hand{/}
+{@st59}Bracelet 1{/}
+{@st59}Bracelet 2{/}
+{@st59}Armband{/}
+{@st59}Search{/}
+Weight
+{@st43}Equipment Buff{/}
+{@st59}Close{/}
+{@st42}Available for Buff
+{@st42}Consume{/}
+{@st42}Run
+{@st42}Target Item{/}
+{@st59}Ring 1{/}
+{@st43}Item Crafting{/}
+{@st42b}Show Craftable Items{/}
+{@st59}Close{/}
+{@st43}{s22}Split Item
+{@st59}Enter a quantity{/}
+Monster HP Bar
+{@st44}Item Set acquired{/}
+Keyboard Warrior
+Kills
+99 minutes 99 seconds
+38000 points
+Enhanced Speed Potion
+{@st41}Confirm{/}
+{@st59b} Adventure Journal {nl}{@st59s}- Your game progress is recorded in the Adventure Journal. {nl} - You can progress your Adventure Index through contents such as: obtaining items, hunting monsters, crafting and map exploration.{nl}    Adventure Index : The total of all your indexes. {nl}    Growth : 5 points per character level and class level {nl}    Items : Equipment : grade X 10 points, Books : 10 points, Others : 1 point {nl}    Monsters : 10 points per monster (50 points for Boss Monsters) {nl}    Maps : 1 point per 10% explored {nl}    Quests : 1 point per quest {nl}    Achievements : Varies by achievement {nl}    Crafting : 10 points {nl}    Collection : 5 points for a deck and 45 points when it is completed {nl} - You can receive special rewards from an NPC in town depending on your Adventure Index. {/}
+{@sti7}{s22}{ds}Achievements{/}
+{@st42b}{#22FF22} Top 10% / %s Points{/}
+{@st42b} Average / %s Points {/}
+1st / %s Points
+Rank %s
+%s Points
+Profession
+Team
+{@st59}Close{/}
+{@st43}Adventure Journal Ranking{/}
+{@st43}{s22}Rank   
+{@st43}{s22}Name
+{@st43}{s22}Score
+{@st41}Details{/}
+{@st43}Start Crafting{/}
+{@st59}Start item crafting.{/}
+{@st44}Keypad{/}
+{@st42}Time limit
+{@st56}Kill{/}
+{@st56}Overkill{/}
+{@st56}Shot{/}
+{@st56}Dead{/}
+Spell Power
+Defense
+Magic Resistance
+Critical Attack Rate
+{@st43}Socket{/}
+{@st59}Close{/}
+Please insert your items
+Potential
+Additional Socket Cost : {#ff9933}%s{/}{nl}Gem Extraction Cost : {#ff9933}%s{/}
+{@st41b}Add Socket
+{@st41b}Extract Gem
+{@st41}Craft{/}
+{@st41}%s %s ea
+Area Map
+Area Explored : 95.5%
+{@st45tw}Area Explored %s% {/}
+{@st59}Close{/}
+{@st41}Map{/}
+Shift(clear), Ctrl(mid fill)
+{ol}Title
+{@st41}Add{/}
+{@st41}Delete{/}
+{@st41}Save{/}
+{@st41}Auto{/}
+{@st41}Reset{/}
+{@st59}Set quantity.{/}
+{ol}Group
+{ol}Message
+{ol}Sound
+{@st41}Create Minimap{/}
+{@st55}Area Map
+{@st43}{s22}Market{/}
+{@st43}{s24}Market{/}
+{@st42b}Filter{/}
+{@st42b}Type{/}
+{@st42b}Req. Lv{/}
+{@st42b}Enhance Lv{/}
+{@st42b}Name
+{@st41b}Retrieve %s
+{@st41b}Sell
+{@st41b}Search
+{@st59}Close{/}
+{@st42b}Sort
+{@st41b}Purchase
+{@st43}{s22}Retrieve
+{@st41b}Retrieve All
+{@st41b}Retrieve
+{@st43}{s22}Sell
+{@st42b}Quantity
+{@st42b}Price
+{@st42b}Hide Seller's Name{/}
+{@st41b}Register
+Siege Coin
+Someone was killed by someone
+{@st43}Minigames{/}
+{@st49}Fire Catapult{/}
+{@st44}Control directions{/}
+{@st44}Fire{/}
+Minigame
+{s18}{ol}{gr gradation1}Hide and seek minigame{/}
+{s16}Would you like to join the mini-game?
+{s16}Participants : (0/5)
+{s16}Participants : (%s /%s)
+{s16}The game starts after 1 second.
+{s16}The game starts after %s seconds.
+{@st59}Zoom in{/}
+{@st59}Zoom out{/}
+{@st59}Map (M){/}
+{@st42b} Area Map
+{@st44}Item Synthesizer{/}
+{s16}{#FFcc66}{ol}Please select the item you want to create{/}{/}
+{s16}{#FFcc66}{ol}Drag the ingredients to the slots
+{@st42}Create{/}
+{@st42} Cancel {/}
+Information of %s
+Kepa or ...
+{@st41}{Details}
+{s20}{#050505}Monster Description Monster Description Monster Description Monster Description
+{@st41} Kill {/}
+{@st41} Overkill {/}
+{@st41} Normal Kill {/}
+{@st41} Area {/}
+{@st41} Item {/}
+{@st41} Achievement {/}
+Object
+{@st43}Necronomicon{/}
+{@st59}Close{/}
+{@st59}I am too lazy to think.{/}
+Summoned Creature : {#ffcc33}%s{/}
+Undead Harpy
+Skill : %s
+Skill 1, Skill 2
+Fragments Required : %s
+Beast 60 / Insect 20/ Mutant 10
+Number of Fragments
+Parts 1
+Parts 2
+Parts 3
+Congratulations! You have leveled up.
+Item Alarm
+{@st64}Details{/}
+How to Play
+{@st42b}          Move once with each of the keys{/}
+{@st42b}       Perform a basic attack{/}
+{@st42b}                Jump up{/}
+{@st42b}  Press two directional keys to move diagonally.{/}
+Fog Map Tool
+Tool for killing monsters
+Tool for making a mini-map
+Dialogue tool
+{@st43}GM Settings{/}
+{@st59}Close{/}
+{@st59b}Party Information{nl}{@st59s} - Click on the Create Party button at the bottom to create a party. {nl} - Right-click on other players to send a party invite. {nl} - Changes can be made to the party in the Settings tab. {nl} - Set up specific search conditions for party members from the Public Party list.{/}
+{@st43}Party Information{/}
+{@st41b}Members{/}
+{@st41b}Party Event {/}
+{@st41b}Settings{/}
+{@st41}Members{/}
+{@st41}Requirements for joining this party
+{@st41b}Public
+{@st41b}Private
+Wish Level                                ~
+{@st41}Loot Distribution
+{@st41b}Free for all
+{@st41b}Round Robin
+{@st41b}Random
+{@st41}EXP Distribution
+{@st41b}Individual EXP
+{@st41b}Equal EXP
+{@st41b}By Level
+{@st41}Quest Sharing
+{@st41b}Use
+{@st41b}Don't Use
+{@st41b}Create Party
+{@st43}Public Party List {/}
+{@st59b}Public Party List{nl}{@st59s} - Search for a party you want to join by viewing the open parties in your server {nl} - Use the search option to find a party you want to join{/}
+{@st59}Close Party List{/}
+Use Search
+Quest Sharing
+EXP Distribution
+Item Distribution
+{@st43}Invite
+{@st41b}Invite{/}
+{s18}{ol}{gr gradation1}Logout PC rules{/}
+{ol}Conditions for applying rules
+{ol}Action for applying rules
+Enter a name for the rule
+{Gr gradation1}Registration{/}
+Register Rules
+{Gr gradation1}Cancel{/}
+Cancel Action
+{@st43}Companion Info
+{@st59b}Companion Info{nl}{@st59s} - You can set your companion to Active or in Rest Mode using the button below. {nl} - The attributes and equipped items of your companion can be customized. {/}
+{@st59}Close{/}
+{@st41b}Name : {@sti9}%s{/}
+{@sti9}%s{@st41b}Closeness : {@sti9}%s {@st41b}Level{/}
+{@st41b}EXP{/}
+{@st41b}Stamina{/}
+{@st41b}Affinity{/}
+{@st41b}Attributes and Information
+{@st43}Companion{/}
+{@st59b}Companion{nl}{@st59s} - Click on an item in the list to view more information. {/}
+{@st59}Close{/}
+{@st59}Close{/}
+{@st59}Help{nl} - View detailed information and tips. {nl} - View other topics from the Help List{/}
+{@st43}Help{/}
+Help Topics
+{ol}{#AAAA00}{s16}Elapsed Time : %s
+{@st43}Poison Pot{/}
+{@st59}Close{/}
+{@st59}Need to write{/}
+Poison Amount: %s
+Items that can be used to Craft poison
+Select All
+Click again to de-select all
+Crafting
+shuffle shuffle mix and shuffle
+{@st43}Category{/}
+{@st43}Me{/}
+{@st43}Target{/}
+{@st43}Level{/}
+{@st43}Funds{/}
+{@st43}Rate{/}
+{@st43}PvP Win/Loss Ratio{/}
+{@st59}Close{/}
+{@sti5}Total Purchase Amount : %s{/}
+{@sti5}Total Amount : %s{/}
+{@st41b} Purchase
+{@st43}Gained materials for a craftable item!
+{@st43}Magnum Opus{/}
+{@st41}Delete All
+{@st42}Pension target {@stx1}(%s required){/}
+{@st41}Combine
+{@st43}Quests{/}
+{@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quest tracker. {nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue. {nl} - The arrow on the character's foot leads to the location of your quest. {nl} - If you completed a quest, a 'Return' icon is displayed on the quest tracker. {nl}    (Teleports you to the Quest NPC using the Backspace key or a mouse-click) {nl} - Add or remove quests in the quest tracker by ticking or unticking the box in front of the quest name. {/}
+{@st41b}In Progress{/}
+{@st41b}Abandoned{/}
+{@st43}{s22}Quest Information{/}
+Mission Complete
+{@st41}Complete{/}
+Mission Progress Info
+{s18}{ol}Quest Information
+{s16}Time Left
+Use quest item
+Quest Hint
+{@st41}Confirm{/}
+{@st43}{s22}Quest Completed{/}
+{@st41b}Complete{/}
+{@st41}Accept{/}
+{@st41}Decline{/}
+{@st44}Go Back{/}
+Which quest would you like to go back to?
+{@st41b}Quest class name{/}
+{@st59}Expand Slots{/}
+{@st59}Reduce Slots{/}
+{@st59}Summon Companion.{/}
+{@st44}Menu{/}
+{@st60}Character Selection{/}
+{@st60}Logout{/}
+{@st60}Quit Game{/}
+{@st60}Game Settings{/}
+{@st60}Go Back{/}
+{@st41}Skip Tutorial{/}
+{@st41}Character Selection{/}
+{@st41}Logout{/}
+{@st41}Quit Game{/}
+{@st41}Go Back{/}
+{@st43}{s22}Gather for the raid!
+{@st41b}Monsters are approaching the outskirts of the town castle. Only you can stop them.
+{@st43}{s22}Game Settings{/}
+{@sti7}Searching for a raid party...{/}
+{@st41b}Cancel participation
+{@st41b}I'll do something about it!
+{@st41b}I don't think I can help this time...
+{@sti7}{s24}Select Raid Rewards{/}
+{@st42b}Remaining time {@st43}%s{@st42b} seconds{/}
+{@st41b}Increase the number of selections
+{@43b}{s22} No. of times selectable : {@st43}%s{/}
+shadow_box tentativeremoval
+{@st43}Ranking{/}
+{@st59}Close{/}
+{@st41}Monster Kill Top 100{/}
+{@st41}Damage Top 100{/}
+{@st41}Money Money Top 100{/}
+{@st41}Level Up Top 100{/}
+{@st41b}Menu{/}
+{@st43}{s22}Enhance Item{/}
+{@st41b}Selected Item
+{@st41b}Anvil
+{@st41}{s20}Anvil Hit Count :{@st43} %s
+{@st41} {s20}Price : %s
+{@st41b}Enhance{/}
+{@st59}Start Item Enhancement{/}
+{@st59}Close{/}
+{@st41b}              Enhance with the {@sti9}×%s{/} selected items?{/}
+{@st43}Enhancement
+{@st44}Enhance Item{/}
+{s24}{b}{#000000}Enhancement Complete!
+{@st41}Enhance Again{/}
+{@st41}Close{/}
+{s18}{ol}{gr gradation1}Repair Equipment{/}
+Equipped Equipment
+Equipment in the Inventory
+{Gr gradation1}Select All{/}
+Select All
+{Gr gradation1}Repair{/}
+{@st43}Repair{/}
+List of repairable items
+{@st41b}Repair Cost{/}
+{@st41b}Remaining Amount{/}
+{@st41b}Repair{/}
+Repair the selected equipment.
+{@st59}Close Item Repair{/}
+{@st43}Item Reinforcing{/}
+{@st41}List of reinforceable items{/}
+{@st44}Reinforce the Item{/}
+{@st42}Reinforce{/}
+{@st59}Reinforce with the current settings{/}
+{@st59}Do not Reinforce{/}
+{@st44}Resume{/}
+{@st41b}You have become {/}{s20}{#cc6600}{ol} incapacitated{/}{@st41b}{/}
+{@st41b}Respawn at the nearest Revival Point{/}
+{@st41b}Respawn here (requires %s TPs) {/}
+{@st41b}Return to field{/}
+{@st41b}Abandon quest and restart{/}
+{@st41b}Try again{/}
+Sanctuary of Resurrection (70031)
+Required item is missing.
+Rest Quickslot
+{@st43}Dialog box{/}
+Temporary Name
+{@st41b} {s18} Insufficient Inventory Space 
+You cannot obtain the item because your inventory is full{nl}Please free up some space in your inventory.
+{@st44}Set Item acquired!{/}
+Please select an item
+{@st59b} shop {nl} {@st59s} - Right-click and input the quantity to purchase multiple {nl} - Double right-click to sell the entire stack of item {/}
+{@st59}Close{/}
+{@st59}First Page{/}
+{@st59}Next Page{/}
+{@st59}Last Page{/}
+{@st41b}Reset{/}
+{@st59}Reset Shopping Cart{/}
+{@st41b}Confirm{/}
+{@st59}Confirm Transaction{/}
+{@st43}Shop{/}
+{@st41b}Items Bought{/}
+{@st41b}Items Sold{/}
+{@st41b}Price{/}
+{@st41b}Balance{/}
+{@st41b}My Sold Items{/}
+{@st41}Empty slots{/}
+{@st43}Total{/}
+{@st41}Settle Transaction{/}
+{@st41}After Transaction{/}
+{@st41}Items purchased{/}
+{@sti1c}Simony
+{@st41}Crafting Skills
+{@st42}Level %s{/}
+Crafting costs
+Crafting Qty
+Approximately %s seconds required
+{@st41}Craft
+{@st43}Skills & Attributes{/}
+{@st59}Close Classes & Skills{/}
+{@st59b}Classes{nl}{@st59s}- You can learn new skills by growing the Circle of your class. {nl} - You can choose from 3 available classes to advance to from your 1st to 2nd advancement. {nl} - You can advance to the same class up to 3 times. {nl} - You cannot change back to your previous class once you advanced to another class. {nl} - You have to consume all your Skill Points to be able to advance. {nl} - You can choose the same class.{nl}{@st59b}Skills{nl}{@st59s} - You can increase the rank of each skill up to level 5.{nl} - Attributes learned from your Masters can be seen below your skills. {/}
+{@st41b}Apply{/}
+{@st59}Apply{/}
+Cleric
+{@st59}Cancel{/}
+Learning {#ff4400}%s (Lv. %s){/}...
+Psychohassle
+%s minute(s) left
+{@st43}Pose{/}
+{@st59}Close{/}
+{@st41}Board{/}
+{@st41}Trade{/}
+{@st41}Social Functions{/}
+{@st41b}Write{/}
+{@st41}Register{/}
+{@st59}Register Post{/}
+{@st41}Start MyPage{/}
+{@st59}Publish MyPage{/}
+{@st59}Register Greetings{/}
+{@st41b}1. Menu{/}
+{@st41}Visit{/}
+{@st59}Visit MyPage{/}
+{@st41}Sell{/}
+{@st59}Sell Item{/}
+{@st43}Living{/}
+{@st59}Close{/}
+{@st41}View All{/}
+{@st41}Create Map{/}
+{@st41}%s/min (%s in hand){/}
+Keyboard Warrior
+{@st42}%s{/}{@st42_yellow}Level{/}
+{@st41_yellow}Employment Time
+{@st43}Graffiti{/}
+{@st59}Close{/}
+{@st41b}Tip : Draw a picture in the frame below{/}
+{@st41b}Colors{/}
+{@st41b}Quantity{/}
+{@st41b}Brush{/}
+{@st43}Draw{/}
+{@st59}Draw the completed picture on the ground.{/}
+{@st41b}{a SAVE_EDIT_SPRAY}Save{/}{/}
+{@st59}Save drawings{/}
+{@st41b}{a LOAD_EDIT_SPRAY}Load{/}{/}
+{@st59}Load previously drawn pictures.{/}
+{@st59}Selected color 1{/}
+{@st59}Selected color 2{/}
+{@st59}Color List{/}
+{@st59}Selected Brush{/}
+{@st59}Brush 1{/}
+{@st59}Brush 2{/}
+{@st59}Brush 3{/}
+{@st59}Brush 4{/}
+{@st59}Brush 5{/}
+{@st59}Brush 6{/}
+{@st49}People who like this{/}
+{s20}{#050505}Describe whatever
+{@st41} All {/}
+{@st41} Party {/}
+{@st41} Monster {/}
+{@st41b}{#f0dcaa}Remaining Status Points ▶ {@st46}%s
+{@st59b}My Information{nl}{@st59s}- Status : Use the points you earned by leveling up to enhance the 5 status attributes. {nl}- Information : This is information about your character based on your current status and equipment. {nl}- Title : Titles can be earned by accomplishing achievements. {nl} {/}
+{@st41b}Info{/}
+{@st41b}Title{/}
+Show Class
+Show Character Name
+{@st59}Change Character Name{/}
+{@st41b}Apply
+{@st59}Apply{/}
+{@st41b}Cancel
+{@st59}Cancel{/}
+PC Name
+{@st41_yellow}Level: {@st41}%s{/}
+{@st41_yellow}Mercenary Skills
+{@st43}Attack Effects{/}
+{@st43}Defense Effects{/}
+{@st43}Stat{/}
+systemmenu_vertical tentative removal
+{@st59}Character Information (F1){/}
+{@st59}Inventory (F2){/}
+{@st59}Classes & Skills (F3){/}
+{@st59}Adventure Journal (F4){/}
+{@st59}Quests (F5){/}
+{@st59}Party (F6){/}
+{@st59}Friends (F7){/}
+{@st59}Macro (F8) {/}
+{@st59}Companion (F9) {/}
+{@st59}Help (F10) {/}
+{@st59}System Menu (Esc){/}
+{@st59}Necronomicon{/}
+Help (F1)
+Contents
+View Details
+{@st43}Game Settings{/}
+{@st43}Game{/}
+{@st41b}Show Gained EXP{/}
+{@st41b}Show Character Name{/}
+{@st41b}Show Team Name only{/}
+{@st41b}Show Quest Guide{/}
+{@st43}Resolution{/}
+{@st43}Graphics{/}
+{@st41b}Full Screen{/}
+{@st41b}Windowed Mode{/}
+{@st43}Sound{/}
+{@st41b}Sound Effects Volume (%s){/}
+{@st41b}BGM Volume (%s){/}
+{@st41b}Volume (%s){/}
+{@st43}{b}Select Language{/}
+{@st59}Close{/}
+{@st41b}Min.requirement Mode {/}
+{@st41b}View{/}
+{@st59}Credits{/}
+Target buff window
+{@st46}IMC's picture
+{@st46}%s's picture
+{@st46}Like
+{@st46}Report
+{@st46}Use preservatives
+{@st46}Remove Picture
+Snow Hallucination
+Bouquet
+{@st41} Gifts
+Please enter a quantity
+{@st53b}%s Wins %s Losses
+{@st42}Today's Schedule
+{@st53}Until Start :
+{@st53b}Gifts received : ×%s
+{@st43b}Send gift to %s{/}
+{@st55_a}Next game
+{@st53}- Click on the name to spectate{nl}- Right-click to send a gift
+Center camera to my character
+{@st55_a}Congratulations!
+{@st42}Switch Camera
+{@st44}Adventure Journal{/}
+{@st59}Change View Settings{/}
+{@st41}Statistics {/}
+{@st41}Crafting {/}
+{@st41}Hunt {/}
+{@st41}Help {/}
+{@st44}Wiki Page{/}
+{@st42}Information{/}
+{@st42}Details{/}
+{@st42}Combat{/}
+{@st42}Acquire{/}
+{@st59}Close Page{/}
+{@st43}Battlefield
+{@st59}Close Battlefield.
+(Bronze 3)
+{@sti8}Points acquirable today : {nl}%s{/}
+{@st41}Point Shop
+{@st41}Ranking
+{@st42}Battlefield schedule
+{@st42}Recent Records
+{@st41}Receive EXP
+{@st41}PvP Page
+{@st41}Search
+{@st43}Battlefield Rankings
+{@st59}Close Battlefield rankings
+{@st56}Skill Name{/}
+{@st41}Check coordinates{/}
+{@st41}Find{/}
+{@st42b}Manage monster regen{/}
+{@st42b}Monster List{/}
+{@st42b}Create UI{/}
+{@st42b}Map Fog{/}
+{@st42b}Create Map{/}
+{@st42b}Create Minimap{/}
+{@st42b}Dialog {/}
+{@st42b}Change Quest Rewards{/}
+{@st42b}Group regen{/}
+{@st42b}Set map location{/}
+{@st42b}Skills map{/}
+{@st42b}List of events{/}
+{@st42b}Check coordinates{/}
+{@st42b} Check XAC, texture path{/}
+{@st42b}Performance ON/OFF{/}
+Dialog list
+Search
+{@st41}Preview{/}
+{@st41}Off{/}
+{@st41}Remove{/}
+{@st41}Save all{/}
+{@st41}Apply picture{/}
+{#FFFFFF}{ds}Select Event
+{#FFFFFF}{ds}Edit Event
+{ol}List
+The name of the group to save
+{@st42}Create New{/}
+{@st41}Group regen{/}
+{@st59}Enter monster name to search{/}
+{@st59}Enter group name to save{/}
+{@st41}New group{/}
+Filtering
+{@st59}Enter filter{/}
+{ol}Property Value
+Class List
+Apply to XML
+{#FFFFFF}{ds}Log
+{#FFFFFF}{ds}View all properties
+Enter a keyword to search
+All attribute values
+{ol}Name
+{ol}Value
+Rogue
+{ol}Revision
+{ol}Rogue
+Class list
+XML Conversion
+{ol}Class name
+{ol}Property Name
+{ol}Changed value
+{ol}Apply
+Open Folder
+Check All
+History
+Rollback Value
+{ol}Select item
+Enter the name you want to search
+{@st42}Confirm{/}
+{@st41}Create UI{/}
+{ol}Frame
+{@st41}Frame{/}
+{@st41}Button{/}
+{@st41}Text{/}
+{@st42b}Normal{img btn_close}
+{@st42b}Auction{img btn_close}
+{@st41}Set map location{/}
+{@st41}Rename{/}
+{@st59}Enter the words you want to filter{/}
+{@st41}Create{/}
+{@st56}XML save{/}
+{@st56}Reset{/}
+{@st56}Attribute{/}
+{@st56}Value{/}
+{@st42}Content{/}
+{@st41}Undo{/}
+{@st41}Save all{/}
+{@st41}Open XML{/}
+{@st42b}Fixed Skill : 0{/}
+{@st42b}Fixed skill : %s{/}
+{@st42b}Mouse homing{/}
+{@st42b}Skill name{/}
+{@st41}Monster list{/}
+{@st41}Performance Manager{/}
+{ol}Select Quest
+Enter quest name to search
+{ol}Select map
+Enter map name to search
+{@st42}Current map{/}
+{ol}Map name
+{ol}Coordinates
+{@st41}Change quest rewards{/}
+{@st59}Enter quest to search{/}
+{@st59}Enter the item to search for{/}
+{@st42}EXP
+{ol}Basic rewards
+{ol}Quantity
+{ol}Additional rewards
+{@st45}Frequently used cheats
+{@st41}Skills map{/}
+{@st42}Ability{/}
+{@st42}Warrior{/}
+{@st42}Wizard{/}
+{@st42}Archer{/}
+{@st42}Monk{/}
+{@st42}Sorcerer{/}
+{@st41}Skill{/}
+{@st59}XML load{/}
+{@st41}Load{/}
+{@st59}Save as XML{/}
+{@st59}Reset Open Skill map{/}
+{@st41}Reset{/}
+{@st59}Reset all Skill  maps{/}
+{@st41}Reset All{/}
+{S18}Remove script
+{S18}String argument
+{s18}string 1 argument
+{s18}string 2 argument
+{s18}Max skill level
+{@st59}Remove script type box{/}
+{@st59}Remove script argument{/}
+{@st59}Max skill level{/}
+{@st59}Save Property{/}
+{@st41}Save Property{/}
+{@st44}UI List{/}
+{ds}Addon List
+{ds}Fixed frame list
+{@st42}UI list{/}
+{@st59}show UI List{/}
+{@st42}Adjust location{/}
+{@st59}Adjust location{/}
+{@st42}Edit Property{/}
+{@st59}Edit property{/}
+{@st42}Save{/}
+{@st59}Save{/}
+{@st44}Edit UI properties{/}
+{@St59}Character Selection{/}
+{@St59}Logout{/}
+{@St59}Settings{/}
+{@St59}Quit{/}
+{@st43}Lodge Settings{/}
+{@st59}Close{/}
+{@St42_b}{s18}{#f5c384}Team Name{/}
+{@st59}Enter Team name {/}
+{@st59}Save Team Name{/}
+Provisional Delete
+{@St59}Close{/}
+{@St43}Lodge Decorating{/}
+{@St41b}Theme{/}
+{@St41b}Item Arrangement{/}
+{@St41b}Name
+{@St41b}Price
+{@St41b}State
+{@St44}New Character{/}
+{@St41b}{s22}Select Character Class{/}
+{@St41b}Return{/}
+{@St59}Go back to your Lodge without creating a character
+Change Character
+{@St41}Character{/}
+{@St59}Rotate clockwise{/}
+{@St59}Rotate counterclockwise{/}
+{@St43b}Character Rotation{/}
+{@st43}Character Name{/}
+Enter a name{@st59} {/}
+{@St43b}Choose Gender{/}
+{@St59}Female{/}
+{@St59}Male{/}
+{@st43b}Choose Hairstyle{/}
+{@st59}Hairstyle 1{/}
+{@st59}Hairstyle 2{/}
+{@St59}Hairstyle 3{/}
+{@st59}Hairstyle 4{/}
+{@st59}Hairstyle 5{/}
+{@st59}Hairstyle 6{/}
+{@st59}Hairstyle 7{/}
+{@st59}Hairstyle 8{/}
+{@st59}Hairstyle 9{/}
+{@st59}Hairstyle 10{/}
+{@St43b}Select Class{/}
+{@st59}Swordsman{/}
+{@st59}Wizard{/}
+{@st59}Archer{/}
+{@st59}Cleric{/}
+{@St41b}Visit Barrack {/}
+{@St59}Visit the Barrack of another player.{/}
+{@St41b}Logout{/}
+{@St59}Move to the login screen{/}
+{@St41b}Exit Game{/}
+{@St59}Exit Tree of Savior{/}
+{@st41b}Select Channel{/}
+{@st43}Enter{/}
+{@St59}Start the game with the selected character{/}
+{@St43}{s26}Team Name{/}
+{@st59}Team Name{/}
+{@st41b}Change Team Name{/}
+{@st59}Change Team Name{/}
+{@St41}Companion{/}
+Chat Drag
+{@St44}New Dialog Name{/}
+{@St42}Change{/}
+{@St44}New Window Name{/}
+{@St43}{s40}{gr gradation4}Character Creation{/}
+{@St59}Create a character{/}
+{@St59}Cancel character creation{/}
+{@St59}Close{/}
+{@St59}Create a team with the entered name{/}
+{@St43}{s30}{#f0dcaa}Enter your Team Name!
+{@St41b}Your Team Name is a name that represents all your characters.{nl}This name will be used universally during trade, guild joining, conversation and more.{nl}         Team Name can be changed at any time using 150 TP.{/}
+Loading background
+Tip
+Game Tips
+Login
+Account ID
+{@st59}Enter your Account ID{/}
+Password
+{@St59}Enter your password{/}
+{@St43}Enter{/}
+{@St59}Connect to the selected server{/}
+{@st41b}Replay{/}
+{@st41b}Single Mode{/}
+{@St41b}Exit Game{/}
+Save
+{@St59}If checked, your account will be saved{/}
+Server List
+{@St59}Select Server{/}
+Login Title
+[Closed Beta version]
+Options
+Visibility Range
+{S20}{#BBBBBB}Visibility Range
+Visibility Range :
+Character :
+Background Objects :
+Topography - Grass (%) :
+Topography-Tree (%) :
+Topography-objects(%) :
+Shadow
+{S20}{#BBBBBB}Shadow Mapping
+Enable Shadow Mapping
+Shadow Quality :
+SSAO Use
+SSAO Method :
+SSAO Resolution :
+Water Reflection
+{s20}{#BBBBBB}Water Reflection
+Characters Water Reflection
+Background Water Reflection
+{s20}{#BBBBBB}Glow Setup
+Enable Glow
+{@st41}Attack{/}
+{@St41}Defense{/}
+{@st41}Support{/}
+{@st41}Difficulty{/}
+{@st41}Hairstyle
+{@st41}Rotation
+{@st43}Create Character
+{@st59}Create Current Character{/}
+{@st41b}Cancel
+{@st59}Cancel Character Selection{/}
+Character Information
+{@st41}Bring Along
+{@st59}After clicking this, select a character for the companion to follow you{/}
+UI of Item Creation
+{s24}Name :
+{s16} STR :
+{s16} HP :
+{s16} AGI :
+{s16} VIT :
+{s16} Force :
+{s18} Class Selection
+{s18} Right Way Union
+{s18} Providence Evil Union
+Hong Moo Moon
+Dae Do Cheon
+Fire Swords
+For adenomas hwageuk
+Puncture sex
+Yeonhwagyo
+{S16}Gender and Appearance
+Male
+Female
+Hair Adjustment
+Key Adjustment
+Shoulder Width
+Hand and Foot size
+Chest Size
+Waist Size
+Hip Size
+{S18} Head Size
+{S14} Height Adjustment
+{S14} Shoulder Width
+{S14} Hand and Foot size
+{S14} Chest Size
+{S14} Waist Size
+{S14} Pelvic Size
+Use Pre-set
+Randomize
+Create New Character
+Cancel Character Creation
+{@St43}{s40}{gr gradation4}Game Start{/}
+{@St43}{s40}{gr gradation4}End Preview{/}
+{@St43}{s40}{gr gradation4}Return to the Zone{/}
+{@St59}Return to the Zone.{/}
+{@St41b}Return{/}
+{@St59}Return to My Lodge.{/}
+{@St43}{s24}LodgeName{/}
+{@St59}Lodge Name{/}
+{@st41b}Decorate{/}
+{@St59}Decorate Lodge{/}
+{@St41b}Setup{/}
+{@St59}Barrack Settings{/}
+Customized Item frame
+Green
+Density
+Like HP
+{@st59}Hair Accessories{/}
+{@st59}Subsidiary Accessories{/}
+{@St42}Text{/}
+Basic content name
+Basic group name
+Basic item name
+Mr Kim
+Weight : %s
+N/A
+%s race
+N/A
+Untradable
+Cannot enhance
+N/A
+Item Name
+N/A
+Lv and above
+Everyone can equip
+Maximum Sockets : ×%s
+Item Name
+Sell Value : %s silver
+How much
+{@St42b}Full Exploration Rate of Siauliai{/}
+{@St42b}West Forest Area Explored{/}
+{@St18}Item{/}
+{@St18}My Ranking{/}
+Diamond
+Stamina +9.000
+{@St18}Average{/}
+{@St42b}{s18}Workmanship{/}
+{@St55_c}Item Name
+{@St55_c}Memo Records
+{@St59}Enter a name. If you do not enter a name, the default name will be used.{/}
+{@St59}Enter a memo{/}
+{@St43}Produce items
+{@st42b}%s Points {/}
+{@st42b}%s{/}
+{@st42b}%s Points {/}
+{@st42b}%s{/}
+{S16}{ol}per price
+Total Price : 1
+{@St41}Help
+{@St41}Photo Description
+{@St41}Registration
+{@St41}Name
+{@St41}Message
+{@St43}Name{/}
+{@St41b}Message{/}
+{@St42b}Login{/}
+{@St41}Create a new conversation
+{@St41}Full Conversation
+Region Name
+{@St41}Skill Names
+{@St41}Attribute Points
+{@St41}Class Name
+Character Name
+{@Sti7}Delete{/}
+Character Level
+{@St42}Quest Sharing{/}
+{@St42}EXP Sharing{/}
+Character Memo
+Average Party Level : {#FFFF00}%s{/}
+Searching For : {#FFFF00}%s{/}
+Cleric / Archer
+Quest Sharing : {#FFFF00}%s{/}
+N/A
+EXP Distribution : {#FFFF00}%s{/}
+Equally
+Item Distribution : {#FFFF00}%s{/}
+Randomly
+How do I
+You don't see who it is
+{@st41b}Adventure Journal Updated
+Menu Objects for Quest
+Quest Categories
+Quest Object List
+N/A
+Line used on the roadmap
+Slot Object_Standard
+Slot Object_Cash Slot
+Character Details Type 1
+Character Details Type 2
+Inventory List Type 1
+Inventory List Type 2
+Inventory Slot Type
+View item details on the Market
+Output of Item Name
+Output of the number of remaining
+Output of Value
+When you add it to cart
+Output of total value
+For item output
+Output of unit price
+Item category
+News
+{@St42b}Restart{/}
+Peltang Stang
+99 Circle
+Defeat 8 Mad Vubbe
+Tooltip
+EXP: sad{br}+1 Enchantment Crystal (Attack)
+Apprentice Sword
+Repair Durability :
+Repair Cost : 120 silver
+Repair Cost : %s silver
+{@st42b}Bids Count {@sti7}%s{/}
+{@st42b}Current Price {img icon_item_silver 20 20}{@st57}%s{/}
+{@St41}Buy immediately! {Img icon_item_silver 20 20}{@st57}%s{/}
+{@St41b}Receive items{/}
+{@st42b} Bidding Price {img icon_item_silver 20 20}{@st57}%s{/}
+{@Sti7}Return
+{@St59}Head{/}
+{@St59}Left Bracelet{/}
+{@St59}Right Bracelet{/}
+{@St59}Costumes{/}
+{@st59}Ring2{/}
+Pet Name
+Chandler bundle
+West forest etc...
+Consume TPs
+Category Name
+This is a Help
+{@Sti7}%s Points{/}
+{@st41b}%s Score
+Clear Quest 25
+[Sub]Thron Forest
+{@St42}Equipped Item
+{@St44}Rank %s Class Information{/}
+Advancement Alarm
+Like Heart
+N/A
+Level %s
+Memo : {#666666}%s
+Ayase
+Relationship with %s
+{#FFFF33}%s{/} wants to become a friend{/}
+{@St41b}Accept
+{@St41b}Decline
+{@St53b}Loading your friends list.
+Level %s{/}
+{@st41} Cancel
+Please add the buff to sell.
+Price : %s{/}
+Amount Left
+{@St41}Purchase
+Amount Left : %s {/}
+{@St41}Item{/}
+{@St41b} Memo
+{@St41b}Craft
+{@St41b}Price : %s{/}
+{@Sti5}Price : %s{/}
+{@Sti9} Party Quest (%s){/}
+{@st41_yellow} Exploration Rate: %s% {/}
+{@st41_yellow} Score: %s {/}
+{@st42b}{b}Achievement Rate{/}
+{@st59}Join Party Quest{/}
+Windows
+Status
+Tab
+Image Item
+Effect
+Control Set
+{@St41}Difficulty : %s
+{@St42}Remaining Time : %s
+{@St53}Item Crafting
+{@st59}Place your item here{/}
+{@st42}Cancel
+{@st42}Confirm
+{@st43}Briquetting{/}
+Current Potential
+Consumable Material
+Consume Quantity
+Quantity Available
+{@sti6}Transaction Record
+{@st43}Base Camp
+Signboard Title
+{@st43}Build
+{@stc1}Base Camp Lasting Time
+{@stc1}Effect
+{@stc1}Materials and Price
+{@st41b}Base Camp
+{@st41b}Log
+{@st41b}Renew
+{@st59}Renews the lasting time.{/}
+{@st41b}Base Camp Lasting Time
+{@st41b}Effect
+{@st42b}A base camp lasts for an additional 24 hours when renewed. Consumes %s silver.
+{@st41b}Personal Storage
+{@stc1}Storing and taking items in and from storage costs %s silver.{/}
+{@st41}{#ffff00}Lock Target{/}
+{@st43}Refreshment Table
+{@st41b}Food type
+{@st41b}Table
+{@st59}Close{/}
+{@st43}Grimoire{/}
+{@st59}Close{/}
+My Summon Skill
+Main Card
+Secondary Card
+Stat
+CON
+INT
+DEX
+CRT
+{@st43}Set up Shop{/}
+{@st41b}Settings
+Unit Price
+{@st41b}Material List
+{@st43}Gem Roasting{/}
+{@st59}Close{/}
+{@st41b}Repair{/}
+{@st41b}Log{/}
+Price to receive
+{@st59}Place a Gem{/}
+Consumable Material
+Amount Left
+{@st42}Close
+{@st43}Weapon Maintenance{/}
+{@st43}Equipment Maintenance{/}
+{@st41b}Price to receive
+{@st41b}Materials
+{@st43}Repair{/}
+{@st41b}Repair{/}
+Skill Level
+{@st41}Total Players Allowed
+{@st43}Item Dungeon
+{@st41}Materials Required
+{@st59}Materials Required{/}
+Recommended Level : %s
+{@st43}UI Selection Mode{/}
+{@st43}Buy-in Shop
+Shop Name
+{@st41b}Open Shop
+{@st59}Start Buy-in Shop{/}
+{@st59}Cancel{/}
+{@st59}Close{/}
+Request Buy-in
+{@st59}Close Buy-in Shop
+{@st59}Buy-in Shop{nl} - Trade your items for silver
+{@st43}Items the buyer wants{/}
+{@st43}Items for sale
+{@st43}Total Profit
+{@st41}Sell
+{@st41}Alchemy Materials
+{@st41}Alchemy Result {@stx1}(%s required){/}
+{@st59}Summon Pet{/}
+{@st41b}Character Settings{/}
+{@st59}Grimoire{/}
+{@st41b}Apply Bloom{/}
+{@st41b}Apply Vignette{/}
+{@st41b}Apply FXAA{/}
+{@st41b}Apply GLOW{/}
+{@st41b}Apply Depth {/}
+{@st41b}Apply SoftParticle{/}
+{@st43}Personal Storage{/}
+{@st59}Close Personal Storage{/}
+{@sti6}Storing and taking items from storage costs %s silver...{/}
+{@st59}Alt+Z to change weapons{/}
+{@st59}Save Lodge Settings{/}
+Change Lodge
+{@st59}Close
+{@st59}Change Lodge{nl} - Change the map and expand the number of available characters by changing your Lodge. 
+{@st41}Cancel Preview
+{@st46}My TPs : %s{/}
+{@st41b}Change Lodge{/}
+{@st59}Decorate your Lodge{/}
+{@st41b}Lodge Settings{/}
+{@st59}Change Lodge Settings{/}
+{@st45ty}Character Greeting{/}
+{@st45ty}Buy-in Shop
+{@st41b}Change
+{@st59}Change Character Greeting{/}
+{@st59}Set Buy-in Shop{/}
+Quantity : %s{/}
+Search for items to buy
+Quantity
+Unit Price
+{@sti5}×%s{/}
+{@st41}Eat
+{@st41}Craft
+{@st41}Quantity
+{@st41}Consumable Material
+{@st59}Close{/}
+{@st41}Remove Base Camp
+{@st43}[Circle %s]{/}
+{@st43}Skill{/}
+{@st43}Class Tip{/}
+Class Tip
+{@st42}{#ffff00}Lock Target {/}
+{@st41}Remove Table
+{@st43}Tincturing{/}
+Controller Quick Slot
+{@st42}{#ffff00}Keyboard Mode{/}
+{@st43}Open Offering Box
+{@st41b}Open
+{@st41b}Offering Box
+{@st41}Offering Box Name
+Payment
+Estimated Profit
+Funds
+{@st45tw}Offering Box Item Details
+{@st41}Sell All
+{@st43}Offering Box
+Offer
+Settle Transaction
+Estimated Balance
+{@st45tw}Offering Box
+{@st41}Empty
+{@st43}Current zone user list{/}
+{@st59}Close{/}
+{@st41}Party Description :
+{s20}Poison Amount {s28}{b}{#ff6600}%s
+Materials for Poison
+{@st41b}Select All{/}
+{@st59}De-select all by clicking again{/}
+{@st41b}Craft{/}
+{@st59}Mix mix turn and mix{/}
+{@st41b}Achievements{/}
+Hairstyle Color
+Available Titles
+{@st41b}Controller UI mode{/}
+{@st41}{#ffffcc}Name
+{@st41}{#ffffcc}Price
+{@st41}{#ffffcc}Status
+{@st41b}Cancel Preview
+{@st41}{#ffff00}My TPs : %s{/}
+Equipped
+Description : {#FFFF00}%s{/}
+Average Level : {#FFFF00}%s{/}
+Conditions
+Title: %s
+Reward: %s
+{@st42}Amount
+{@st43}Base Camp
+{@st42}Construct
+{@st42}Cancel
+{@stc1}Camp Duration
+{@st41b}Base Camp
+{@st41b}Camp Duration
+{@st42b}A base camp lasts for an additional 24 hours when renewed. {nl}%s silver is consumed.
+{@st41}Remove Camp
+{@st42}Remove Table
+{@st59b}Grimoire{nl}{@st59s} - Place a card on the deck to start summoning{/}
+{@st41}My Summon Skill
+{@st41}Stat
+{@st41b}Offering Box Name
+{@st41b}Offering Box Details
+{@st59}Close
+{@st59b}Buy-in Shop{nl}{@st59s} - Trade items for silver
+{@st41b}Other Player's Requested Item{/}
+{@st41b}Available Items{/}
+{@st41b}Total Sales
+{@st41b}Sell
+{@st59}Sell your item(s).{/}
+{@st59}Close{/}
+{@st41b}%s silver is charged when storing and taking items from storage.{/}
+{@st41b}Quantity
+{@st42b}The duration of your camp can be increased.{nl} Cost: %s silver.
+{@st41b}Type {@sti7}%s{/}
+{@st41b}Difficulty {@sti7}%s{/}
+{@st59b} Item {/}
+{@st59b} Monster {/}
+{@st59b} Move Map {/}
+{@st59b} Battle Command {/}
+{s26}{b}
+{s26}{b}Level
+{@st44}{s26}Level
+{@st59b}{s26}ea
+{@st41b}Cooking
+{@st41b}Food
+{@st42}Remove Refreshment Table
+{@st41b}Records{/}
+{@st41}Party Description
+{@st41b}Enter{/}
+Roasting Level %s
+{@st43}Buy-in Shop{/}
+{@st41b}Close
+{@st41b}Bug Report
+{@st59}Notify us about bugs and issues{/}
+When you report a bug, your gameplay up to that point will be sent to our server.{nl}The replay file will be of much help in resolving the bug. Do you want to send it?
+{@st41b}Bug description :{/}
+{@st41b}Entering a description is not mandatory, but it will help us a lot in analyzing the bug.
+{@st41b}Send
+{@st42}{s14}{#ffff00}Target Lock{/}
+{@st59}Lock your target regardless of distance or direction
+Party found!
+Controller Rest Quickslot
+{@st41b}Rest Mode
+Controller Tutorial
+{@st59}Close Controller Tutorial(M){/}
+Keyboard Tutorial
+{@st44}Logout{/}
+{@st41b}Leave Helper(Requires %s TP){/}
+Socket Addition Cost : {#ff9933}%s{/}{nl}Gem Removal Cost : {#ff9933}%s{/}
+{@st41b}Remove Gem
+{@st42}{s14}{#ffff00}UI Mode{/}
+{@st59}Use keyboard or controller to control UI
+Use Search Party 
+When a character matching your party conditions is found {nl}[Party match found!] notice will be shown.
+{@st41}Play Style{/}
+Questing
+Hunting
+Events
+{@st41}Lv. Difference{/}
+Not related
+{@st41}Desired Class Type{/}
+{@st41b}Leave Party
+{@st59}Search by party description{/}
+{s18}{ol}{gr gradation1}Helper Rules{/}
+{@st59}Craft{/}
+{@st45ty}Hairstyle Color
+{@st45ty}Available Title
+{@st41_yellow}Helper Skill
+{@st41b}Show Other Character Names{/}
+{@st43}UI Mode{/}
+{@st41b}Auto{/}
+{@st41b}Controller{/}
+{@st41b}Keyboard{/}
+Controller
+{@st59}Controller Info{/}
+Keyboard
+{@st59}Keyboard Info{/}
+{@st43}Graphic Settings{/}
+{@st43}Performance{/}
+{@st41b}Low-spec Mode{/}
+{@st41b}Auto Adjustment{/}
+{@st41b}Don't use{/}
+Game FAQ
+Players : (%s/%s)
+At least Lv. 100 : (%s/%s)
+{@st41}Link Party Invite
+{@st66b}Items Sold : ×%s / Items Unsold : ×%s{/}
+{@st41b}Trade Log
+{@st41b}Remove Base Camp
+Card Battles
+{@st64}%s Win(s) {/}
+Select Card
+Adventure Index:{#ffff00} %s{/} ({#ffff00}Rank: %s{/})
+{@st66b}Like!
+I like this character {#ffff00}%s{/}
+{@st41b}Remove Refreshment Table
+{@st42}My Summon Skill
+{@st42}Stat
+{@st42}Current Location : %s{/}
+{@st59b}Equipment {nl}{@st59s} - Hair/Costume: Equipment to change a characters appearance. {nl} - Weapon: One-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with one-handed weapon) {nl} - Armor: Top, Bottom, Gloves, Shoes. {nl} - Accessories: 1 Necklace and 2 Bracelets. {nl} {/}
+{@st43}Open %s Shop {/}
+{@st41b}Roasting{/}
+{@st66}Select All
+{@st43}Craft Arrow{/}
+{@st59}Close{/}
+{@st66b}Check{/}
+{@st66b}Leave Helper(Requires %s TP){/}
+Additional Socket Cost : {#000000}%s{/} {nl}Gem Extraction Cost : {#000000}%s{/}
+{ds}Recommended Level : %s
+Explored : 50.0%
+{@st45tw}[%s% explored]{/}
+>>Show More Info...
+%s (Rank %s)
+Job Name
+{@st41b}Invite
+{@st41}You can change to keyboard, controller, or mouse controls in the system menu.{nl}
+When you meet a character matching your party conditions, {nl}[Party match found!] notice will be shown.{nl}You will also be recommended to other parties.
+{@st42}Play Style{/}
+{@st42}Lv. Difference{/}
+Any
+{@st42}Class Type{/}
+{@st42}Party Name : %s{/}
+{@st42}Description{/}
+{@st42}Enter{/}
+{@st42}Item Distribution
+{@st42}EXP Distribution
+Individual EXP
+Equal EXP
+By Level
+{@st42}Quest Sharing
+Disabled
+{@st42}Public Party{/}
+Level
+{@st42}Use 'Recommend Party'{/}
+By Distance
+By Class
+By Level
+By Quest
+By Closeness
+{@st42}Share Party Invite Link
+>>Party Preview...
+Party Name : %s
+Party Description : %s
+Created : %s ago
+Party Members : %s/5
+Join
+{@st59}Search by party name or description{/}
+Simple Help Details
+{@st43}Message Box
+{@st41b}All
+{@st41b}Unread Messages
+{@st43}{s22}Choose a character to receive the items.{/}
+{@st41b}Enhance
+{@st66}Items requiring a repair
+{@st43}Simoni
+{@st59}Increase skills{/}
+{@st59}Close{/}
+{@st43}Skills & Attributes{/}
+Remaining Status Points {nl}{@st46}%s
+Likes received : %s
+{@st66b}Show Gained EXP{/}
+{@st66b}Show Character Name{/}
+{@st66b}Show Only Team Name{/}
+{@st66b}Show Other Players' Names{/}
+{@st66b}Auto{/}
+{@st66b}Controller{/}
+{@st66b}Keyboard{/}
+{@st66b}Mouse
+{@st66b}Full Screen{/}
+{@st66b}Windowed Mode{/}
+{@st66b}Sound Effects Volume (%s){/}
+{@st66b}BGM Volume (%s){/}
+{@st66b}Volume (%s){/}
+{@st66b}Low Mode{/}
+{@st66b}Auto Setup{/}
+{@st66b}Disable{/}
+{@st66b}Apply Bloom{/}
+{@st66b}Apply Vignette{/}
+{@st66b}Apply FXAA{/}
+{@st66b}Apply Glow{/}
+{@st66b}Apply Depth{/}
+{@st66b}Apply Soft Particle{/}
+{@st66b}Apply High Texture {/}
+{@st66b}Vertical Sync On{/}
+{@st66b}Vertical Sync Off{/}
+{@st66b} %s silver is charged when storing and taking items from storage.{/}
+%s like me
+{@st41}Spectate
+{@st66b}Exit Spectator Mode
+Found a game. Do you want to join?
+{@st41}Join
+{@st41}Decline
+End Game
+Deaths
+Damage
+{@st41}Return to Zone
+{@st41b}Returning to Zone in %s seconds...{/}
+{@st59}Opens the Message Box{/}
+{@st42}Change Lodge{/}
+{@st42}Lodge Settings{/}
+{@st65}%s Score{/}
+{@st65}×%s{/}
+{@st65}% Score{/}
+{@st65}×%s{/}
+Image Description
+{#000000}%s seconds
+{#000000}%s equipped
+Party Name : {#2c140c}%s{/}
+Description : {#2c140c}%s{/}
+Average Party Level : {#2c140c}%s{/}
+Searching For : {#2c140c}%s{/}
+Quest Sharing : {#2c140c}%s{/}
+EXP Distribution : {#2c140c}%s{/}
+Item Distribution : {#2c140c}%s{/}
+Did you have a good time with this party?
+{@st42} obtained %s by %s
+{@st42} %s enhanced %s
+Memo :%s
+{@st59}Add the material to this slot.{/}
+{@st66b}Price : %s{/}
+Character Greeting
+Buy-in Shop
+×%s
+{@41b}Criteria
+{@st41}Delete
+{@st41}Refresh
+{#ffff00}%s{/} players like this character
+{@st41b}{s56}This game is {#0066FF}
+Rated T.
+{s40} {nl}Playing the game for long periods of time can negatively impact your health.{/}
+{@st66b}Enter
+{@st42}My Summon Info
+Your movement slows down when you do not have enough{@st59}STA{/}
+{@st59}Sort your inventory{/}
+Sort
+{@st59}Close{/}
+{@st59}Close{/}
+Mouse Tutorial
+{@st59}Close{/}
+Attack : %s
+Defense : %s
+STR : %s
+CON : %s
+INT : %s
+DEX : %s
+SPR : %s
+{@st42b}Swordsman types can dash by pressing the arrow key twice.{/}
+{@st42}Party Name & Description{/}
+{@st42}Insert Party Invite Tag
+{@st41b}Public Party List{/}
+{@st41b}Recommended Character List{/}
+{@st41b}Receive Recommendation
+This can only be used by party leaders.
+You must use the Party Member Recommendation function.
+{@st66b}Quest Class Name{/}
+{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click and enter a quantity to buy/sell multiple items{nl} - Right-click twice to sell all the items{/}
+{@st59}Mouse Info{/}
+{@st66b}Sort
+{@st59}Sort items in your storage{/}
+{@st59}Equip weapons to this slot{nl}Press Alt+Z to swap weapons{/}
+Spectate another character
+{@st41}Battlefield
+Results
+{@st41}Move Now
+{@st41b}             A Team Name represents all your characters.{nl}                It's a common name used within the game.{nl}                  (Changing your Team Name will cost TP!){/}
+{@st42}Show only attributes that can be learned{/}
+Leg Count
+Key
+Weight
+{@st43}Gem Roasting{/}
+{@st59b}Item Crafting{nl}{@st59s} - An item can be crafted by using a recipe.{nl} - Place the recipe and required materials in the slot to begin crafting an item. {nl} - You can attach a unique name and memo to the item.{/}
+{@st59}Close Arrow Crafting{/}
+Fragments needed : Mutant %s / Beast %s / Plant %s
+{@st42b}         Swordsman classes can sprint by                     double-tapping a directional key{/}
+{@st41}Party Settings
+{@st41}Party Recruit Settings
+{@st42}Search for Party Members{/}
+When a player meets the criteria you set up, a [Party Match!] message will be shown on your screen.
+{@st41b}Recommended Player List{/}
+{@st41}Attribute Information
+{@st59}Cancel Enhancement{/}
+{@st59b}Gem/Card Enhancement{nl}{@st59s} - Select a gem or card from your inventory to enhance it.{nl} - All items with exception of quest items can be used as materials for enhancing gems.{nl} (Most effective when using a gem as material){nl} - Cards can only be enhanced by using other cards.{/}
+{#000000}{s22}Server Queue
+{#000000}{s22}The server is currently full. Queueing for entry.
+{#000000}{s22}Current Position : %s
+{@st43}Team Battle League
+{@st59}Close
+{@st42}Team Battle League Schedule
+{@st43}Team Battle League Rankings
+{@st59}Close Team
+Team Name
+{@st41b}Skill Name
+{@st59}Accept Party Mission{/}
+{@st59}Delete this Ticket{/}
+Score
+Join Team Battle League
+{@st56}My Rank
+{@st56}Kill Rank
+{@st56}Damage Rank
+General: /s chat{nl}Shout: /y chat {nl}Party: /p chat{nl} Whisper: /w TeamName chat
+{@st66b}Controller Vibration{/}
+A match has been found. Please wait until you can join the game.
+{@st43}{s18}Pick the character to receive the item.{/}
+Maximum Sockets : %s
+{@st41b}Details {img red_down_arrow 16 16}
+{@st41b}Price :{/}
+{@st41b}After Repair :{/}
+Camp Duration
+Effect
+Camp duration is increased when it is renewed.{nl}Requires %s silver.
+Personal Storage
+{@st41b}Type : {@sti7}%s{/}
+{@st41b}Difficulty : {@sti7}%s{/}
+{#ffff00}{ol}%s{/}{/} players like this character
+{@st43}Instanced Dungeons
+{@st41}Check Location
+{#000000}Dungeon Name{/}
+{#000000}Entry Level{/}
+{#000000}Entry Count{/}
+{#000000}The number of entries will reset at %s.{/}
+{img silver 20 20} Price
+Nearby Party Info
+Required Fragments : %s 
+{@st66b}Empty
+{@st42}Show Nearby Parties{/}
+Friendship with {@sti9}%s{@st66b} : {@st66b}Level{/} {@sti9}%s {@st66b}
+Friendship
+{@st41b}Obtained material for item crafting!
+{@st66b}{s20}You have become {/}{s20}{#cc6600}{ol}Incapable of Combat {/}{@st66b}{s20}!{/}
+{@st66b}Restart from the nearest Revival Point{/}
+{@st66b}Restart here (requires %s TPs){/}
+{@st66b}Return to the field{/}
+{@st66b}Abandon the quest and try again{/}
+{@st66b}Try Again{/}
+{@st66b}Items Sold{/}
+{@st53}Ranking Points : %s
+Total Untradable: %s
+{@st42b}Check Dialog{/}
+{@st66b}Give food to outside party{/}
+{@st41b}Change Signboard Title
+{@sti9}My Rank
+{@sti9}Kill Rank
+{@sti9}Damage Rank
+{@st43}Key Settings{/}
+{@st45tw2}Category
+Action
+Restore defaults
+{@st59}The selected item will be locked{/}
+{@st59}You can change the theme of your lodge and preview it.
+%s Characters{/}
+{@st42b}Preview
+{@st42b}Return
+{@st42b}Buy
+{@st42b}Use
+Guild Name & Description
+Team Name
+Title
+Notice
+{@st41}Server Queue
+{#000000}{s18}The server is currently full. Queuing for entry.
+{#000000}{s18}Current Position : %s
+{@st66b}Show Other Character's Effects
+TP
+{@st41b}Change{s18}(Requires 100 TP){/}
+Consume Quantity
+Quantity Available
+{@st43}Spell Sell Shop{/}
+{@st59}Close{/}
+{@st43}Spell Sell Shop
+Spell Sell Shop
+{@st59}Close
+{@st59}Spell Sell Shop{nl} - You can receive a buff skill from the player by paying in silver.
+{@st41b}Build
+{@st41b}Materials and Price
+{@st66b}Base Camp
+{@st66b}Records
+Legs Quantity
+{@st41}Confirm
+{@st42}Use{/}
+{@st66b18}※ Purchases made with TP are not refundable.{/}
+{@st59}Guild  (/g chat){/}
+{@st59}Guild   (/g chat){/}
+{@st42}Text Size
+{@st66b}Information
+Goddess Statue HP
+Round
+Player
+Ally
+Enemy
+{@st66b}Cooking
+{@st66b}Food
+{@st66b}List
+{@st66b}Manage
+{@st59}Close{/}
+{@st43}Guild{/}
+{@st41b}Basic Information
+{@st41b}Property
+Looking for guild event participants.
+{@st41b}Upgrade & Rank
+{@st41b}Guild Attributes
+{@st43}Upgrade Guild{/}
+Ch / Location
+Summon
+To Guild Member
+Go
+{@st43}History{/}
+{@st59}Close{/}
+{@st45tw2}Category{/}
+{@st45tw2}Variation Value{/}
+{@st45tw2}Time{/}
+{@st45tw2}Recover{/}
+{@st66b}Dungeons{/}
+{@st66b}Request Office Mission{/}
+{@st66b18}Entry Limit{/}
+{@st45tw2}Name{/}
+{@st45tw2}Entry Lv.{/}
+Time Elapsed : 
+{@st59}Zoom In{/}
+{@st59}Zoom Out{/}
+{@st59}Show Last Warp Point{/}
+{@st59}Show Current Location{/}
+{@st59}Hair Costume 3{/}
+{@st59}Hairstyle{/}
+{@st41b}Cancel
+{@st41b}Confirm
+{@st66b}Roasting{/}
+{@st66b}Records{/}
+Remaining Number
+{@st66b}Maintenance{/}
+{@st66b}Repair{/}
+{@st41}Skill Level
+{@st41}Riches Material
+{@st66b}Dismiss Helper (Requires %s TP){/}
+{@st66b}Full Map{/}
+{@st59}Show Full Map{/}
+{ol}Message
+{@st66b18}Retrieve
+{@st66b18}Sell
+{@st66b18}Buy
+{@st45tw2}Lv.{/}
+{@st45tw2}Unit Price{/}
+{@st45tw2}Quantity{/}
+{@st45tw2}Total Price{/}
+{@st42}Advanced Options{/}
+{@st65}Level{/}
+{@st65}Enhance Level{/}
+{@st59}Search by item name and options{/}
+{@st65}Lowest First{/}
+{@st65}Highest First{/}
+{@st45tw2}Amount{/}
+{@st45tw2}Time until Retrieval{/}
+{@st66b}Sales Period & Commission Fee{/}
+{@st66}After 48 hours, you are able to retrieve your{nl}silver from the Market with exception of Tokens.
+{@st45tw2}Deadline{/}
+{@st45tw2}Commission Fee{/}
+{@st45tw2}Total Price{/}
+Highest Limit Price{/}
+Lowest Limit Price{/}
+{@st66}Lowest Market Price{/}
+{@st66}Highest Market Price{/}
+%s (Ch %s)
+Number of Fragments
+{@st66b}Open
+{@st66b}Offering Box
+{@st66b}Members{/}
+{@st66b}Party Event{/}
+{@st66b}Settings{/}
+{@st42b}Save{/}
+{@st41}Party Name & Description{/}
+Show Nearby Parties
+Public Party
+Lv. Difference
+Use 'Recommend Party'
+{@st66b}Insert Party Invite Tag
+Competitive Mission
+Unit
+{@st41b}Enter
+{@st66b}Public Party List{/}
+{@st66b}Recommended Player List{/}
+Life
+{@st43}Message Box
+{@st66b}All
+{@st66b}Unread
+{@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quests window.{nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue.{nl} - The arrow on your character's foot leads to the location of your quest{nl} - A 'Return' icon is displayed in the quests window when a quest is completed{nl}  (Teleports you to the Quest NPC using the Backspace key or a mouse-click){nl} - Add or remove quests in the quests window by ticking or unticking the box in front of the quest name{/}
+{@st66b}  In Progress  {/}
+{@st66b}  Abandoned  {/}
+{@st66b}Resurrect with the Soul Crystal{/}
+{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click to enter a quantity to sell/buy multiple items{nl} - Right-click twice to sell all the items{/}
+Crafting Number
+{@st42}%s Benefits{/}
+Do you want to use this %s?{/}
+This item will disappear from your inventory{nl}Resets your all Skill Points.
+{@st41}Use
+{@st59b}Classes{nl}{@st59s}- You can learn new skills by growing the Circle of your class. {nl} - You can choose from 3 available classes to advance to from your 1st to 2nd advancement. {nl} - You can advance to the same class up to 3 times. {nl} - You cannot change back to your previous class once you advanced to another class. {nl} - You have to consume all your Skill Points to be able to advance. {nl} - You can choose the same class.{nl}{@st59b}Skills{nl}{@st59s} - You can increase the rank of each skill up to level 5.{nl} - Attributes learned from your Masters can be seen below your skills. {/}
+{@st66b}Information{/}
+{@st66b}Achievements{/}
+{@st66b}Character Settings{/}
+{@st59}Collection (F11){/}
+{@st66b}Key Settings
+{@st42}Duration: %s{/}
+Removes the %s from{nl}your inventory, providing benefits for %s{nl}for this %s.{/}
+Removes the %s{nl}from your inventory and applies to this %s.{/}
+The duration of your Token can be seen in Character Settings.
+{@st59}Close{/}
+{@st43}{s18}Preview & Purchase
+Preview
+Equipped Items TP
+{@st49}Buy Equipped Item{/}
+Shopping Bag
+Available TP
+Shopping Bag TP
+Remaining TP
+{@st49}Confirm Purchase{/}
+{@st66b}Expand Storage
+{@st59}Expand Storage{/}
+{@st42b}Area{/}
+{@st59}Open Map{/}
+Number
+{@st43}Change Team Name{/}
+{@st59}Change Team Name{/}
+{@st59}Cancel{/}
+{@st66b18}Change Team Name{/}
+{@st66b18}Change Lodge{/}
+{@st66}A Team Name change costs 150 TP{/}
+{@st59}Enter a name{/}
+{@st41b}Free TP{/}
+{@st59}Close{/}
+{@st43}Lodge Decoration{/}
+{@st41b}Lodge Visitation{/}
+{@st59}Visit the lodges of other players.{/}
+{@st41b}Message Box{/}
+{@st59}Open the Message Box{/}
+{@st42}Character{/}
+{@st42}Free TP{/}
+{@st42}Event TP{/}
+{@st41b}Credits{/}
+{@st59}Credits{/}
+{@st42}Producer and Director{/}{nl}{@st41b}{s22}Seyong Kim{nl} {nl}{@st42}Art Director{nl}{@st41b}{s22}Jeongwon An (MAGGI){nl} {nl}{@st42}Art Designer{nl}{@st41b}{s22}Mina Kim{nl}Heajin Sung{nl}Minkyong Kang{nl}Junhyuck Park{nl}Jinyoung Bae{nl}Hyosun Shin{nl}Sehee Park{nl} {nl}{@st42}Senior Programmer{nl}{@st41b}{s22}Sanghyup Shin{nl} {nl}{@st42}Research Programmer{nl}{@st41b}{s22}Jaehoon Jung{nl} {nl}{@st42}Programmer{nl}{@st41b}{s22}Young Choi{nl}Seongbae Han{nl}Bora Kim{nl}YongGyun Lee{nl}Minkyu Kim{/}
+{@st42}Battle System Designer{nl}{@st41b}{s22}Girak Choi{nl}{nl}P.J. Kim{nl} {nl}{@st42}Level Designer{nl}{@st41b}{s22}Hongseok Ra{nl} {nl}{@st42}Screenplay Director{nl}{@st41b}{s22}Seungjo Lee{nl} {nl}{@st42}Lead Animator{nl}{@st41b}{s22}Sujin Lee{nl} {nl}{@st42}Animator{nl}{@st41b}{s22}Seunghyeon Myeong{nl}Minwoo Park{nl}Sookyung Kim{nl}Dongjin Kim{nl}Mijin Kim{nl} {nl}{@st42}Effects / SFX{nl}{@st41b}{s22}Hyejin Jung{nl} {nl}{@st42}Character Designer{nl}{@st41b}{s22}Jiae Park{nl}Junwon Hwang{nl}Subum Lee{nl}Dami Kim{/}
+{@st42}Background Designer{nl}{@st41b}{s22}Roch{nl}Rendering Studio Corp.{nl}Lisa Lee{nl}Dongho Kang{nl}JIN{nl}Yeonew{nl}Moje{nl}Hyunjung Lee{nl} {nl}{@st42}Content Design Manager{nl}{@st41b}{s22}Choungsu Lee{nl} {nl}{@st42}Content Designer{nl}{@st41b}{s22}Ujeong Son{nl}Wonjong Lee{nl}Orange Smith{nl}Jihyun Moon{nl}Jeongsu Kim{nl}Donghun Choe{nl}Seungyoung Jin{nl}Ginyi Lee{nl}Jongwook Moon{nl} {nl}{@st42}Scenario Writer{nl}{@st41b}{s22}Seion Kim{nl} {nl}{@st42}Conworlding Supervisor{nl}{@st41b}{s22}Martynas Siauciunas Kacinskas{nl}Kristina Kudriasova{/}
+{@st42}Sound Director{nl}{@st41b}{s22}sevin{nl} {nl}{@st42}General Sound Director{nl}{@st41b}{s22}MIGHT{nl} {nl}{@st42}Sound Designer{nl}{@st41b}{s22}VIKCO{nl} {nl}{@st42}UX/UI Manager{nl}{@st41b}{s22}Gilyong Lee{nl} {nl}{@st42}UI Designer{nl}{@st41b}{s22}Jooyeon Seo{nl} {nl}{@st42}DBA{nl}{@st41b}{s22}Manju Han{nl} {nl}{@st42}Quality Assurance Manager{nl}{@st41b}{s22}Yonghyun Kim{nl} {nl}{@st42}Quality Assurance{nl}{@st41b}{s22}Yonghyun Ahn{nl}Eunyoung Park{nl}Mancheol No{nl}Eunyeong Lee{nl}Yebin Lheem{nl}Jaesoon Jang{nl}Jisu Park{/}
+{@st42}Global Publishing Director{nl}{@st41b}{s22}Moojin Shin{nl} {nl}{@st42}Localization{nl}{@st41b}{s22}Jay{nl}Shawn{nl}Jenny{nl}John{nl} {nl}{@st42}Technical Support{nl}{@st41b}{s22}Kangwoo Kim{nl}Wanjae Lee{nl}Sunyong Lee{nl}Sungkie Park{/}
+Select Starting City
+{@st44}Klaipeda
+{@st59s}A mining town that has progressed thanks to the Crystal Mine.{nl}This city received minor damage during Medzio Diena.{/}
+{@st44}Orsha
+{@st59s}We tried to protect ourselves by relying on the giant castle during Medzio Diena.{nl}But the horrifying disaster even swallowed the castle.{/}
+{@st59}Return to my Lodge.{/}
+{@st43}{s24}Lodge Name{/}
+{@st59}Lodge Name{/}
+{@st59}Lodge Settings{/}
+{@st42}Reset Count
+{@st41}Message
+{@st59}Show Quest Dialogue{/}
+{@st59}Abandon Quest{/}
+{@st49}Preview{/}
+{@st49}Add{/}
+%s ate a %s.
+Amount Left
+Amount Left : %s{/}
+{@st41}Buy{/}
+{@st45tw2}Points{/}
+Ascending by Name
+Descending by Name
+By Date
+{@st42}Token Benefits{/}
+{@st66b}Change Signboard Title
+{@st41b}Eat
+{@st41b}Number
+Cash Garden %s{/}
+Show Online
+Hangout Entry
+Allow guild members only
+War Records
+Guild Wars List
+Remaining Time
+Available Tower
+Upgrade Guild
+Contribution Rank
+Guild Skills & Information
+{@st42}%s Benefits{/}
+Benefits
+Team Storage
+{@st59}Close{/}
+You can store tradable items, but at the cost of 1 Potential.{nl}Withdrawing from Team Storage will deduct your remaining{nl}trades by 1 regardless of the number of items you take out.
+Retrieve Item
+General : /s (chat){nl}Shout : /y (chat){nl}Party : /p (chat){nl}Whisper : /w Team Name (chat){nl}Reply : /r (chat){nl} {nl}Able to switch with the Tab key
+{@59}Close{/}
+Challenge
+Please choose to proceed
+{@st63_yellow}Abandoned :{/}
+Receive a reward and leave.
+{@st63_yellow}Challenge :{/}
+Moving to the next floor
+{@st43}Relic Collector{/}
+{@st59}Close{/}
+{@st59b}Exchange Items{nl}{@st59s} - Able to exchange items obtained from the Earth Tower{nl} - The exchange begins after inserting the item ingredients in the slot.{nl}{/}
+F
+{@st59}Close{/}
+{@st59}Place an accessory{/}
+{@st66b}Opening one more time costs silver.{/}
+{@st66b}(Up to two times for users with Token benefits){/}
+{@st41b}You have exceeded the number of times allowed.{/}
+{@st66b}Basic Info
+{@st66b}Property
+The guild master is searching for Guild Event participants.
+{@st63_yellow}Members :{/}
+{@st63}%s participants (Login %s){/}
+{@st63_yellow}Location :{/}
+Cobalt Forest
+{@st63_yellow}Objective :{/}
+{@st43}Guild Lv. %s{/}
+{@st66b}Upgrade & Rank
+{@st66b}Guild Attributes
+Guild Storage
+{@st59}Close{/}
+* The guild master can send items to guild members.{nl}* Items can be collected through the Message Box.
+{@st41b}Enchant
+{@st41b}Enchant Scroll{/}
+{@st59}Close{/}
+{@st66b}Consumes 1 Enchant Scroll{/}
+{@st42b}Current Scrolls  : %s{/}
+{@st66b}Missions{/}
+{@st66b}Saalus Convent{/}
+{@st66b}Earth Tower{/}
+{@st59b}Instanced Dungeons{nl}{@st59s}Content where your group has to achieve certain objectives in independent instanced zones.{nl}You can either create a party before entering or automatically search for a party to challenge a dungeon.{nl} - Dungeons : Enter by talking to the dungeon entrance NPC in each respective level zone.{nl} - Missions : Enter by talking to the Mercenary Post Receptionists in Fedimian.{nl} - Saalus Convent Mission : Enter by talking to Sister Lhasa at Saalus Convent.{nl}{/}
+{@st59}Close{/}
+{@st59}Show/Do not show{/}
+{@st45tw2}Queuing Time{/}
+Bid
+Remaining Bidding Time
+Item Dice
+{@st42}%s Benefits{/}
+This item will disappear from your inventory{nl}and all %s will be reset.{/}
+The remaining time can be seen in Character Settings.{/}
+Retrieving data.
+{@st66b}Ranking{/}
+{@st66b}Spectate
+{@st41b}Quit Spectating
+Blue Team
+Red Team
+{@59}Show in a new window{/}
+Adventure Journal Updated
+{@st41}Exchange
+Come to the merry kingdom
+Team Battle League Schedule
+Recent Records
+{@st45tw2}Category{/}
+{@st41c}%s{/}
+{@st41c}%sm{/}
+Temple Shooter is gathering the Vubbes back to the Crystal Mine that is now void of Mirtis' rule.{nl}Defeat Temple Shooter and help make Crystal Mine safe once more.
+{@st41c}Chapter %s{/}
+Name & Class
+{@st41b}Refresh
+View Recent History
+Spectate
+{#000000}%s W{/}
+{@st66b}Point Shop
+Daily Points
+Purchased Points
+Records
+Storage
+Rank %s
+Defeats : %s
+Damage : %s
+Increased maximum buff count
+{@st65}Damage: %s{/}
+{@st65}{s12}Achievement{/}
+{#16120e}Achievement{/}
+Count: %s
+Damage: %s
+{@sti9}Kill Ranking
+{@sti9}Damage Ranking
+1 extra instance entry for missions and dungeons
+2 extra instance entries for missions and dungeons
+{@st41} My Summonee Info
+{@st41} Guild Battle Ranking{/}
+Guild Battle Ranking
+{@st59}Close
+{@st66b} Real-time Standings
+{@st66b} Weekly Standings
+{@st66b} All Time Standings{/}
+My Guild Ranking
+{@sti1}%s's Location{/}
+Last week Standings
+1st
+Guild Reward List
+{@st41}Summoned Creature : {#ffcc33}%s{/}
+{@st41}Fragments Required : %s
+ATK : {@st41b}%s
+DEF : {@st41b}%s
+STR : {@st41b}%s
+CON : {@st41b}%s
+INT : {@st41b}%s
+DEX : {@st41b}%s
+SPR : {@st41b}%s
+{@st42}Hairstyle Color{/}
+{@st42}Available Titles{/}
+Team Info
+{@st66b}Change Lodge{/}
+{@st43}{s26}Team Level %s{/}
+{@st66b}Team Info
+{#2c140c}Average Level : %s{/}
+{@st41b}Join
+{@st42} Character Greetings{/}
+[Server] Guild Name
+Record / Score
+[Created: %s ago]
+{@st66b}Use Camera Vibration{/}
+{@st42}If both sides are using Tokens,{nl}the trade properties of the weapon{nl}will not be changed.{/}
+{@st66b}Apply Background Effect
+{@st66b}Apply Dead Parts
+{@st66b}Apply Character Silhouettes
+{/}Do you want to delete your {b}{s20}Companion{/}{s43}{@st43}%s{/}{/}{b}{s20}?{/}
+{/}{b}{s20}It cannot be recovered after being deleted.{/}
+{/}{b}{s20}Companion{/}{s43}{@st43}%s{/}
+{/}Deleting in {b}{s20}%s seconds.{/}
+{s18}{ol}{#ffffcc}No{/}
+{s18}{ol}{#ffffcc}Cancel{/}
+Only Token users have access to Team Storage. Tradable items can be stored here.
+Purchase TP
+{@st42}TP Purchase
+{@st43}{s22}Steam Inventory Item
+{@st45tw2}TP Purchase{/}
+Given TP
+{@st49}Use{/}
+{@st42}Guild War
+Declare Neutral
+{@st66b}Skill Control Speed (%s){/}
+{@st42}If both parties are using Tokens,{nl}tradable equipment items will not become untradable.{nl}{#FFFF00}Consumables and material items will become{nl}untradable regardless of Token use.{/}
+{@st59}Close{/}
+{@st43}{s22}Team Level %s{/}
+{@st41}Report{/}
+Report an item suspected of being used in a problematic trade.
+{@st42}Item{/}
+{@st42}{img silver 20 20} Stored Amount{/}
+{@st66b}{img in_arrow 20 20}In
+{@st59}Make a deposit.{/}
+{@st66b}{img chul_arrow 20 20}Out
+{@st59}Make a withdrawal.{/}
+{@st42b}{img silver 20 20} Amount{/}
+Current Waiting Queue :
+Receiving information.
+Minimize Chat
+Chat Force Downscroll
+{@st43}Event Shop{/}
+{@st59}Close{/}
+{@st41}Stat
+{@st59}Regional GvG
+{@st43}Regional GvG Rankings
+Regional GvG Rankings
+{@st59}Close
+{@st59b}Regional GvG{nl}{@st59s} - Rewards are given on a weekly basis and the rankings will reset.{nl}- Refer to the Rewards List for more details.{nl}{/}
+{@st66b}Rank %s{/}
+{@sti8}{s18}{ds}Participants (%s){/}
+{@st41}Declined{/}
+{@st66d}%s participating (Among %s logged in){/}
+{@st41}Move to Zone
+{@st46}Guild Battle Results{/}
+{@st45tw2}Battle Duration{/}
+{@st43b}Guild Tower HP{/}
+{@sti9}Total Kill Count{/}
+{@stz1}Total Death Count{/}
+{@sti1c}Record{/}
+{@sti6}%s W {@sti7}%s L{/}
+{@sti9}%s W {@sti6}%s L{/}
+{@st45tw2}Kill Rank
+{@st45tw2}Name
+{@st45tw2}Kills
+{@st45tw2}Deaths
+{@st59}Lens{/}
+{@st41}Sacrificial Material
+{@st66b}Show Other Characters' Effects{/}
+{@st66b}Apply Background Effects{/}
+{@st59}Shows background effects and graphics.{/}
+{@st66b}Apply Dead Parts of Small and Medium sized Monsters
+{@st59}Shows dead parts of defeated monsters.{/}
+{@st66b}Show Character Silhouettes{/}
+{@st59}Characters hidden behind the background are shown in silhouettes.{/}
+Use %s?{/}
+Unable to Use :
+Day Hour Minute Second
+{@st42b}Siauliai{/}
+{#000000}Score{/}
+{#000000}%s Points{/}
+Regional GvG Rankings
+{@st66b18}※ The item is consumed when you change name.{/}
+{@st42}Show Login Notifications
+{@white_16_ol}Guild Member{/}
+{@white_16_ol}Friend{/}
+{@st66d}{s18}{#FFFF18}[%s]{/}{nl}{@st66d}{s18}{#FFFFFF}Upon removal, one star will be lost.{/}
+{@st66b}Removable Effect{/}
+None.
+{@st41b}Unequip{/}
+{img icon_item_tospoint 24 24}{@st41b}Consume 5 TP{nl}Unequip card without the loss of a star{/}
+{@st41b}Confirm
+{@st42}My Trade Items{/}
+{@st42}Their Trade Items{/}
+{@st66b}If both sides are using Tokens,{nl}the trade properties of the equipment are unchanged.{nl}Consumables and material items will become untradable{nl}regardless of the usage of Tokens.{/}
+Token Match
+{@st42}The item in question will become untradable after the trade{/}
+{@st42}The item in question will remain tradable after the trade{/}
+{@st41b}Trade
+{@st41b}No
+{@st66d}The item properties will not be changed{nl}as both sides are using Tokens.{/}
+{@st66d}The item properties will be changed{nl}as both sides are not using Tokens.{/}
+{@st42}List of items that will become untradable after the trade{/}
+{@st66b}{s20}Your character is currently in {/}{s20}{#770000}combat{@st66b}{s20}.{/}
+{@st66b}Cancel{/}
+{@st66b}Real-time Standings
+{@st66b}Previous Season Standings{/}
+Previous Week's Standings
+20 x 300 TP Vouchers
+Receive Rewards
+{@sti1c}Weekly Rankings{/}
+{@st66b}Uphill Defense{/}
+Level in ascending order{/}
+Level in descending order{/}
+{img %s 12 12}{/} {@st66b}{s18}Monster Card{/}
+Transcend Item
+Transcendence
+{@st59b}Transcend Item{nl}{@st59s}- Another way to enhance the item's performance other than by the anvil{nl}- Items that can transcend : Weapons, armor and accessories{nl}- Transcendence Success Rate = Used Ingredients / Maximum Required Ingredients{nl}- Increases Transcendence Stage by 1 on success (Maximum of 10 Stages){nl}- Decreases Transcendence Stage by 1 on failure (No Potential loss){nl}- Transcended items cannot be traded{/}
+{@st42}Stage %s{/}
+Extract Blessed Gem
+{@st59b}Extract Blessed Gem{nl}{@st59s}- Extract Blessed Gem from transcended items{nl}- Extraction Requirements : Hammer of Dismantlement{nl}- You'll retrieve some of the Blessed Gems used for Transcendence even though the item will be destroyed. {nl}- You cannot do this at Transcendence Stage 0.{/}
+Extraction Results
+Extract Item
+{@st59b}Extract Item{nl}{@st59s}- Remove the transcendental effects from a transcended item{nl}- Extraction Requirements : Spell Rod{/}
+Item Extraction Results
+Name of (Package) being sold
+{@st67}{s18} ※ You can only purchase 1 product per account.{/}
+{@st67}{s18} ※ The Package and all included items are untradable.{/}
+{@st66d}{s20}Purchase {/}
+{@st66d}{s20}Cancel{/}
+{@st67}{s26}The items cannot be refunded.{/}
+{@st66d}{s26}Confirm Purchase{/}
+{@st66d}{s26}No{/}
+{@st66d}{s26}Right to Cancel{/}
+{@st59}View suggested dungeon locations{/}
+{@st41}Lodge %s (%s/%s){/}
+{@st59}Move to Lodge.
+{@st59}Please select a server.{/}
+{@st59}Please select a server.{nl}The Vakarine, Laima, Zemyna, Gabija servers have been merged into the Vaivora server.{/}
+{@st66b}Move to other lodge
+{@st59}Move Lodge.{/}
+{@st59}Delete Companion
+You feel better.
+Carpet-type
+{@st42b}{s16}Charge{/}
+{@st66b}{s16}Preview{/}
+{@st42b}{s16}Add{/}
+Unlearned
+* When battling
+{@st66d}Equipped Weapon
+Change Appearance
+{@st45tw2}Material Weapon{/}
+{@st43}Enchant Armor{/}
+{@st66b}Enchant{/}
+{@st59}Close{/}
+{img silver 20 20}Price
+ Store Name
+{@st66b}Shop{/}
+{img silver 20 20}Price
+{@st41b}Confirm
+{@st41b}Close
+{img squaier_buff 24 24}24 hours{/}
+{@st66b}Details
+{@st66b}War
+{@st43}Homunculus Info{/}
+Duration
+{@st66b}Physical Attack{/}
+{@st66b}Magic Attack{/}
+{@st66b}Physical Defense{/}
+{@st66b}Magic Defense{/}
+{@st42}Skill Settings{/}
+{@st66b}Up to four Homonculus AI skills can be set.{nl}Once applied, the set skill cannot be changed.{/}
+Name{/}
+Settings{/}
+{@st59}Close{/}
+{@st66d}You cannot revert this when the skill is applied.{nl}Do you wish to proceed?{/}
+A spell voucher that quickly{nl}defeats monsters within an instanced dungeon.
+Instance Clear Voucher
+Warning
+ The monsters defeated by the pillar of light{nl}will not be recorded in the Adventure Journal, and{nl}items will be dropped near the pillar of light.{nl}Please be aware of possible item loss.{nl}The used voucher will disappear instantly{nl}and it can only be used within instanced dungeons.{/}
+Do you wish to use the Instance Clear Voucher?{/}
+{@st59b}Blessed Gems Extraction{nl}{@st59s}- Extract a Blessed Gem from a transcended item{nl}- Extraction Requirements : Hammer of Dismantlement{nl}- You'll retrieve some of the Blessed Gems used for Transcendence even though the item will be destroyed.{nl}  : Current Success Rate / 40% of the amount of Blessed Gems will be returned. {nl}- You cannot use this when your item is in Stage 0 of Transcendence.{/}
+Mission Failed
+All players have been incapacitated.
+Confirm to move out of the tower.
+{@st43b}{s20}Confirm{/}
+{@st41}Auto-Attack
+{s16}{#000000}Friends Online %s/%s{/}
+{@st43}Go to Friend{/}
+{@st43}Portal
+{@st41b}Save Position
+{@st59}Close{/}
+{@st66b}Saved Portals: %s/%s{/}
+{@st43}Craft Spellbook
+{@st43}Switch Gender Shop{/}
+{@st66b}Change{/}
+{@st59}Close{/}
+{img silver 20 20}Price 
+{@st41b}Open
+Before{/}
+After{/}
+{@st66d}Change Gender{/}
+Warning{/}
+Remove all equipped gear before you proceed{nl}Your class costumes will be changed with your gender{/}
+{@st67}All the premium items that were gender specific will{nl}no longer be equippable{/}
+Stat
+{@st66d}{s30}The webpage reached its end. {nl} Please, press Close.{/}
+View from the Player's POV
+All Characters
+{@st66e}%s{nl}Change from %s to {@st66d_y}%s{/}
+{@st66b}Restart{/}
+{@st66d_y}%s{/}
+Selected Option:{nl}%s
+Guild Attributes & Info
+{@st66b}Save
+{@st42}One Line Message Board - Post Up to 3 Times A Day.{/}
+{@st42}Records
+GvG Ranks
+{@st66e}Forge (%s/%s){/}
+{@st66e}Shield Charger (%s/%s){/}
+{@st45tw2}Guild Member Only{/}
+{@st42}Learning [%s] is required.{/}
+{@st66b}Coordinates{/}
+{@st42b}Open Portal
+{@st66b}Portal Cooldown{/}
+{@st66d_y}{s20}All{/}
+{@st43}Exchange List{/}
+{@st41b}Medals : {/}
+{@st41b}Total Medal Obtained : {/}
+Do you wish to spend medals for the items?
+Once exchanged, you cannot revert it.
+Do you wish to exchange the item for medal?
+Exchanging the purchased back to medal might cause some loss due to the exchange rate.
+{@st43}{s24}TP Shop
+{@st43}{s24}NEW{/}
+  {img Nexon_cash_mark 30 30} Owne{/}{/}
+{@st66d}{s20}Recharge Steam Wallet{/}
+{@st66d}{s18}Preview/Purchase{/}
+{@st66d}Reset Preview{/}
+{@st66d}Finalize Purchase{/}
+  Current TP{/}
+  Remaining TP{/}
+{@st66d}Exchange to Medal{/}
+{@st66d}Exchange to Item{/}
+  Current Medals{/}
+  Remaining Medals{/}
+Medal Price
+{@st66b}TP Purchase{/}
+{@st66b}Exchange Shop{/}
+Exchange items for medals
+Exchange medals for items
+Buyables
+Sellables
+{@st66d}{s18}Top 5 Sellers{/}
+{@st55_b} Enter a keyword.{/}
+ TP Purchaseable
+{@st66d}{s18}Special Offer{/}
+{@st66d}Buy{/}
+{@st66d}{s18}Cash Storage{/}
+{@st43d}{s18}- Can only be used when the item purchase is finalized.{nl} -Right-click to finalize the purchase.{nl}- The purchased item will be on your character's inventory.{nl}- Items on Cash Storage can be refunded within 7 days of purchase.{/}
+{@st67}{s18}A purchase cannot be reverted once it is finalized.{/}
+{@st66d}{s18}Yes{/}
+{@st66d}{s18}No{/}
+{@st66}{s18}Right to Cancel{/}
+{@st42b}{s16}Purchase{/}
+{@st42}{s16} Medal Cost {/}{img icon_item_recyclemedal 20 20}{/}
+{@st42}{s16} Obtained Medal {/}{img icon_item_recyclemedal 20 20}{/}
+Owned: %s
+{@st42b}{s16}Purchase{/}
+{@st42b}{s16}Exchange for Medal{/}
+Medal Consumed
+Medal Obtained
+{@st43}%s obtained!{/}
+{@st42b}Open Goddess' Blessed Cube X %s
+{@st42b}Open Leticia's Secret Cube X %s
+{@st41}Open Compensation Cube
+{@st59}Close{/}
+{@st66b}Might obtain something mysterious{nl}when opened.{/}
+{@st41}Entry Count Reset : 06:00 AM Every Day{/}
+Name/Location
+Entry Level
+Entry Count
+Enter Dungeon
+%s/%s
+Main Obtainable Equipment
+{@st66b}Auto Match{nl}Re-Enter
+Re-entering the location previously matched to.
+Auto Match
+Main Monster
+Waiting for the participation from the party members.{nl}A message will be sent out to players in the appropriate level bracket.
+Auto Match{nl}with Party
+Auto Match with{nl}Current Members
+{@st41b}Enter Now
+Total Waiting Queue: %s
+Awaiting the participation from the party members.
+{@st66b}Cancel Queue
+Entering now...
+{@st59}Close the Message.{/}
+{@st43}Identify{/}
+{@st59}Close{/}
+{@st66}List of Identifiable Items
+{@st41b}Identification Cost{/}
+{@st41b}Identify{/}
+Name
+{@st43}Companion Shop
+{@st66b}Adopt{/}
+{@st66b}Pet Food{/}
+{img icon_item_silver 20 20}{@st41b}Proceed {/}{img white_right_arrow 15 18}
+{img icon_item_silver 20 20}{@st41b}Remaining Fund {/}{img white_right_arrow 15 18}
+{@st66b}Clear{/}
+{@st41b}Proceed {/}{img white_right_arrow 15 18}
+{@st41b}Remaining Fund {/}{img white_right_arrow 15 18}
+Level 1 cards do not consume 5TP.
+{@st66b}Real-time Standings
+Last Season Standings
+Increases EXP/Drop Rate{nl}up to 3 times by consuming{nl}the entry counter and{nl}Instanced Dungeon Multiply Tokens.
+{@st41b}Activate Multiply Mode
+{@st41b}Cancel Multiply Mode
+Multiply Mode Number
+Please, wait.
+{@st66b}Equipment{/}
+{@st66b}Item{/}
+{@st59b}Item Transcendence{nl}{@st59s}- Enhances an item's performance in a way different from the anvil enhancement{nl}- Transcendables : Weapon, Armor, Accessory{nl}- Transcendence Chance = Amount of Ingredients / Required Minimum{nl}- If successful, Transcendence level increases by 1(Max. 10){nl}- If failed, Transcendence level along with potential by 1(Transcendence level does not go below 1){nl}- Transcended Item Cannot Be Traded{/}
+{@st59b}Blessed Gem Extraction{nl}{@st59s}- Extracting Blessed Gems from Transcended Items{nl}- Ingredient for Blessed Gem Extraction : Hammer of Dismantlement{nl}- A portion of Blessed Gems used on the item can be refunded. {nl}   : Depending on the current transcendence level and remaining potential, the refund rate is minimum 20% to maximum 90%. {nl}- Cannot be used on Transcendence Level 0.{/}
+{@st66b}Save{/}
+{@st66b}Show Dmg. Of Other Characters
+{@st59}Please select a server.{/}
+{@st59}Record FPS and Activate Replay.{/}
+Current
+Max.
+{@st66b}Learn
+{img white_right_arrow 24 24}{@st66d_y} Total Cost{/}
+{@brown_16}Guild Participation{/}
+{@black_18_b}Daily{/}
+{@black_18_b}Weekly (Reset every monday){/}
+{@brown_16}Individual Participation{/}
+Guild Authority
+Use the Rank Reset Voucher?
+The item will disappear from your{nl}inventory and your Rank choices will be reset.
+{@st66d_y}Conditions and Precautions{/}
+{@st58}No Items Equipped{/}
+{@st59}No Attribute Learning in Progress{/}
+{@st59}No Companions Following{/}
+{@st59}Character in City{/}
+{@st59}No Shop Skills in Use{/}
+{@st59}No Crafting in Progress{/}
+{@st59}No Guild Master Templar Character{/}
+* Equipped Monster Cards will be automatically{nl}removed without any penalties.
+* Attribute levels taken before the reset{nl}can be learned again at no cost after the reset.
+* EXP cards equivalent to the last Rank to have achieved{nl}
+Class Level 15
+ will be provided to your inventory.
+* Class-specific costumes received{nl}by Rank advancement will be deleted.
+* You will return to the barracks after using the Voucher.
+{@st66b}Optimization (Beta){/}
+{@st59}ON/OFF function for optimized multithread processing.{/}
+Transaction
+Deposit
+Withdrawal
+Remaining
+Identify the selected equipment.
+{@st66b}Identification{/}
+{@st66b}Materials{/}
+Item Name
+{@st43}Forgery{/}
+{@st41b}Change
+{@st68b}{s18}Collection{/}
+{@st68b}Complete(%s){/}
+{@st68b}New(%s){/}
+{@st68b}Incomplete(%s){/}
+{@st66b}See All Effects{/}
+{@st59}See the total of effects obtained.{/}
+{@st59}Search the name of a collection or effect.{/}
+{@st68b}{s18}Complete(%s){/}
+{@st59}Close the image.{/}
+{@st59}Close the item window.{/}
+{@st41b}%s {nl}You have obtained an item!
+{@st59}Reexpands your Guild Storage.{/}
+Can only be used in instanced dungeons and mercenary missions.
+{@st66}Select Equipped Item
+{@st59b}Blessed Gem Extraction{nl}{@st59s}- Extracts Blessed Gems from transcended items.{nl}- Materials needed: Hammer of Dismantlement.{nl}- Extracting Blessed Gems will delete the item, but retain part of the gems. {nl}   : You will receive 20% to 90% of the Blessed Gems, depending on the item's transcendence stage and current potential. {nl}- Your item must be transcended to at least stage 2 in order to extract the gems.{/}
+!! Map Exploration Complete !!
+{@st41b}Collection{/}
+{@st66b}[%s]{nl}Obtained piece.{/}
+{@st59}Close window.{/}
+{@st41b}Combine selected {@sti9}%s badges{/}?{/}
+{@st59b}Combine Badges{nl}{@st59s} - Select the badges from your inventory.{nl}{/}
+{@st41b}Combine
+{@st66b}Items to Repair
+{@st66b}Use Item Drop Effects
+{@st66d}Appraiser [Forgery] Item{nl}Time Left %s
+1m30s
+{@st59}Restart Quest{/}
+{@st59}Register item in collection.{/}
+Magic Defense Bracelet
+My Item
+Appraiser %s
+Upon{nl}equipment change
+No items equipped on Appraiser.
+Investment
+{@st59}Shift + Tab to Toggle{/}
+{@st59}Group Chat{/}
+{@st59}Group Chat List{/}
+{@st59}Chat Settings{/}
+{@st59}Add Chat Window{/}
+{@st59}Double-click to Minimize/Maximize{/}
+{@59}Invite{/}
+{@59}Settings{/}
+{@59}Member List{/}
+{@st66d}Chat List
+{@st66b}Friends
+{@st66b}Groups
+{@st66e}Create New Group Chat
+{@st59}Close Chat List{/}
+{@st42}Group Settings
+{@st42}Color Settings
+{@st66}OK
+{@st66}Exit Room
+{@st66b}Tabs
+{@st66b}Screen
+{@st66}Transparency
+{@st66}Show Speech Bubbles
+{@st66}Show Shout Chat on Top
+{@st66}Font Size
+{@st66b}Show Login Message
+{@st66}Guild Members{/}
+{@st66}Friends{/}
+{@st66b}If both trading players are Token users,{nl}tradable equipment, consumables,{nl}gems and other items will remain tradable.{/}
+{s18}Items with Expiration Date
+Item(s) close to expiration date. Close?
+{@st43}{s20}Expired Items{/}
+{s17}Delete all items above?
+Main Drop Items
+{@st41b}Match 2 to 4 Players{/}
+{@st41b}Match 2 to 4 Players
+{@st59}Delete Expired Items{/}
+{@st45tw2}Items Purchased{/}
+{@st45tw2}Items Sold{/}
+{@st45tw2}Amount{/}
+{@st45tw2}Sold{/}
+{@st45tw2}Purchased{/}
+{@st45tw2}Cancelled{/}
+{@st45tw2}Others{/}
+{@st42}Join
+{@st42}Close
+{@st59}Close Message Box{/}
+{#62100c}Untradable items: %s
+Tradability
+Shop
+Personal
+Tradability
+%s Item Description %s
+{@59}Create Invite Tag{/}
+{@59}Leave{/}
+%s items sent.
+Item
+Expiration Date
+Market silver instantly retrievable
+Registration Outside of Max./Min. Price Allowed
+Movable via Team Storage
+{@st66} * If the purchase list doesn't show up properly due to temporary error, please try click the Retrieve all button for receiving item.{/}
+{@st68}Reload{/}
+{@st68}Retrieve all{/}
+Required Points
+{@st66b}See More{/}
+Click to see more friend info.
+I agree to being matched in a party of 2 to 4 players.
+My points:
+{@st66b}Purchase Attribute Points
+{@st66d}Purchase Attribute Points
+Purchase Rate
+Can Purchase
+Enter the amount of points to purchase.
+Amount Spent
+Amount Left
+{@st66b}Purchase
+{@st66b}Cancel
+You can store tradable items.{nl}Silver storage is available to Token users.
+{@st41b}This cube cannot be reopened.{/}
+{@st41}Open Costume Cube
+{@st66b}Use to obtain a costume.{/}
+* After the reset, you will receive attribute points{nl}equivalent to the level of your attributes prior to the reset.
+* Class EXP Cards equivalent to the last Class Level{nl}you achieved will be sent to your inventory.
+{@st42b}Open Leticia's Secret Cube X %s
+{@st43}{s22}Recipe Cube{/}
+{@st41}Select a recipe and confirm{/}
+{@st41b}Receive{/}
+{@st66b}Group Settings
+{@st66b}Color Settings
+{@st66d}If at least one player is not a Token user,{nl}after the trade the item will become untradable.{/}
+{@st42b}Start{/}
+To start fishing, select your bait.
+Place your bait here.
+Close Tackle Box.
+{@st43}Tackle Box{/}
+{@sti1}Items{/}
+{@st42b}Receive Items{/}
+{@st42b}Stop Fishing{/}
+{@sti1}Fishing Cycles{/}
+{@st43}Fishing Ranking{/}
+{@st59}Close Fishing Ranking.{/}
+Points
+You can move to your desired location.
+{nl}Daily entries are counted differently for each kind of dungeon. 
+{@st59}Close Instanced Dungeons.{/}
+{@st43}Instanced Dungeons{/}
+Name
+One additional daily entry granted to Token users.
+Entry Level
+Difficulty
+Order
+{@st66b}By level - low to high{/}
+{@st66b}By level - high to low{/}
+{@st66b}Daily entries reset every day at %s.{/}
+{@st43}{s22}See Location{/}
+{@st59}Close Location.{/}
+{@st43}NEWS{/}
+{@st66b}Click a banner to go to the event announcement.{/}
+{@st59}Close Events.{/}
+{@st59}Exchange Equipment.{/}
+Open Event Banner
+{@st66b}Show No. of Fragments{/}
+{@st42}Necronomicon Fragments{/}
+{@st66b}Show Amount of Poison{/}
+{s20}Poison
+{@st42}Poison in Poison Pot{/}
+{@st59}Tackle Box{/}
+{@st59}Dungeon Info (F10){/}
+{@st66b}See Basic Character Info{/}
+{@st66b}Show HP/SP Under Character{/}
+{@st66b}Use multithread (Beta){/}
+{@st59}Applies multithread update (Beta).{/}
+{@st66d}{s18}TP Cubes{/}
+{@st43d}{s18}See our official website for the lists of items contained in TP Cubes.{/}
+{@st41}Select and confirm.{/}
+{@st59}Help{/}
+Days/Hours/Minutes
+{@st59}New{/}
+{@st59}Closing Soon{/}
+{@st59}Exchange Period{/}
+{@st66b}Receive Rewards
+{@st59}Wings{/}
+{@st43b}Adventure Journal
+{@st59}Adventure Journal Ranking
+{@st59}Team Battle League Ranking{/}
+{@st59}Uphill Defense Ranking{/}
+{@st59}Main{/}
+{@st59}Monsters{/}
+{@st59}Items{/}
+{@st59}Crafting{/}
+{@st59}Life{/}
+{@st59}Dungeons{/}
+{@st59}Growth{/}
+{@st59}Exploration{/}
+Team
+Character
+{img test_cooltime 24 24}Points reset on the 1st day of every month.{/}
+{@st41b}Top Ranks
+{@st41b}My Nearest Ranks
+{@st43b}Total %s Points
+{@st66b}More Monsters
+{@st66d_y}%s Points / {/}{@st42}%s Points{/}
+Defeated
+{@st41b}Area
+Descpription
+Subcategory
+{@st66b}More Items
+Attributes
+Total Sales
+{@st66b}More
+Name A-Z
+Name Z-A
+%s Fishes Caught
+Clears
+Location
+%s
+Class Points %s
+Team Level %s
+Exploration
+%s % Explored
+Rec. Level
+Exploration
+Type
+Acquisition Points %s
+Acquisition Points %s
+Status
+SPR +6
+Adventure Journal Ranking
+{@st66d_y}%s{/} Battles {@st66d_y}%s{/} Wins {@st66d_y}%s{/} Defeats
+%s Points
+{@st59}Participation{/}
+Uphill Defense Ranking
+Total Points
+{@st66b}Point Shop{/}
+{@st66b}Map Exploration
+{@st66b}Quests/Achievements
+{@st66b}Collection
+{@st66b}Personal Shops
+{@st66b}Fishing
+{@st59}Swordsman{/}
+{@st59}Wizard{/}
+{@st59}Archer{/}
+{@st59}Cleric{/}
+{@st66b}Spectate{/}
+Area: %s
+Area
+{@st42}{s18}My Character List
+[%s] Reward List
+ⓘ Collect your rewards at the Wings of Vaivora.
+Retrieve All
+Territory Wars Alert
+Spot Last Seized By
+Current Points
+My Guild
+{@st66d}Return to a city in {s20}%s seconds.{/}
+{@st66d}Return to city{/}
+{@st43}{s20}Protecting Guild{/}
+Protecting Guild
+{@st41_red}Removable Effect{/}
+{@st43}Exchange Artifact{/}
+{@st59}Close Exchange Artifact{/}
+{@st41b}Exchange
+To start fishing, select your bait.
+{@st43b}{s22}Stage %s Tackle Box{/}
+{@st66d_y}{s22}Stage %s Tackle Box{/}
+Max. %s slots{nl}Fished %s time(s)
+{img icon_item_tpBox_30 30 30}{@st43b}{s18}%s TP Upgrade{/}
+{@st43}Image %s{/}
+Enter
+{@st59b}Enter image{nl}{@st59s}- Browse for an image and register it{nl}- Refresh to update the list, then select the image
+{@st66b}{s18}Open folder
+Open the folder containing the image.
+Update the list.
+{@st41b}{nl}Confirm
+{@st41b}{nl}Cancel
+{@st43}Guild
+Guild Master
+Founded
+Members
+%s/%s
+Funds
+{@st66}News
+{@st66}Notes
+News
+Notes
+Member {img %s 13 13}
+Level {img %s 13 13}
+Position {img %s 13 13}
+Contribution
+{@st66b}{s18}Authorities{/}
+%s online      %s offline
+Show online
+{@st41b}Invite
+{@st66d_y}{s18}Guild Level{/}
+{@st43b}{s18}Guild Tower(%s/1){/}
+Benefits
+Guild benefits updated to current Templar's Guild Tower level.
+Attribute Points: %s
+ⓘ Guild upgrading is only available inside the Guild Tower.
+{@st43b}{s18}Guild Items{/}
+{@st43b}{s18}Guild Funds{/}
+Note
+{img icon_item_silver 24 24} Amount
+{img in_arrow 20 20}{@st66b}{s18}Deposit  {/}
+ⓘ This item can be distributed to guild members by the guild master, after which it becomes bound to each character that receives it.{nl}ⓘ To receive the item, check your lodge Message Box.
+{@st43b}{s18}Guild Wars{/}
+Neutral Status Canceled Alert
+The alert is displayed starting 1 day before neutrality is canceled.{nl}Only the Guild Master can change this option.
+ⓘ Guild Towers destroyed in wars can be rebuilt after 24 hours.{nl}ⓘ Declarations of war can be done at the opponent guild's tower.{nl}ⓘ The war starts 1 hour after it has been declared.{nl}ⓘ After declaring war, your guild cannot be disbanded until after the war ends.{nl}ⓘ You cannot declare a war without a Guild Tower.
+{@st43b}{s18}Guild Territory Wars{/}
+What are Territory Wars
+Status
+Not Participating
+ⓘ Guilds with Spots seized are automatically participating.{nl}ⓘ After setting the status to  
+, you cannot transfer the position of Guild Master.{nl}ⓘ Only a Templar Guild Master can change the participation status.{nl}ⓘ This option can only be changed until 5 minutes before the Territory Wars begin, or after 1 minute after they end.{nl}ⓘ The participation status can be changed regardless of whether your guild has a tower or not.
+{@st43b}{s18}Spot Benefits{/}
+Spot Areas
+Grade
+Silver Reward (%)
+Spot Rewards
+ⓘ Spot rewards are %s every week.{nl}ⓘ The rewards include  
+ of your Market fees of the previous week.{nl}ⓘ Spot rewards are delivered as Copper Bars.{nl}ⓘ The maximum possible amount rewarded is %s hundred million Silver.{nl}ⓘ Please check our official website for more information.
+Tuesday 06:00
+{@st43b}{s18}Guild Emblem{/}
+{@st41b}{nl}Image %s{/}
+ⓘ The first emblem can be registered for free.{nl}ⓘ Changing the emblem costs %s0,000 Silver.{nl}ⓘ Your image must be sized %s and in %s format.{nl}ⓘ The file name must be composed of only alphanumeric characters.{nl}ⓘ The use of problematic images can result in restrictions.
+{@st43b}{s18}Hangout Entry Settings{/}
+Allow Outsiders
+{@st43b}{s18}Guild News{/}
+{@st66}{s18}Register{/}
+{@st43b}{s18}Guild Notes{/}
+{@st43b}{s18}One-line Message Board{/}
+Max. 25 characters allowed.
+ⓘ You can post on the One-line Message Board 3 times a day.
+Guild Info
+Wars
+Territory Wars
+{@st43}Send Items
+Sending
+Remaining
+Team Name {img %s 13 13}
+Amount
+{@st41b}{nl}Send
+{@st42b}{s20}Continue Shopping
+{@st42b}{s20}Close
+{@st66}Close
+{@st59}Exchange Equipment (Alt+Z){/}
+{img monsterbtn_image 29 28}{@st66b}{s16}Monster Cards{/}
+{@st59}Open Monster Cards Window{/}
+{@st43}{s22}Leticia's Secret Cube{/}
+Cube Name
+{nl}{img %s 40 40}{@st42b}{s20}Cubes  
+ⓘ See the official website and item descriptions for more info.
+{@st43}Equip Monster Cards{/}
+{@st59}Close Equip Monster Cards{/}
+{@st59}Only Templar Guild Master in Team{/}
+{@st66b}Respawn in nearby city (30 seconds){/}
+{@st66b}Show Party Name{/}
+{@st66b}Recipe Material Obtained{/}
+{@st43}PvP Settings{/}
+{@st66b}Damage Font Scale (%s){/}
+{@st66b}Show Tile Range{/}
+{@st66b}Use Attack Effects
+{@st66b}Your Team name represents all your characters and is used in trading, Guilds, chat, etc.{nl}Changing your Team name consumes 150 TP, so choose it carefully.{/}
+{@st41}%s Points
+Text
+Qtt.
+{@st66b}Rank %s
+{@st66b}%s Points
+Maps
+Type
+Item Type
+Latest Acquisition
+Location
+N/A
+Shop Name
+Sales
+Attribute
+Fish Name
+Total %s Times Cleared
+Area
+Map
+Enter the name of the character or team.
+Name
+Quest
+%s
+Title
+N/A
+Reward
+Additional +1 reward from Saalus Missions
+{img icon_item_tospoint 24 24}{@st41b}Consume 0 TP{nl}Unequip card without the loss of a star{/}
+Total Waiting Queue: %s
+Receiving information.
+Close UI.
+Check Period
+* Daily attendance rewards will be automatically sent once per day to the inventory of the first character to access the game.{nl}* Enchant Scroll (14 Days).{nl}* Rewards can only be received during the attendance check period. After this period, no more rewards will be sent.{nl}
+{@st66b18}※ Name changes with TP are not refundable.{/}
+Size%s
+{@st42b}Confirm
+Update Guild Storage.
+ⓘ Spot rewards are %s every week.{nl}ⓘ The rewards include  
+ of your Market fees of the previous week.{nl}ⓘ Spot rewards are delivered as Guild War items.{nl}ⓘ The maximum possible amount rewarded is %s hundred million Silver.{nl}ⓘ Please check our official website for more information.
+Auto Match%s
+{@st41b}Enter Now%s
+{@st43}{#ffcc33}{s24}Clear
+{@ST43}Cleared : 
+{@st43b}{s18}Received rewards
+{@st66d_y}Multiply Effect Reward x
+{img icon_item_silver 24 24} Silver
+{img icon_item_cube3 25 25} Cube
+{img test_indun_exp 30 15} EXP
+{img test_indun_exp 30 15} Class EXP
+{@st41b}Return
+Return to the entrance map.
+Achievement Rate
+{@st59}Special Costume{/}
+{@st43}Item Dismantle{/}
+{@st43}{#ffcc33}Dismantle Complete{/}
+{@st41b}Dismantle Cost{/}
+{@st41b}Dismantle Items{/}
+Item Re-Identification
+Re-Identify Item
+{@st43b}{s18}Place the item you want to enhance.
+{@st43b}{s18}Current Option
+{@st43b}{s18}Before Change
+{@st43b}{s18}After Change
+{@st43b}{s18}Material
+{@st59}Change Companion Name{/}
+{@st43}Portal Shop{/}
+{@st59}Close Portal Shop UI{/}
+Selected Portal Quantity %s/%s 
+{@st59}Close Portal Placed Shop UI{/}
+Would you like to undo your last advancement?{/}
+If you undo your current class advancement, the advancement will be undone and your current class EXP will disappear.{/}
+* Rank down can only be used once during the same rank.{nl}It cannot be used repeatedly.
+* In addition, rank down cannot be used at a rank lower{nl}than a rank it has already been used at.
+* Skills and Attributes of removed or adjusted class circles{nl}will be converted back into points.
+* Class-specific costumes received through rank advancement{nl}will be deleted if the class is completely removed.
+* You will return to the barracks after confirming.
+{@st59}Rank Info{/}
+{@st66b}Simplify Buff Effects{/}
+{@st66b}Simplify Models{/}
+{@st59}Attendance Reward Check{/}
+Returning to the previous class.
+Map name
+{@st42b}Use
+Raid Dungeon Entry Item Consume Quantity -2
+{@st59}Effect Costume{/}
+{@st66b}{s16}*Items remain tradable only when there are trades left.{/}{/}
+{s16}{@st66b}*{/}{@st66d_y}No Trades Left{/}{@st66b} means that {/} {@st66d_y}all items traded{nl}can no longer be traded or transferred via Team Storage{/}{@st66b}.{/}{/}
+{s16}{@st66b}*{/}{@st66d_y}Event Tokens offer 0 trade counts.{nl}{/} {@st66b}Make sure to check the count before trading.{/}{/}
+{@st66d_y}Items will become untradable{/}
+{@st42}Items remain tradable and can be team storaged{/}
+{@st66d}The following items will become{nl}  {@st66d_y}untradable (Trade NO, Team Storage NO){/}.{/}
+{@st42}Untradable Items (Trade NO, Team Storage NO){/}
+{@st59}Close{/}
+Acquired Item
+Server
+Character Name
+Reason
+{@st43}{s24}Report Problematic Player
+{@st41b}Report
+Report.
+Cancel.
+{@st59b}Item Transcendence{nl}{@st59s}- Enhances an item's performance in a way different from the anvil enhancement{nl}- Transcendables : Weapon, Armor, Accessory{nl}- Transcendence Chance = Amount of Materials / Required Maximum{nl}- If successful, Transcendence level increases by 1 (max. 10){nl}- If failed, Transcendence level along with potential decrease by 1 (Transcendence level does not go below 1){nl}- Transcended items cannot be traded{/}
+Transcendence Success Chance 100%
+* Transcendence could fail if success rate is not 100%.{nl}Potential is reduced upon failure.
+Extract Blessed Shard
+{@st59b}Extract Blessed Shard{nl}{@st59s}- Extract Blessed Shard from Transcended item{nl}- Material for Extracting: Hammer of Dismantlement.{nl}- Extracting Blessed Shards will delete the item, but retain part of the Blessed Stone as Blessed Shards.{nl} :90% of Blessed Stone used to transcend can be returned.{nl}- Your item must be transcended to at least stage 2 in order to extract the shards.{/}
+Blessed Shard Extraction Result
+{@st43b}{s18}Applied Effect{/}
+{@st43b}{s20}Applied Effect{/}
+{@st59}Show Monster Card Apply Option{/}
+*You cannot rank down if you have{nl}unused Rank Cards or Class EXP Cards.
+*Common attributes such as Weapon Swap will also be reset,{nl}and attribute points will be returned.
+{@st43}{s22}Add Socket{/}
+{@st59}Cancel{/}
+{@st41}{s20}Current Sockets:{@st43} %s / {@st43}%s
+{@st41}{s20}New Socket Price: %s
+{@st41b}Add Socket{/}
+{@st59}Add Socket.{/}
+{@st59}Advancement Info{/}
+{@st66b}Show Drop Item Name{/}
+{img icon_item_silver 24 24}{@st41b}Consume %s Silver{nl}Unequip card without the level decrease{/}
+Level 1 cards do not consume Silver.
+Recruiting guild quest participants.
+{@st43}Enhance Legend Card{/}
+{@st43b}{#ffba00}{s20}Success Rate[%s%]{/}
+{@st43b}{s17}{#ffba00}Increases Card Level [{img star_mark 20 20}] by +1 on success.{/}
+{@st43b}{s20}Failure Rate [%s%]{/}
+{@st43b}{s17}Fodder cards will be deleted and the Legend Card level will not change.{/}
+{@st43b}{#898989}{s20}Destruction Rate[%s%]{/}
+{@st43b}{#898989}{s17}The Legend Card and fodder cards will be deleted upon destruction.{/}
+{@st59}Close{/}
+Time remaining
+Acquire random
+{@st59}Personal Shops{/}
+{@st59}Fishing{/}
+Search monster name and press Enter
+{@st66b}See more
+Qtt to add (count)
+Search item name and press Enter
+Search item to craft and press Enter
+Search instanced dungeon name and press Enter
+{@st42}Automatic
+{@st42}Add
+{@st42}Send
+{@st42}Reset
+Failed to start the game.
+(Error Code: %s)
+{img notice_br_reason 16 16}{@st99w16}Reason
+This could be the reason.{nl}This could also be the reason.
+{img notice_br_solution 16 16}{@st99w16}Solution
+Try this.{nl}Try that.
+{@st68}Check
+{img notice_br_link 16 16}{@st99w16}Related Link
+{@st66b}Draw Shadow
+{@st43b}{s18}Benefits (Coming Soon){/}
+ⓘ Please see our official website at treeofsavior.com for more information on Territory Wars rewards and benefits during the beta testing period.
+{@st47}{s18}See Processed Equipment
+{@st42}Equippable Titles [%s]{/}
+{@st42}{#00fec5}Current Title Buff Stage
+{@st42}Titles Needed for Next Stage
+{@st42b}Stage %s{/}
+{@st66b}See Next Stage Effects{/}
+{@st59}Close transcendence scroll window.{/}
+{@st41}{s20}Transcendence Scroll{/}
+Transcendence Value: %s
+Success Rate: %s%
+{@st66}Cannot use with transcended equipment items.{nl}Using it will change the item to Transcendence Stage %s.{/}
+{@st41b}{s20}Transcendence
+{@st41b}{s20}Confirm
+{@st59}Back{/}
+Default
+{@st66b}Community{/}
+{@st66b}Guild Info{/}
+{@st66b}Storage{/}
+{@st66b}Wars{/}
+{@st41b}Write
+{@st66b}Master{/}
+{@st66b}Guild Master name here{/}
+{@st66b}Members{/}
+{@st66b}Founded{/}
+{@st66b}Funds{/}
+{@st66b}Guild funds here{/}
+Position {img %s 13 13}
+%s online, %s offline
+{@st43b}{s18}Wars{/}
+Neutral Cancel Alert
+{@st66b}Guild Promotion{/}
+{@st66b}Roles and Authorities{/}
+{@st66b}Applications{/}
+{@st43b}{s18}Role Settings
+Roles
+Authorities
+{@st42}Guild Management{/}
+{@st42}Guild Funds{/}
+{@st42}Guild Community{/}
+{@st42}Contents{/}
+{@st41b}{s16}Add
+{@st41b}{s16}Delete
+{@st41b}{s16}Save
+{@st43b}{s18}Give Role
+Char. Level
+Total Characters
+{@st41b}{s16}Accept
+{@st41b}{s16}Decline
+{@st43b}{s18}Emblem{/}
+Important
+{@st41b}{s16}Register
+{@st43b}{s18}Banner{/}
+ⓘ Your image must be sized %s and in PNG (24 bit or 32 bit) format.{nl}ⓘ The file name must be composed only of alphanumeric characters.{nl}ⓘ The use of problematic images can result in restrictions.
+Allow Outsiders
+Promote Guild
+{@st43b}{s18}Cover Page{/}
+ⓘ Your image must be sized %s and in PNG (24 bit or 32 bit) format.{nl}ⓘ The file name must be composed only of alphanumeric characters.{nl}ⓘ The use of problematic images can result in restrictions.
+1024 in width and 768-3840 in length
+{@st41b}{s16}Preview
+{@st43b}{s18}Cover Page Text{/}
+{@st66b}Register
+{@st64}Guild
+{@st43}{s22}More Info{/}
+{@st43}Guild Info
+ {@st66}Info
+ {@st66}Cover Page
+{@st43}Intro
+{s18}Name{/}
+{s18}Guild
+{@s18}Master{/}
+{@s18}Founded{/}
+{@s18}Guild Level{/}
+{@s18}Status{/}
+{@s18}Recruiting{/}
+{@st41}Apply to Join
+{@s18}Members{/}
+{@s18}Average Level{/}
+{@s18}Cover Page Text{/}
+{@s18}Your guild intro text goes here.{/}
+{@s18}Members{/}
+{@st43}Write{/}
+{@st41b}Write
+{@st43}Write
+{@st43}Applicants
+Team Level: %s {nl}Characters: %s {nl}Adventure Journal Rank: %s {nl}Level of Applying Character: %s {nl} {nl}Message
+{@st43}{s22}New UI{/}
+{@st42}Guild Name{/}
+{@st42}Message{/}
+Message
+You can apply for a guild even without entering a message.{nl}ⓘ The following information is automatically displayed to the guild when you send the application:{nl} - Team name{nl} - Team level{nl} - No. of characters{nl} - Level of the applying character{nl} - Adventure Journal ranking{nl}
+{@st41}Send Application
+{@st43}{s22}Guild Promotion{/}
+{@st43}Guild Promotion Board
+{@st59}Guild Level{/}
+{@st59}Activity{/}
+{@st59}Average Team Level{/}
+{@st59}Applicants{/}
+{@st59}Territory Wars{/}
+{@st43}Application Log
+Date
+Status
+{@st66b}Daily entries reset every Monday at %s (server time).{/}
+Equip Ichor
+Equip
+{@st43b}{s18}Current Stats
+{@st43b}{s18}Equip Stats
+Extraction Kit
+Extract Ichor
+Extract
+{s22}The item was destroyed.
+{@st43b}{s18}Potential
+{@st43b}{s18}Options Extracted
+Dismantle Legend Item
+Dismantle
+Apply Set Stats
+{@st43}Craft Legend Equipment{/}
+{@st59}Close Legend item crafting UI.{/}
+{@st42b}See only equippable items
+{@st43b}{s15}{#ffbf11}Point Difference
+{@st43b}{s16}%s Points
+Obtained [ %s] Badges
+{@st66d}{s20}Returning in %s seconds.{/}
+{@st66d}Return{/}
+If you undo your current class advancement,{nl}the advancement will be undone and{nl}{@st66d_y}your current class EXP will disappear.{/}{/}
+{@st45tw2}Conditions and Precautions{/}
+{@st66b}Respawn in Guild Tower{/}
+{@st59}Guild Promotion (Alt + R){/}
+{@st66b}Auto Cell Selection{/}
+{@st66b}Cell Movement Speed (%s){/}
+{@st43}Purchase List{/}
+{@st66d_y}{s18}[Probability Items]
+{@st66d}{s18}[Non-probability Items]
+{img impossible_red 17 17}Equip Restrictions
+{img impossible_yellow 17 17}One Purchase Only
+{img icon_item_tpBox_30 36 36}%s TP will be consumed.
+Probability Message
+{@st66b}Yes{/}
+{@st66b}No{/}
+{@st66w}Show all tabs{/}
+{@st66b}In-game, your character and team names will be displayed like this:{nl} 
+CharacterName TeamName
+ .{nl}{img exemple_img_teamname}{nl}Your Team name represents all your characters and is used in trading, Guilds, chat, etc.{nl}Changing your Team name consumes 150 TP, so choose it carefully.{/}
+N/A
+N/A
+{@st41b}{s14}{#ffffff}Normal
+{@st41b}{s14}{#0e7fe8}Magic
+{@st41b}{s14}{#a124d0}Rare
+{@st41b}{s14}{#d92400}Unique
+{@st41b}{s14}{#ffa800}Legend
+Cannot transcend
+Cannot extract
+Cannot extract sockets
+Main Weapon
+Armor
+Bottom
+{@st41b}{s18}Item Set
+{@st41b}{s16}Set Stats
+Exchange
+{@st66d}Player Name{/}
+{@st66}{s18}Write{/}
+Weight: %s
+Total Characters 
+I want to join
+Character Class
+Character Contribution
+Team Storage Slots +30
+{@st41_yellow}{s70}Victory 
+{@st41_yellow}{s70}Defeat
+{s30}Important
+{@st41b}{img icon_button_warning 36 36}Yes
+{@st41d}               Lodge
+{@st66d}{s20}%s {@st66d_y}{s20}%s{@st66b}{s18}{nl}Change Lodge?
+{@st66b}Yes
+{@st66b}No
+{@st43}Barber Shop (M)
+{@st43}Barber Shop (F)
+{@st43}Boutique (M)
+{@st43}Boutique (F)
+{@st43}Barber Shop - Wigs (M)
+{@st43}Barber Shop - Wigs (F)
+{@st43}Boutique - Cubes
+{@st43}Berber Shop - Lenses
+View only equipable items
+Select Color
+{img barbershop_scissors_pic 41 36}{@st66b}Select a hairstyle to view the color list.{/}
+{@st43b}{s20}Preview and Purchase{/}
+{@st59}Wigs{/}
+{@st59}Wigs and Dyes{/}
+{@st59}Toys{/}
+{@st66}{s18}Try On{/}
+{@st41b}{s17}Hair Costumes
+You can hide/show all of your currently equipped hair costumes.
+   Current TP{/}
+   Remaining TP{/}
+Now Wearing
+{@st59}Close the list.{/}
+{@st66b}Current TP
+{@st66b}Purchase List
+{@st66}- Hair Coupons
+{@st66}- Dye Coupons
+{@st66b}{#a70000}Total
+{@st66}{s18}Purchase all listed items?
+{ol}Open coupon list.
+{@st66b}Remaining TP
+{@st66d}To the Shop{/}
+{@st66d}Purchase{/}
+{s17}Coupon List
+{@st66b}Use
+{@st43}Barber Shop Coupon Book
+Exchange Stamps
+※{b}{ol}{#c21917}Stamps are consumed when you exchange them.{/}{/}{/}{nl}Each type of coupon consumes a different number of stamps.
+{img barbershop_couponbook_stamp 30 30} %s stamps
+{@st59}Close weapon appearance UI.{/}
+{@st43}Change Weapon Appearance{/}
+{@st66b}Current Potential
+{@st42}Extract Materials
+{@st42}Weapon to Extract
+{@st42}Keep Potential
+{img silver 20 20}Price
+If left unchecked, your item's Potential will be reduced.{nl}Does not consume Silver.
+Please register a core or a weapon which appearance you wish to keep.
+{@st43b}{s20}OK
+Update message board.
+Awakening Shop
+{@st42}Close Shop
+{@st42}Awaken
+Material
+{@st42}Open Shop
+{@st41d}{b}{ol}{s14}{img icon_item_silver 22 22} Acquired Silver: %s%s
+{#fde43f}{b}{ol}{s14}Acquired Character EXP: %s
+{#fde43f}{b}{ol}{s14}Acquired Class EXP: %s
+Artisan Magnifier
+Re-identify
+{@st66}{s16}{nl}Select
+{@st41b}{s18}Current Magnifiers: %s
+{@st66}{s18}Consumes Artisan Magnifier x%s.
+Mysterious Magnifier
+{@st66}{s18}Consumes Mysterious Magnifier x%s.
+{@st43}Cube List{/}
+Quantity
+{@st41b}{s16}{nl}Add to Cart
+{s22}%s defeated
+{s22}%s points
+{s26}%s Badges
+Ranking
+{@st66b}Last Week 
+{@st59}See last week's ranking.{/}
+{@st66b}This Week 
+{@st59}See this week's ranking. Updated every hour.{/}
+{@st59}Close solo dungeon ranking.{/}
+Remnants of Bernice Ranking
+{@st66d}Rewards
+{@st66b}Top 10 ranking players receive a{nl}{#003997}"Dimensional Incense Burner"{/} for the previous week's rankings.{nl}Players who participated in the week receive a set of{nl}{#003997}"Dimensional Potions"{/} according to their score.{nl} {nl}{s13}The week starts every Monday at 06:00 (server time).
+{@st66b}Swordsman
+{@st66b}Wizard
+{@st66b}Archer
+{@st66b}Cleric
+{@st66d}Claim Last Week's Rewards
+Guild Name
+Class Tree
+Highest Stage
+Monster Kills
+Highest Stage: %s
+Most Monster Kills: %s
+Highest Ranking: %s
+Current Stage: %s
+Monsters Defeated: %s
+Current Ranking: %s
+{@st66b}{s16}All
+{@st66b}{s16}Swordsman
+{@st66b}{s16}Wizard
+{@st66b}{s16}Archer
+{@st66b}{s16}Cleric
+Returning to town soon.
+{@st42}{s18}{nl}Go Back{nl}
+Wig Dye
+Current Qtt
+Important {img tip_questionmark 20 20}
+Please unequip all your equipment first.{nl}Basic class costumes change gender automatically.{/}{nl}{@st67}{#fe7e00}{b}Gendered premium costumes{nl}will no longer fit your character after the gender switch.{/}
+{@st66b}See Team Name Only{/}
+{@st66b}See Party Name{/}
+{@st66b}See Other Characters' Names{/}
+{@st66b}See HP/SP Under Characters{/}
+{@st66b}See Drop Item Names{/}
+{@st66b}See Acquired Silver Alerts{/}
+{@st66b}See Acquired EXP Alerts{/}
+{@st66b}See Party's Summon Names{/}
+{@st66b}See Tile Range{/}
+{@st66b}Flute Volume (%s){/}
+{@st66b}Hear Other Characters' Flutes{/}
+{@st59}Uncheck if you don't want to hear other characters' flutes.{/}
+{@st66b}See Frame Data (FPS){/}
+{@st59}Displays current fps.{/}
+{@st66b}Premium{/}
+{@st66b}Cosmetic{/}
+{@st43}Enter Beauty Shop{/}
+{s14}Beauty Shop Test
+Fixed Camera
+Cancel Fixed Camera
+Open Hair Shop (F)
+Open Hair Shop (M)
+Hair Shop List (F)
+Hair Shop List (M)
+Equip Preview_ALL
+Equip Preview_Hair
+Equip Preview_Costume
+Open Costume Shop (F)
+Open Costume Shop (M)
+Costume Shop List (F)
+Costume Shop List (M)
+Open Simple List
+Simple List Item Settings
+Open Wig Shop (F)
+Open Wig Shop (M)
+Wig Shop List (F)
+Wig Shop List (M)
+Open Others
+Others List
+Purchase Test
+{@st66}{nl}Delete Character
+{@st66}{nl}Move Lodge
+{@st66}{nl}New Character
+Cannot transfer appearance
+Basic{/}
+{#003997}{b}Stage Clear: %s
+{ol}Add to Cart
+Current Items
+{@st41b}{S16}%s% Off
+{@st41b}{s16}{nl}Exchange
+Please register a Weapon Appearance Material or equivalent items.
+{@st42}{s20}Victory Rewards
+Seizing Date
+Victory Rewards
+ⓘ Victory rewards are applied 1 hour after the end of each GTW session.{nl}ⓘ Only the Guild Master can retrieve these rewards. The items are sent to your Guild Storage.
+{@st41b}{s16}Victory Rewards
+{@st42}{s16}Receive
+{@st41b}Open Voucher
+{@st59}System Messages{/}
+{@st59}Combat Messages{/}
+{@st42}{s18}Chat Settings
+Screen
+See login alerts
+Combat message settings
+Damage taken
+Damage dealt
+Skill use
+Death/respawn
+Party death/respawn
+Max. character level
+{@st59}Request quick slot data again.{/}
+{@st66b18}Retrieve
+{@st66b18}Sell
+{@st66b18}Buy
+{@st66b}{s18}Category
+{@st66b}{s18}Name{/}
+{@st66b}{s18}Level{/}
+{@st66b}{s18}Price{/}
+{@st66b}{s18}Quantity{/}
+{@st66b}{s18}Total Amount{/}
+{@st66b}{s18}Stats{/}
+{@st66b}{s18}Sockets{/}
+{@st66b}{s18}Potential{/}
+{@st66b}{s18}Amount{/}
+{@st66b}{s18}Enchant Stats{/}
+{@st66b}{s18}Roasting Level{/}
+{@st66b}{s18}EXP{/}
+{@st66b}{s18}Quantity{/}
+{@st66b}{s18}Materials{/}
+{@st43b}{s18}Details{/}
+{@st66b}{s18}Total Amount{/}
+{@st66b}{s18}Wait Period{/}
+{@st66b}{s18}Status{/}
+Retrieve {#002d93}Silver{/}{/} from the sale of {#8e0000}[%s%s] x%s{/}{/}? Total:{#8e0000}%s{/}{/}
+{@st41b}Receive
+Retrieve {#8e0000}[%s%s]{/} {#8e0000}x[%s]{/}?
+Retrieve all items?
+{@st41b}Item List
+Please register an item.
+{@st66d}Register Item
+{@st66b}Max. Price{/}
+{@st66b}Min. Price{/}
+{@st66b}Lowest Price{/}
+{@st66b}{s14}(%s Silver per unit)
+{@st66}Registration fees:
+{@st66}Total price:
+{@st66}Market fees:
+{@st66}Final amount:
+{@st66}%s Day(s): %s% of item price
+{@st66}{s14}Silver obtained from selling items (except Tokens){nl}can be retrieved from the Market after 48 hours.{/}
+{@st66b}{s18}Fees{/}
+{@st66b}{s18}Time Remaining{/}
+{ds}{b}{#ffefd6}30 min: {#fe7e00}100 POINTS
+Purchases (%s/%s){/}
+{@st42}{s20}Special %s
+{@st66b}Special rewards delivered to your inventory.
+{@st42b}{s16}Receive{/}
+{@st42b}{s16}Cancel{/}
+{@st42}{s22}Popo Points{@st42}
+{@st59}Retrieve the items again.{/}
+{img test_cooltime 25 25}{s18}Points resetting in %s day(s), %s hour(s), %s minute(s).{/}
+{@st66b}Main{/}
+{@st66b}Point Shop{/}
+{@st66b}PP Gear Rental{/}
+{@st66b}Information{/}
+{s14}※ You can accumulate a maximum of 20,000 points, which are reset every 3 months (Jan, Apr, Jul and Oct 1st at 06:00, server time).
+{s14}{@st42}Today's points: %s
+Login Rewards
+{s14}{@st42}Total login time: %s hr %s min
+No ongoing events.
+{@st66b}   Regular{/}
+{@st66b}   Rotational{/}
+{@st66b}   Event{/}
+Items Available
+※ Products updated every 3 months (1st day of Jan, Apr, Jul and Oct).
+{@st66b}   Weapons{/}
+{@st66b}   Armor{/}
+Items for Rental
+Terms and Conditions
+{s18}See main screen timer
+{@st66b}Reverb ON/OFF{/}
+{@st59}Check to apply reverb.{/}
+{@st66b}Enable Animated Illustrations
+ Use item?
+It will be removed from %s and applied only to %s.{/}
+Enable Animated Illustrations
+{@st41b}Purchase{/}
+Search crafting materials.
+{#002d93}Silver{/}{/} from {#8e0000}[%s %s] x%s{/}{/}: {#8e0000}[%s]{/}{/}
+{#8e0000}[%s%s]{/} {#8e0000}x[%s]{/}
+1 day, 23 hours
+Untradable
+{@st42b}{s16}Preview{/}
+{@st43}Try on themed items
+Insert the equipment you want to change the appearance for.
+{@st68}{s16}List{/}
+{@st41b}Delete
+{@st59}Equipment{/}
+{@st66b}Appearance{/}
+{@st59}Appearance{/}
+{@st59}Hair Dye{/}
+{@st59}See All{/}
+{@st59}Consumables{/}
+{@st59}Recipes{/}
+{@st59}Cards{/}
+{@st59}Materials{/}
+{@st59}Gems{/}
+{@st59}Premium{/}
+{@st59}Item filter option ON/OFF{/}
+{@st41b}Stage %s
+{@st43}Inventory Options{/}
+{@st43b}{s18}Equipment Grade{/}
+{@st43b}{s18}Equipment Type{/}
+{@st43b}{s18}Card Group{/}
+{@st43b}{s18}Material Type{/}
+{@st43b}{s18}Gem Group{/}
+{@st66b}All Grades{/}
+{@st66b}Normal{/}
+{@st66b}Magic{/}
+{@st66b}Rare{/}
+{@st66b}Unique{/}
+{@st66b}Legend{/}
+{@st66b}Show only enhanced/transcended items{/}
+{@st66b}Show only unidentified items{/}
+{@st66b}All Cards{/}
+{@st66b}Red Cards{/}
+{@st66b}Blue Cards{/}
+{@st66b}Green Cards{/}
+{@st66b}Purple Cards{/}
+{@st66b}Legend Cards{/}
+{@st66b}Other Cards{/}
+{@st66b}All Types{/}
+{@st66b}Quest{/}
+{@st66b}Others{/}
+{@st66b}Collection{/}
+{@st66b}For Equipment{/}
+{@st66b}Ores{/}
+{@st66b}All Gems{/}
+{@st66b}Red Gems{/}
+{@st66b}Blue Gems{/}
+{@st66b}Yellow Gems{/}
+{@st66b}Green Gems{/}
+{@st66b}White Gems{/}
+{@st66b}Monster Gems{/}
+Reset
+{@st43}Return
+{@st43}Start Over
+{@st59}Close search options{/}
+Save your current category search options.{nl}Options not specified will not be saved.
+Save Name
+{@st66d}Save Options
+{@st41d}Save
+Import category options.
+{@st66d}Import Options
+Trade Limit
+Enchant Jewels
+Enchant Stats
+{@st41b}{s18}Current Enchant Jewels: %s
+{@st66}{s18}{b}Consumes %s Enchant Jewel(s).
+{@st59}Set Main Class{/}
+{@st59}Tackle Box (Alt + F){/}
+{@st59}Skills and Attributes (F3){/}
+Used Items
+Title       %s
+Reward       %s
+{@sti7}{s26}Find Your Class
+{@st43b}Start
+{@st43}1st
+{@st43}2nd
+{@st43}3rd
+Level Range
+Normal
+Search Item
+Show only unidentified items
+Hide unidentified items
+Advanced Settings
+Value
+{@st66}{s16}Add Stat
+Stat Group
+{@st66}{s16}Save
+Save search settings.
+{@st66}{s16}Import
+Import search settings.
+Reset search settings.
+Item Level
+Roast Level
+Delete Stat
+Settings Save Name
+Delete Settings
+Trade Grade
+Character Lv %s
+Team %s+ days old
+%s Revelations obtained
+{@st66d}Extract Attribute Points
+{@st59s}Consumes 100,000 silver to extract 1,000 attribute points{nl} to a single Attribute Point Scroll.
+Fee
+%s Silver
+Scrolls Extracted
+Amount Spent
+Points Extracted
+Points Remaining
+{@st66b}Extract
+Collection Effects
+{@st59}Scout Tree{/}
+{@st41b}Identification Cost{/} %s
+{@st59}Doll{/}
+{img silver 20 20}Price %s
+{@st44}Class List{/}
+{@st43}Current Class Info
+{@st43}Change Class Tree {img testquesten_button 30 30}
+The maximum amount of points that can be earned is reset every Monday at 06:00, server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points for players in a guild and players under Token effects){nl} - Successful fishing: 1 point per catch{nl}- Saalus Convent Mission: 15 points{nl}- Legend Raid: 20 points{nl} (Except for Earth Tower, where 5 points are earned every 5 levels){nl}- Uphill Defense Mission: 10 points{nl}- Unique Raid: 20 points{nl}- Level Dungeon: 10 points{nl}- Mercenary Post Mission: 10 points{nl}- Daily Quest: 10 points
+{@st42}Weekly Points{/} {@st66d_y}(%s/%s){/}
+{@st43}Advance
+{@st66d_y}{#ffa800}Stat Growth Ratio
+{@st42}{#FFCC66}STR
+{@st42}{#FFCC66}CON
+{@st42}{#FFCC66}INT
+{@st42}{#FFCC66}SPR
+{@st42}{#FFCC66}DEX
+{@st43}Class Information{/}
+Close the class change mode.
+{@st43}Select a class and click the Advance button.
+{@st66b18}※ TP or items used for name changes cannot be refunded.{/}
+{@st59b}Collection {nl}{@st59s}- Purchase the Collection Deck to add collectible items to your collection. {nl} - The collection hotkey will be enabled when you use the Collection Deck Item. {nl} {/}
+{@st59}Close{/}
+{@st43}Collection{/}
+{@st68b}{s18}Collection{/}
+{@st59}Search the name of a collection or effect.{/}
+ⓘ Reward lists are updated 1 hour after each session.{nl}ⓘ Rewards can be claimed only by the guild master. Claimed items are sent to the guild storage.{nl}ⓘ Beta test sessions offer no rewards.
+{s6} {nl}{/}{@st41d}{img colony_point_pic 24 24}Current Points{nl}{/}
+{s6} {nl}{/}{@st41d}{img colony_deploy_pic 24 24}Positions{/}
+Utilities
+Deterrents
+Current Points
+Effects
+{@st42}{s20}Victory Benefits
+{@st66b}Adjust Tax Rate{/}
+{@st66b}Tax Collection{/}
+Target Cities
+Tax Rate
+Payment Day
+Collecting Cities
+Remaining Allocation Period
+Tax
+Tax Allocation
+Retrieve Tax
+Allocated Sum
+{@st66b}Important{/}
+{@st66b}Taxable Goods{/}
+{@st66b}Records{/}
+{@st42}{s20}Tax Allocation
+Current Sum
+Sending
+Remaining Funds
+Team: %s
+Amount
+{@st42}{s16}Send
+{@st42}{s20}Retrieve Taxes
+Remaining Period
+{@st42}{s20}Warp List
+Current Status
+{img icon_item_silver 20 20}{@st41b}Proceed {/}{img white_right_arrow 15 18} %s
+{@st41b}Items Bought{/} %s
+{@st41b}Total spent vouchers: {/}
+Do you wish to use the vouchers to exchange them for items?
+You can add items to the Alchemy Workshop to use in skills.
+{@st43}Alchemy Workshop
+Register items to consume with the Combustion skill.
+Register HP potions to consume with the Sprinkle HP Potion skill.
+Register SP potions to consume with the Sprinkle SP Potion skill.
+{@st63}Receive the reward and leave.{/}
+{@st63}Move to the next floor{/}
+{@st66b}{s16}* Items will remain tradable after being traded{nl}only if they possess no current trade restrictions.{/}{/}
+{s16}{@st66b}*{/}{@st66d_y}Trade Restrictions{/}{@st66b} means that {/} {@st66d_y}all items traded{nl}can no longer be traded or transferred via Team Storage{/}{@st66b}.{/}{/}
+{s16}{@st66b}*{/}{@st66d_y}Event Tokens do not lift trading restrictions.{nl}{/} {@st66b}Please take note.{/}{/}
+{@st66d}The items below will be{nl}  {@st66d_y}character-bound.{nl}Team Storage NO, Personal Trade NO, Market NO{/}
+Exchange Artifact
+Token Benefits
+{s18}Expiring soon.
+{s18}Are you sure you want to close?
+{@st66b}Upgrade
+{@st66b}Shared Storage{/}
+ⓘ Guilds defending a Spot are automatically set as participants.{nl}ⓘ Only the Guild Master can change a guild's participation settings, and once they are set to  
+, the role of Guild Master becomes unavailable for transfer.{nl}ⓘ Participation settings can only be changed until 5 minutes before the Territory Wars begin, or 1 minute after they end.{nl}ⓘ They can be changed regardless of whether your guild has a tower or not.{nl}ⓘ Guild members who abandoned their previous guild less than 14 days in the past cannot participate in GTW.
+{@st41b}{s16}Victory Benefits
+City Tax
+City Tax {img tip_questionmark 20 20}
+Market Tax {img tip_questionmark 20 20}
+ⓘ Guilds that seized a Spot can use the Victory Benefits button to adjust city tax rates and collect tax.
+{@st43b}{s18}Items{/}
+{@st66b}Guild Mileage: %s{/}
+{@st66b}{s18}Retrieve Items{/}
+{@st43b}{s18}Transaction Records{/}
+{@st66b}Show deposits only
+{@st66b}Show withdrawals only
+{@st41d}3 hours       
+{@st41d}10 hours       
+{@st41d}1 day       
+{@st41d}3 days       
+{@st41d}7 days       
+{@st41d}1 month       
+{@st41d}2 months       
+{@st41d}3 months       
+ⓘ Every deposit/withdrawal equals 20 mileage.{nl}ⓘ Mileage is accumulated when guild members login, and when participating in guild quests and Territory Wars.
+Check online members with authority to accept applications
+Show recruiting guilds only
+Skip cube animation
+{@st43}{s20}Team Use{/}
+Ranking
+{@st43}News{/}
+{@st59}Seals{/}
+{@st41b}Dismantlement Cost{/}%s
+{@st66d_y}Insert an Awakening Stone.{/}
+Awakening Stone Item Name
+{@st66b}* Re-identifying an item maintains the number of stats and the groups (colors) they belong to. Only the particular stats and their values can change.{/}
+{@st43}Enhance Seal
+{@st66d_y}{b}Main Seal
+{@st43b}{s18}{b}Material
+Item Name
+{@st68b}{b}Base Chance: %s%
+{@st66d_y}Magic Stone Amplification + %s%
+{@st43}{s20}%s% Success Chance
+{@st42}Enhancement
+{@st42}Magic Stone
+{img silver_pic 24 24} Price {img white_right_arrow 16 16} %s
+The item has been destroyed.
+{@st42}OK
+Extra Socket Cost %s : {#000000}%s{/} {nl}Gem Extraction Cost %s : {#000000}%s{/}
+{@st59}Close the map.{/}
+%s{@st42}{s14}{#ffff00}Cancel (Jump Key){/}
+{@st41b}Collection{/}
+{s20}Change class trees?{/}
+* After the class tree change, you will receive attribute points{nl}equivalent to the level of your attributes prior to the change.
+* Class EXP Cards equivalent to the last Class Level{nl}you achieved will be sent to your inventory.
+* You will return to the barracks after changing class trees.
+* You cannot change class trees{nl}if you have any unused EXP Recovery Cards in your inventory.
+Are you sure you want to change to the selected class?{/}
+Your class will be changed into the newly-selected class{nl}and {@st66d_y}Class Change Points will be consumed.{/}{/}
+* Skills and attributes of deleted{nl}classes will be returned as points.
+* Changing your class will remove the class costumes{nl}for classes you had previously advanced into.
+* You will return to your Lodge after confirming.
+* Common attributes will also be reset,{nl}and attribute points will be returned.
+{@st41b}Repair Cost{/} %s
+{@st66b}%sResurrect with a Mysterious Crystal%s{/}
+{@st42}{s20}Skills and Attributes
+{@st43}Craft Scroll
+{s18}Are you sure you want to use %s?{/}
+This item will disappear from your inventory{nl}and %s will be reset.{/}
+{@st66b}Overall Ranking 
+{@st59}Show overall ranking{/}
+{@st66b}Top 3 ranking players per class tree receive a{nl}{#003997} "Dimensional Incense Burner"{/}for the previous week's rankings. All players who participated in the week receive a set of{nl}{#003997} "Dimensional Potions"{/}{nl}according to their score.{nl} {nl}{s13}The week starts every Monday at 06:00 (server time).{nl} {nl}{s13}{#8e0000}Players who make it to the top 3 of more than one class tree receive only the rewards corresponding to their own highest ranking.{nl} {nl}When a player is excluded from a class tree ranking because of multiple entries, the player next to them takes their place in that ranking.
+{@st66b}Scout
+{@st66b}{s16}Scout
+{@st59b}My Information{nl}{@st59s}- Stats: Leveling up enhances your 5 basic stats. {nl}- Information: This is information about your character based on your current stats and equipment. {nl}- Title: Titles can be earned by accomplishing achievements. {nl} {/}
+{@st66b}Compare Equipment{/}
+{@st66b}Show guild and team names in GTW{/}
+{@st66b}Show effect costumes in GTW{/}
+{@st68b}{@st43b}{s18}{img clock_3 25 25}Time Remaining: %s{/}{/}
+99 Days 99 Hours 99 Minutes
+  Exchange Vouchers available{/}
+  Remaining Exchange Vouchers{/}
+Exchange Voucher to be used
+{@st66b}Costume Exchange{/}
+{@st66b}Rookie Player Shop{/}
+{@st66b}Returning Player Shop{/}
+Trade your Exchange Vouchers{nl}for a costume
+{@st66}Use to apply transcendence Stage %s.{/}
+{@st41}Horizontal (%s){/}
+{@st41}Vertical (%s){/}
+{@st41}Zoom In/Zoom Out (%s){/}
+{@st41}Horizontal Camera (%s){/}
+{@st41}Vertical Camera (%s){/}
+{s16}See item tooltip
+{b}Specialized Stats
+{@st66d}Forgery
+{#00fec5}{ol}Class Tree Change (available for 30 days){/}
+NO Awakening
+{@st42}{s16} Exchange Voucher {/}{/}{img icon_item_exchange_costumeCoupon 32 32}{/}
+Spent Voucher
+Display selling items.
+Sell
+{img white_right_arrow 24 24}{@st66d_y} Total Cost{/} %s
+{@41b}Completion
+{@st59}Register item in collection.{/}
+Spot Area
+City
+{@sti7}{s30}{ds}Find Your Class
+{@st66d_y}What to know what class is right for you?{/}{nl}                                                                         Take the test and find out which classes{nl}best suit your style of gameplay!
+{@st41b}{s16}Move
+{s16}{b}{ol}{ds}Details >>
+Class Name
+Change the selected class.
+You can change a class that is required for one of your current classes.
+Party Member Name
+{@st43b}{s18}Skills
+Skill Points:        %s/%s
+Related Attributes
+{@st43b}{s18}Attributes
+{@st41d}Cancel
+Attribute Points
+Extract Attribute Points
+{@st66}Extract
+Purchase Attribute Points
+{@st66}Purchase
+{@st42}{s16}Apply
+{@st42}{s16}Allocate
+{@st41d}Receive
+{@st41b}{s16}Yes
+{@st41b}{s16}No
+Remaining Token Time: {#FF0000}%s{/}
+{@st66}{s16}Extract
+{@st66}{s16}Purchase
+{@st66b}Adjust Tariff Rates{/}
+{@st66b}Fund Distribution{/}
+Applicable City
+Tariff Rate
+Collecting City
+Tariff Funds
+Fund Distribution
+Retrieve Funds
+{@st66b}Applicable Items{/}
+{@st66b}Fund Records{/}
+{@st42}{s20}Fund Distribution
+{@st42}{s20}Retrieve Funds
+City Tariff Rate
+City Tariff Funds{img tip_questionmark 20 20}
+Market Tariff Funds{img tip_questionmark 20 20}
+ⓘ Guilds that seize a Spot Area can access the benefits page to adjust city tariff rates and retrieve tariff funds.
+* Attendance rewards can only be received once per day and are automatically issued into the inventory of the first character that you log in with.{nl}* Rewards can only be received during the event period and will no longer be issued when the event period is over.{nl}
+{@st59}Remove the camp{/}
+{@st59}Close equipment appearance UI.{/}
+{@st43}Reset Equipment Appearance{/}
+{@st43b}{s22}Before{/}
+{@st66d_y}{s22}After{/}
+{@st43b}{s18}Reset{/}{/}
+{@st41}Corpse Parts required: %s
+Number of Corpse Parts
+{@st66b}Show No. of Corpse Parts{/}
+{@st42}Number of Corpse Parts{/}
+{@st59}Collection (F11){/}
+{@st66b}See Party's Summon HP{/}
+Button
+{@st66b}Consumes %s x1.{/}
+Transmutation Kit
+Ichor Transmutation
+Transmute
+{@st43b}{s18}Transmutation Success Rate: %s%
+{@st43b}{s18}Ichor Stats
+{s14}※ You can accumulate a maximum of 20,000 points, which are reset every 3 months (Jan, Apr, Jul and Oct 1st at 00:00, server time).
+{@st66d}Return to City{/}
+{@st43}{s26}Badges Acquired: %s
+{@st66d_y}{s22}Ranking Bonus + %s Badges
+{@st66b}Ranking{/}
+{@st66b}Team Name{/}
+{@st66b}Points{/}
+{@st66b}Returning to Vedas Plateau. (30 seconds){/}
+This item will disappear from your inventory{nl}and %s will be reset.%s{/}
+{@st66b}Top 3 ranking players per class tree receive a{nl}{#003997}"Dimensional Incense Burner"{/} for the previous week's rankings.{nl}Players who participated in the week receive a set of{nl}{#003997}"Remnants of Bernice Coins"{/} according to their score.{nl} {nl}{s13}The week starts every Monday at 06:00 (server time).{nl} {nl}{s13}{#8e0000}Players in the top 3 of multiple class trees receive only the rewards corresponding to their highest score.{nl} {nl}If that happens, the next player in line in the corresponding class tree will rise to the top 3 and receive the rewards.
+{@st66b}Auto Skill Targeting{/}
+{@st43}{s22}See Location{/}
+{@st59}Close Location{/}
+{img NOTICE_Dm_! 30 30}{@st43}{s16}Skill Limitation{/}
+{@st59}Insert the Abrasive{/}
+{@st66d_y}Insert the Awakening Abrasive.{/}
+Awakening Abrasive Item Name
+Unequip Ichor
+Unequip
+{@st43}{s20}Dismantlement Info
+{@st41b}Sort by Level
+{@st66b}  Quest List  {/}
+{@st66b}  Complete  {/}
+{@st66b}Available{/}
+{@st66b}In Progress{/}
+{@st66b}Abandoned{/}
+{@st59}Search by Quest Name or Location.{/}
+{s18}{b}{ol}{ds}All Levels
+{s18}{b}{ol}{ds}Recommended
+{s18}{b}{ol}{ds}Quest Display Settings {img option_icon 21 21}
+{@st66}TIP. You can register up to 5 Quests to be displayed on the game screen.
+{img quest_detail_pic1 24 24}{@st41b}Location{/}
+{img quest_detail_pic2 24 24}{@st41b}Overview{/}
+{img quest_detail_pic3 24 24}{@st41b}Objective{/}
+{img quest_detail_pic4 24 24}{@st41b}Reward{/}
+{img quest_detail_pic4 24 24}{@st41b}Select a Reward{/}
+Quest Name
+Level 1
+{@st43b}{s16}Quest List
+{ol}All Quests
+{ol}Main Quests
+{ol}Sub Quests
+{ol}Repeatable Quests
+{ol}Party Quests
+{ol}Hethran Badge Quests
+{ol}Tracking Quests
+{@st66b}Quest Window Transparency{%s}{/}
+{@st59}Display Quest to Party{/}
+{@st59}Check Quest Location{/}
+Item Name
+Enchant Item Name
+{@st43}{s16}Limit the use of certain skills.{/}
+{s16}{b}{ol}{ds} All Levels
+{s16}{b}{ol}{ds}Recommended
+{s16}{b}{ol}{ds}Quest Display Settings {img option_icon 21 21}
+{s16}{ol} All Quests
+{s16}{ol} Main Quests
+{s16}{ol} Sub Quests
+{s16}{ol} Repeatable Quests
+{s16}{ol} Party Quests
+{s16}{ol} Hethran Badge Quests
+{s16}{ol} Tracking Quests
+{@st66b}Item trade counts and entry limits will be reset during weekly scheduled maintenance.{/}
+{@st43}{s22}Victory Cube{/}
