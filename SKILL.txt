@@ -3402,7 +3402,7 @@ Damage of [Snow Rolling] Increase per Attribute level.
 Gather Corpse: Enhance
 Damage of [Gather Corpse] Increase per Attribute level.
 Flesh Cannon: Enhance
-Damage of [Flesh Canon] Increase per Attribute level.
+Damage of [Flesh Cannon] Increase per Attribute level.
 Flesh Cannon: Enhance 2
 Enhanced the damage of [Flesh Cannon] to Necromancer's 2nd Circle standards.
 Flesh Cannon: Enhance 3
@@ -3985,8 +3985,8 @@ Summon Familar: Splash
 When summoned familiar spirit explodes itself, there 1% chance per attribute level for it to damage nearby enemies.
 Sorcerer: SP Recovery
 Character's SP recovery increase by 1 per attribute level.
-Flesh Canon: Decompose
-There is a chance of enemy falling under decompose status for 30 seconds when attacked with [Flesh Canon]. Chance increases by 5% per attribute level.
+Flesh Cannon: Decompose
+There is a chance of enemy falling under decompose status for 30 seconds when attacked with [Flesh Cannon]. Chance increases by 5% per attribute level.
 Flesh Hoop: Demoralize
 Attak of enemies nearby the hoop after using [Flesh Hoop] decrease for 15 seconds. It turns back to normal when moving away from the hoop.
 Item Awakening: Quick
@@ -4492,7 +4492,7 @@ Increases the duration of [Confusion] from Lv. 2 by 2 seconds per attribute leve
 Increases the damage dealt on an enemy with [Gather Corpse] by 1% per attribute level.
 Increases the damage dealt on an enemy with [Flesh Cannon] by 1% per attribute level.
 Increases the damage dealt on an enemy with [Flesh Hoop] by 1% per attribute level.
-When an enemy gets shot by [Flash Canon], it will fall into Decay status for 30 secs with a certain probability. The rate will increase by 5% per Attribute level.
+When an enemy gets shot by [Flash Cannon], it will fall into Decay status for 30 secs with a certain probability. The rate will increase by 5% per Attribute level.
 Create Shoggoth: Corruption
 Enemies near Shoggoth will be afflicted with [Corruption] for 10 seconds. Lasts for 1 minute per attribute level after Shoggoth is summoned.
 Disinter: Increased Range
@@ -7172,7 +7172,7 @@ Schwarzer Reiter 3rd Circle Required
 Warlock 2nd Circle Required
 Deals constant Holy property damage.
 Applies beneficial effects to allies.
-Adds +1 skill level for installment skills.
+Adds +1 skill level for Magic Circle skills.
 Server EXP Bonus
 EXP Event Bonus
 N/A
@@ -9969,10 +9969,10 @@ Challenger
 Increases Looting Chance.
 End Challenge
 You can no longer participate today.
-* Can equip [Two-handed Sword] type weapons{nl}* Increase AoE by 1 when equipped with a [Two-handed Sword].
+* Can equip [Two-handed Sword] type weapons{nl}* Increase AoE Attack Ratio by 1 when equipped with a [Two-handed Sword].
 * Can equip [One-handed Spear] type weapons{nl}* Increase attack range by 5 when equipped with a [One-handed Spear].
 * Can equip [Two-handed Spear] type weapons{nl}* Increase attack range by 10 when equipped with a [Two-handed Spear].
-* Can equip [Staff] type weapons{nl}* Increase AoE by 1 when equipped with a [Staff].
+* Can equip [Staff] type weapons{nl}* Increase AoE Attack Ratio by 1 when equipped with a [Staff].
 * Can equip [Two-handed Blunt Weapon] type weapons{nl}* Increase block penetration by 85 when equipped with a [Two-handed Blunt Weapon].
 Dragon Fall: Enhance
 * Increases damage dealt with [Dragon Fall] by 0.5% per attribute level
@@ -10178,7 +10178,7 @@ Fanatic Illusion: Increase Accuracy
 * Increases critical damage dealt to enemies hit by the additional damage of Blind Faith by 10% per attribute level for 10 sec.
 Bulletmarker 1st Circle Required
 Bulletmarker 2nd Circle Required
-Canoneer 3rd Circle Required
+Canonneer 3rd Circle Required
 Taoist 2nd Circle Required
 Dragoon 3rd Circle Required
 Requires Dragon Soar Lv 11
@@ -15527,7 +15527,7 @@ Blood Curse: Enhance
 * Increases the skill factor of [Blood Curse] by 0.5% per attribute level{nl}* +10% added increase at maximum level
 Kurdaitcha: Enhance
 * Increases the skill factor of [Kurdaitcha] by 0.5% per attribute level{nl}* +10% added increase at maximum level
-* Grants immunity to Knock Back and Knockdowns while casting [Rune of Protection].{nl}* [Rune of Protection] Duration: 5 minutes
+* Grants immunity to Knockdowns and Knockbacks while the [Rune of Protection] buff is active.{nl}* [Rune of Protection] Duration: 5 minutes
 Micro Dimension: Confusion
 * Grants [Micro Dimension] a 5% chance per attribute level to inflict enemies with [Confusion] debuff for 8 seconds{nl}* Increases SP consumption by 20%
 * Enemies hit receive [Slow] debuff for seconds equal to the attribute level{nl}and receive non-property damage every 0.5 seconds{nl}* Increases SP consumption by 30%
@@ -15539,7 +15539,7 @@ Hole of Darkness: Black Hole
 * Enemies targeted by [Hole of Darkness] vanish from the sight of other players while the magic circle is active. They are unable to perform any actions while invisible but do not take damage{nl}* Targets reappear when magic circle duration is over and damage received from Hole of Darkness is increased by 50%{nl}* Increases cooldown by 10 seconds
 * Increases the block penetration rate of cannon skills{nl}by 6% per attribute level.
 * Increases critical rate of some Cannoneer and Matross skills by 1% per attribute level when in the [Kneeling Shot] state{nl}* Applies to the following skills: Cannon Blast, Cannon Shot, Shootdown, Siege Burst, Cannon Barrage, Fire and Run, Explosion, Crouching Strike, Canister Shot
-* Ignores part of the enemy's defense according to the type of armor{nl}* 2% per attribute level for Cloth and Leather, 4% per attribute level for Plate{nl}* Increases SP consumption of Canon skills by 10%
+* Ignores part of the enemy's defense according to the type of armor{nl}* 2% per attribute level for Cloth and Leather, 4% per attribute level for Plate{nl}* Increases SP consumption of Cannon skills by 10%
 * Applies 1% of additional attack per attribute level on Musketeer and Tiger Hunter skills{nl}* Reduces movement speed by 1
 * Deals 50% of the damage of [Down Fall] to enemies within a range of 40 from the skill's original target{nl}* Accelerates [Down Fall]'s cycle by 0.1 seconds{nl}* Targets: 3 + (Caster AoE Attack Ratio/3){nl}* Increases SP consumption by 50%
 * Increases [Blindside]'s Skill Factor and minimum critical rate by 0.5% per attribute level{nl}* +10% added increase at maximum level
@@ -15689,7 +15689,7 @@ Skill Factor: #{SkillFactor}#%{nl}Deals +50% additional damage against immobile 
 Hit the enemy with a flying knee kick. Deals additional damage against enemies under [Te Trong] debuff. Can be used only when the Ram Muay buff is active.
 Skill Factor: #{SkillFactor}#%{nl}Deals +100% additional damage against enemies under [Te Trong] debuff{nl}Can be used after adopting the Ram Muay stance
 Applies a buff that changes the cooldown of Te Kha, Sok Chiang, Te Trong and Khao Loi to 0.5 seconds and increases the chance of [Ram Muay] buff to cause additional hits. After the buff expires, the cooldown of Te Kha, Sok Chiang, Te Trong and Khao Loi applies as 30 seconds.
-Duration: #{CaptionRatio}# seconds{nl}Chacne to hit additionally increases by +#{CaptionRatio2}#%
+Duration: #{CaptionRatio}# seconds{nl}Chance to hit additionally increases by +#{CaptionRatio2}#%
 Aim at the upper part of the enemy and slash.{nl}Deals additional damage to targets under [Shock] debuff.
 Skill Factor: #{SkillFactor}#% x 4{nl}AoE Attack Ratio: #{SkillSR}#{nl}Deals +50% damage on enemies under [Shock] debuff
 Charge forward and deal damage and applies the [Shock] debuff to enemies you come in contact with. Your physical and magic defense increase momentarily after using Cavalry Charge.
@@ -15779,8 +15779,8 @@ Fanning Flag
 Rubric Flag
 Skiaclipse - Benevolence
 Healing: {img green_up_arrow 16 16} (5 x number of stacks)%
-Skiaclipese - Assault
-Damage: {img green_up_arrow 16 16} (1.24 x number of stacks)%{nl}Threat: -(5 x number of stacks)%
+Skiaclipse - Assault
+Damage: {img green_up_arrow 16 16} (1.25 x number of stacks)%{nl}Threat: -(5 x number of stacks)%
 Skiaclipse - Iron Wall
 Damage received: -(1.25 x number of stacks)%
 Skiaclipse - Exalt
@@ -15798,7 +15798,7 @@ NA
 NA
 NA
 NA
-* Can equip [Leather] armor{nl}* When 4 pieces of [Leather] armor are equipped, critical chance is increased by 20% (Maximum critical chance limit is also raised by 10%){nl}* When 4 [Leather] armor pieces are equipped, physical and magic damage is increased by 15%
+* Can equip [Leather] armor{nl}* When 4 pieces of [Leather] armor are equipped, critical chance is increased by 20% (Maximum critical chance limit is also raised by 10%){nl}* When 4 [Leather] armor pieces are equipped, Physical/Magic Damage +15%
 * Increases [Acrobatic Mount]'s mounted skill damage increasing effects by 0.5% per attribute level{nl}* +10% added increase at maximum level
 * Enemies hit by Evil Spirits have a 10% chance per attribute level to be afflicted with [Blind] for 10 seconds{nl}* Increases SP consumption by 10%
 * Creates a copy of ally installations within the range of [Micro Dimension]{nl}* Cloned targets will not be further duplicated{nl}* Increases SP consumption by 30%
@@ -15839,3 +15839,130 @@ Accumulates the damage dealt over 10 seconds then deals the accumulated damage d
 Bendrinti: Heal
 Knockdown Additional Damage
 Smugis' Counterattack: Damage
+20% chance of dealing 5,000 to 8,000 damage to a nearby enemy.
+Skill Factor: #{SkillFactor}#% per 0.3 seconds{nl}Maximum Duration: 3.5 seconds
+Fire a contagious poison arrow. The poisoned target spreads poison around to nearby enemies every time it is attacked. {nl}Continuous poison damage is not categorized as a missile-property attack.
+Fire a poisonous arrow that deals continuous damage for a long period of time. The stronger the poison, the higher the damage.{nl}Continuous poison damage is not categorized as a missile-property attack.
+Receives amplified magic damage when taking damage from magic attacks
+* Flying monsters affected by [Throw Rete] fall to the ground and take damage.{nl}* Airborne characters are returned to the ground{nl}* Damage taken: 100%{nl}* Increases SP consumption by 10%
+Increases physical attack damage through the power of determination.
+Reduces incoming damage from enemies through the power of determination.
+Damage Taken: -#{CaptionRatio}#%{nl}Duration: 30 minutes
+Liberate
+Unleashes your power within to draw nearby enemies. You gain increased Threat from monsters with every attack for the duration of the buff.
+Threat increase: +500%{nl}Duration: 30 seconds{nl}Max. level 1
+Reduces the incoming Physical and Magic Damage and increases the AoE Defense Ratio of the caster.{nl}Max. level that can be reached using items and skill effects is 7.
+Switch into an active defense stance using your shield to increase your block. Caster's attack is lowered during [High Guard] but grants a force shield that increases its efficacy in proportion to the DEF value of the caster's equipped shield when an attack is blocked. The caster cannot block attacks during [High Guard: Shield] buff is active and the buff does not stack with [High Guard].{nl}Unequipping the shield or re-using the skill while the buff is active undoes its effect.{nl}(Skill is not compatible with automatic weapon swap.)
+#{CaptionRatio}#% of [Shield DEF value] is applied as force field{nl}Damage to enemies reduced by -#{CaptionRatio2}#%{nl}[High Guard] druation: 30 minutes{nl}[High Guard: Shield] duration: #{CaptionTime}# seconds
+Increases DEF in proportion to the DEF value of the equipped shield.{nl}The buff is removed when the player does not have a shield equipped when swapping weapons(including automatic weapon swap).{nl}{#00113F}Does not stack with Epee Garde.
+Stab an enemy with successive strikes. Damage increases with increased number of stabs.{nl}{#00113F}Max. number of hits is increased when under the effect of the [Dragoon Helmet] or [Initiate] buff.{/}
+Deal damage to enemies by piercing them. The larger an enemy is, the more consecutive hits you deal.{nl}{#00113F}The number of consecutive hits is increased by 1 when under the effect of [Dragoon Helmet] or [Initiate] buff.{/}
+Switch into the Finestra stance to attack. Decreases your evasion, but applies additional critical rate to your spear attacks. The Finestra buff is canceled if you change to a weapon other than a spear.{nl}Block chance is increased when equipped with a shield.
+Additional critical rate: +#{CaptionRatio}#%{nl}Evasion: -20%{nl}Block chance while equipped with a shield: +#{CaptionRatio2}#%{nl}Duration: #{CaptionRatio}# seconds
+Use your weapon and shield to attack. Using a two-handed Pierce weapon blocks enemy physical attacks and triggers a counter. The counter lands as a critical attack that stuns the enemy for 2 seconds.{nl}Strike attacks are applied with an ATK value proportionate to the DEF value of the equipped shield and character's DEF value.
+Skill Factor: #{SkillFactor}#%{nl}{nl}AoE Attack Ratio: #{SkillSR}#{nl}Strike Attack{nl}- 65% of [Shield DEF + Basic Physical DEF]
+Nullifies the physical defense of your equipped shield, but increases the critical power of your Pierce-type attacks.{nl}{#00113F}If you have the Rodelero class in your build, your shield's physical defense is not nullified.{/}
+Grab your target and swing them in the air, stunning them and making them vulnerable to Strike attacks (Only 50% of the Physical ATK value is applied in this case). Repeatedly use the skill while your target is held to headbutt them and deal damage to nearby enemies.{nl}Your damage taken is reduced by 50% and damage dealt is increased by 50% when equipped with Cassis Crista.
+Rotate your spear using centrifugal force to attack an enemy. Spear attacks increase critical damage and two-handed spear attacks ignore 50% of the enemy's defense.
+Skill Factor: #{SkillFactor}#% x6{nl}Final damage increased by +10% when critical attack occurs
+Attack several enemies within range by throwing the spear. Attacked enemies become temporarily vulnerable to melee physical attacks.{nl}Hits twice against slowed or immobile targets.
+Build a Shield Charger that grants guild members with a protective Shield Gauge. The durability of the shield recovers automatically once it reaches a certain threshold. The shield's maximum health is equal to 2 times your own HP.{nl}This skill requires a [Shield Charger] item to install.
+Shield Amount: #{CaptionRatio}#% of caster's HP{nl}Protectable Targets: #{CaptionRatio2}#{nl}Duration: #{CaptionRatio3}# seconds{nl}Shield Charger duration: 22 seconds{nl}Requires Shield Charger x1
+Call a horse and ride it. Your movement speed increases and you gain the Pain Barrier buff. Cannot use if already mounted on a different Companion.{nl}Swash Buckling can be used while riding and additional effects are added to Templar skills such as Non-Invasive Area, Advanced Orders, Battle Orders and Flying Colors.{nl}Grants bonus seize points during GTW.{nl}{#00113F}If the Hard Shield buff is active, its duration becomes infinite. If Horse Riding ends, Hard Shield cancels automatically.{/}{nl}(Cannot use skills with weapon auto-swap while riding.){nl}Only Swash Buckling and Templar skills can be used while riding.
+Grants the ability to block without a shield. Grants increased block when receiving damage while equipped with a dagger.{nl}The buff is removed when the dagger becomes unequipped.
+Additional block against incoming damage: +#{CaptionRatio}#%{nl}Duration: 30 minutes
+Leap forward and stab the enemy with your dagger and apply [Slow] debuff to target for 2.5 seconds. If the target's HP is at 50% or lower, the attack can deal up to 350% additional damage based on how low their HP is. Deals additional damage to enemies affected by the rete debuff, Iron Hook, and Arrest.
+Pierce twice, then brandish your spear to deal Slash damage. At the last hit, the enemy is thrown in the air. Attacking enemies affected by the rete debuff, Iron Hook, or Arrest applies increased damage and prevents evasion.
+Inflicts damage on an enemy by creating a powerful earthquake. Hits twice against enemies under the effect of [Lethargy] debuff.
+Summons a tree of ice on the ground that freezes and damages enemies nearby.{nl}(Freeze duration is halved in PvP environments.)
+Skill Factor: #{SkillFactor}#%{nl}Ice Tree Duration: #{CaptionTime}# seconds{nl}Consumes Cryorite x#{SpendItemCount}#
+Swaps your position with that of a selected enemy. The swapped enemy becomes immobilized.{nl}Does not affect boss monsters and fixed enemies.
+Targets: #{CaptionRatio}#{nl}Maximum Distance: 20{nl}Debuff Duration: 3 seconds
+Turn you or an ally into a giant. Giant players are considered Large-type and have their HP and defense increased.{nl}{#00113F}If there is a Shoggoth among your summons when using this skill, the Shoggoth will also receive the effects of Rune of Giants for 30 seconds.{nl}Appiles a chance to cast Earthquake when performing jumping attacks while turned into a giant (Basic attack damage is applied when the caster has not learned the Earthquake skill).{/}Buff skills can be used while attack skills cannot. But the following skills can be used.{nl}Swash Buckling, Energy Bolt, Lethargy, Magic Shield, Earthquake, Magic Missile, Quick Cast, Creeping Death Charm, Storm Calling, Rune of Ice, Rune of Destruction, Rune of Justice, Rune of Protection, Rune of Rock
+Throw a talisman to an ally that temporarily suppresses pain. You become invulnerable to any damage while the talisman is active, but receive the accumulated damage at once when the effect ends.{nl}You can accumulate damage equal to twice the amount of your HP at maximum and invulnerability is removed when this maximum damage threshold is reached (But the player still does not receive the accumulated damage as the buff itself is still active).{nl}{#00113F}You do not receive accumulated damage while using [Shadow Pool] or [Stop: Break Time].{/}
+Lay a defensive trap that damages any enemies that walk into it.{nl}The trap is removed when it consumes all the number of hits.
+Skill Factor: #{SkillFactor}#% x 3{nl}Duration: #{CaptionTime}# seconds{nl}Number of Hits: #{CaptionRatio2}#
+Skill Factor: #{SkillFactor}#%{nl}#{CaptionRatio2}#% critical chance against enemies under [Reveal Weak Spot] debuff{nl}Duration: #{CaptionRatio}# seconds
+Restores the HP of a designated target. The amount of HP restored depends on the caster's healing values.{nl}Repeated casting increases SP consumption that is dependent on the player's SPR stat.{nl}{#00113F}Bonus effects are applied when the caster has advanced into certain classes (the bonus effects stack):{nl}* Priest: SP consumption reduced by 25, [Heal: Overload] duration reduced by 0.3 seconds, Heal Factor increased by 5%{nl}* Pardoner: SP consumption reduced by 50{nl}* Plague Doctor: [Heal Overload] duration reduced by 0.7 seconds{nl}* Kabbalist: Heal Factor increased by 10%{/}
+Prevents one from becoming Incapable of Combat once.{nl}(#00113F)If [Fanaticism: Martyr] attribute is active and the character is under the Fanaticism buff, the effect of [Fanaticism: Martyr] takes precedence over Revive.{/}
+Minimum critical chance is applied to magic attacks and also deals additional Psychokinesis damage proportional to the caster's Magic ATK. Using Psychokinesis skills grants additional damage.
+Duration: #{CaptionTime}# seconds{nl}#{CaptionRatio}#% additional Psychokinesis property damage in proportion to magic attack{nl}#{CaptionRatio2}#% additional damage applied to Psychokinesis property attacks{nl}Minimum Critical Rate: +#{CaptionRatio3}#%
+Summons a magic circle that interferes with the enemy attacks. Reduces damage received from enemies while inside the magic circle.
+Damage Taken -#{CaptionRatio}#%{nl}Magic Circle Duration: #{CaptionTime}# seconds
+Repeatedly shoot your pistol subweapon at enemies in front of you to deal damage. Quick and Dead attacks gain a 15% chance to land as critical attacks.
+Skill Factor: #{SkillFactor}#% x6
+Continuously attack using your dagger. A double attack with a high critical rate may stun the enemy. Also deals additional damage when critical attacks occur when attacking from the enemy's back.
+Skill Factor: #{SkillFactor}#% x2{nl}AoE Attack Ratio: #{SkillSR}#{nl}[Stun] duration: #{CaptionRatio2}# seconds{nl}Critical Chance: +#{CaptionRatio}#%
+Reduces the physical and magic defenses of enemies nearby.
+Physical/Magic Defense: -25%{nl}Duration: 10 sec{nl}Targets: 5
+Applies a buff to self and party members nearby that reduces the damage received in amounts proportionate to the caster's maximum HP. The amount of damage reduced decreases by 1% every 0.5 seconds and the buff is removed when either the duration is over or the damage reduction reaches 0%
+Received damage: -#{CaptionRatio}#%{nl}Duration: 20 seconds{nl}Consumes Lensterseum x1
+Increases the player's healing by 40% and reduces the SP cost of skills used. Also grants a buff to self and allies that reduce incoming damage by 10%
+SP consumption: -#{CaptionRatio}#%{nl}[Gymas' Conviction] duration: 40 seconds{nl}[Gymas' Protection] duration: 20 seconds{nl}Consumes Lensterseum x1
+Deals additional damage to enemies with Smugi's Counterattack. The damage dealt increases depending on the target's HP amount.{nl}Damage increase effect is more effective with target's HP value and the increase ranges from a minimum of 120% to a maximum of 240%{nl}Additional damage occurs ever 0.5 seconds.
+Unable to act. Increases minimum critical chance by +30% with incoming Pierce attacks
+Suppresses pain. Can accumulate damage up to 2x that of the player's maximum HP. Invulnerability effect is removed when this threshold is reached.
+Minimum critical chance is applied when using magic attacks and deals additional psychokinesis damage in proportion to the caster's minimum magic attack value.
+Reduces damage dealt to enemies but provides a force shield with successful blocks.
+Increases the threat value gained when attacking monsters
+Great Blessing!
+Reduces the damage taken.
+Decreased Physical/Magic Defense
+Adds +1 skill level for all Magic Circle skills
+High Guard: Shield
+Reduces damage received by 1% per stack. Stack decreases by -1 every 1 seconds
+Increases Healing by 40% and reduces the SP consumption of skills.
+Deals additional damage equal to 1% of target's max. HP (damage cycle 0.5 sec){nl}Applies effect of damage increase in proportion to the HP of the targeted enemy
+Reduces the damage received by a percentage equal to half of the consumed HP (maximum of 10%).
+Gymas' Protection
+Solmiki Two-handed Mace 
+Equip
+Item Effect Cooldown
+Guilds Make TOS (Season 3)
+Damage received -10%, additional decrease of -5% per stack (10% starting from 6 stacks).
+Absorbs the energy of monsters to grant the following effects.{nl}Reduces received damage by 50%{nl}Increases damage output by 50%{nl}Status Ailment resistance increased by 20%{nl}Movement Speed +5{nl}Immunity to Knockback and Knockdowns
+[GTW] Status Ailment Resistance Potion Effect
+Immunity to Knockback and Knockdowns{nl}Immunity to debuffs of Rank3 and below{nl}Boosts movement speed momentarily. Movement speed returns to normal gradually
+Level Dungeon in Progress
+Increases final damage.
+Invincibility cannot be granted
+Invincibility cannot be granted{nl}Revive period of 30 second applied when dead
+Detect Hidden
+A warning signal is displayed when a hidden enemy is nearby.{nl}The hidden enemy is exposed when in proximity.
+Return
+Grants immunity to debuffs of Lv. 3 and below and significantly reduces incoming damage for the duration.{nl}Warps to ally base.
+Escape
+Instantly removes debuffs of Lv. 3 and below and grants immunity to removed debuff.{nl}Increases movement speed.
+Crystal Protection
+Hides the number of Crystals in possession.{nl}The Crystals in possession will not be dropped.
+ATK and DEF values are changed to that of Lv. 400 Unique-grade equipment with +11 ENH and Stage 10 TRA.{nl}Effects are only applied when equipped.
+Power of the Goddess
+ATK and DEF values are changed to that of Lv. 400 Legend-grade equipment with +21 ENH and Stage 10 TRA.{nl}Effects are only applied when equipped.{nl}The buffs is transferred to the enemy player when made incapable of combat.
+Mercenary Buff
+Crystal Movement Speed Buff
+If the player's movement speed is below 50{nl}while approaching a Crystal, the player's movement speed is increased to 50.{nl}The increased movement speed is gradually reduced.{nl}Exclusive to Swordsman and Cleric tree characters
+* Increases threat values when attacking enemies by 50% per attribute level
+* Increases [Bear]'s incoming damage reducing effects by 0.5% per attribute level{nl}* +10% added increase at maximum level
+Liberate: Awaken
+* Reduces the duration of [Liberate] by 6 seconds and increases damage against enemies by 50%
+Liberate: Fortitude
+* Reduces the duration of [Liberate] by 6 seconds and increases the incoming damage reduction effect by 50%
+* Increases the shield amount of [High Guard: Shield] by 0.5% per attribute level{nl}* +10% added increase at maximum level
+* The additional block effect of [Dagger Guard] is changed to additional evasion (only 60% of effect is applied and only while daggers are equipped){nl} ex) Additional 150% block → Additional 90% evasion
+* Increases the skill factor of [Trident Finish] by 0.5% per attribute level{nl}* +10% added increase at maximum level
+* Increases the skill factor of [Dagger Finish] by 0.5% per attribute level{nl}* +10% added increase at maximum level
+* Increases the skill factor of [Blandir Cadena] by 0.5% per attribute level{nl}* +10% added increase at maximum level
+Dagger Guard: Vital Protection
+* Grants 0.25% chance immunity to debuffs of Lv. 3 or below while [Dagger Guard] buff is active{nl}* Increases SP consumption by 50%
+* Enemies damaged by [Mastema] receive continual damage for 20 seconds{nl}* The caster's Magic Attack x [attribute level] x 15% is used as attack value{nl}* Increases SP consumption by 50%
+* Increases the minimum critical chance of some Cannoneer and Matross skills by 1% per attribute level when in the [Kneeling Shot] state{nl}* Applies to the following skills: Cannon Blast, Cannon Shot, Shootdown, Siege Burst, Cannon Barrage, Fire and Run, Explosion, Crouching Strike, Canister Shot
+* Increases the minimum critical chance by 3% per attribute level while using pistol skills under [Tracer Bullet] buff. Does not include basic attacks using the Pistol{nl}* Increases SP consumption by 30%
+* Increases the minimum critical chance of your physical attacks while under the [Zalciai] buff by 5%
+* Increases the minimum critical chance of your magic attacks while under the [Zalciai] buff by 5%
+* 10% chance of dropping Sculpting Wood{nl}when using [Carve Attack]
+* Reduces the duration of [Death Sentence] to [11 + attribute level] seconds, but resets its cooldown if the enemy dies while there is still time left in the debuff{nl}* Increases SP consumption by 30%
+Foretell: Enhance
+* Increases damage reduced using [Foretell] by 0.5% per attribute level{nl}* +10% added increase at maximum level.
+* While [Breaking Wheel] is active, attacking the wheel with melee physical attacks increases its range temporarily to attack enemies outside the original range{nl}* Increases SP consumption by 30%
+Foretell level 1 and above
+Katon no Jutsu Lv 1 and above

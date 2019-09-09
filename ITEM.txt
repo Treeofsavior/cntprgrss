@@ -11099,13 +11099,13 @@ Organ Essence
 Plokste Essence
 Grim Reaper Essence
 Symbol of Pyroego
-You can start the Earth Tower Challenge from the 6th floor of the Lolopanther Area if you give it to Kupole Lhuta.
+You can start the Earth Tower Challenge from the 6th floor of the Lolopanther Area if you give it to Kupole Ruta.
 Symbol of Gosarius
-You can start the Earth Tower Challenge from the 11th floor of the Lolopanther Area if you give it to Kupole Lhuta.
+You can start the Earth Tower Challenge from the 11th floor of the Lolopanther Area if you give it to Kupole Ruta.
 Symbol of Turtai
-You can start the Earth Tower Challenge from the 16th floor of the Lolopanther Area if you give it to Kupole Lhuta.
+You can start the Earth Tower Challenge from the 16th floor of the Lolopanther Area if you give it to Kupole Ruta.
 Symbol of G'bb
-You can start the Earth Tower Challenge from the 1st floor of the Solmiki Area if you give it to Kupole Lhuta.
+You can start the Earth Tower Challenge from the 1st floor of the Solmiki Area if you give it to Kupole Ruta.
 Goddesses' Blessed Gem: Weapon
 A gem with the blessing of the goddesses.{nl}Can be used to enhance a weapon.
 Goddesses' Blessed Gem: Armor
@@ -16840,7 +16840,7 @@ Challenge Mode One Entry Voucher
 Use this to allow one extra entry in Challenge Mode.
 Challenge Mode One Entry Voucher (1 Day)
 Challenge Mode One Entry Voucher (14 Days)
-NA
+Adventure Journal Ranking Compensation Box (1 Day)
 Right-click to open and receive the following items:{nl} - Companion Voucher x12{nl} - x4 EXP Tome x3 {nl} - Attribute Points: 1,000 x2 {nl} - Instanced Dungeon Multiply Token x3{nl} - 500,000 Silver
 Halloween Surprise Cube
 Use to obtain one of the following items at random.{nl}Item List{nl}- Glow-in-the-Dark Skeleton Costume{nl}- Jack-o'-Lantern Helmet{nl}- Halloween Pop-up Book{nl}- Pumpkin Lantern
@@ -20871,9 +20871,9 @@ Lv14 Magic Critical Attack Potion
 Increases your magic critical attack by +62 for 180 seconds. {nl}Right-click to use. Cooldown of 60 seconds.
 Lv15 Magic Critical Attack Potion
 Increases your magic critical attack by +66 for 180 seconds. {nl}Right-click to use. Cooldown of 60 seconds.
+Instantly recovers 5614 HP and gradually recovers 5614 HP over 15 seconds. Right-click to use. Cooldown 45 seconds.
+Instantly recovers 1288 SP and gradually recovers 1288 SP over 15 seconds. Right-click to use. Cooldown 45 seconds.
 Ore Collection
-NA
-NA
 A collection where you can register your items.{nl}You can register an item by right-clicking it.
 Flower Collection
 Bone Collection
@@ -21817,7 +21817,7 @@ Akmo Plate Armor
 Made of sturdy material, it wraps around the whole body comfortably. There is no need to fear enemy strikes in battle.
 Berthas Pilgriste Robe
 A weapon used mostly by pilgrims. Its practicality and ease of use is well suited for long travels.
-BerthasVymedzai Leather Armor
+Berthas Vymedzai Leather Armor
 Berthas Akmo Plate Armor
  - Activates the Wrath buff when equipped{nl} {nl}Wrath{nl} - Grants a (5 * Wrath stacks)% chance of triggering Ignas - Wrath whenever you are attacked. {nl} {nl}Ignas - Wrath{nl} - Maximum attack + 250 (max. 3 stacks, 10 sec duration)
 Primus Pilgriste Robe
@@ -22448,7 +22448,7 @@ Skiaclipse Rod
 This rod was found in the Astral Dimension that the Skiaclipse had been hiding in. Etched on the rod is a recording of how much magic is required to destroy all mankind.
 Skiaclipse Varna Rod
 Skiaclipse Bow
-{nl} {nl}Arrow Sprinkle - Expand{nl} - Increases the skill AoE by {img green_up_arrow 16 16}9.
+{nl} {nl}Arrow Sprinkle - Expand{nl} - Increases the skill AoE range by {img green_up_arrow 16 16}9.
 This bow as crafted by Lucid Winterspoon to be able to pierce through the walls of time.
 Skiaclipse Varna Bow
 Skiaclipse Crossbow
@@ -22457,7 +22457,7 @@ This crossbow is designed to allow quick consecutive shots that had been impossi
 Skiaclipse Varna Crossbow
 These weapons grew in power, taking the power that had been seeping through the dimensional portal as nourishment. Although the portal is now closed and Skiaclipse slumbers once more, the weapons will serve their new wielders for years to come.
 Skiaclipse Mace
-- Monk skill level {img green_up_arrow 16 16}2
+ - All Monk skill levels {img green_up_arrow 16 16}2
 Divine energy had long been used in healing or exorcisms. Their effectiveness grows in proportion to the goodness of the person who harnasses the power. Despite this, highly trained monks often keep close to them an evil object as a reminder of their calling in life. This mace is often carried by monks because of this reason.
 Skiaclipse Maul
 {nl} {nl}Black Death - Extraction{nl} - Defeating enemies under Incineration reduces cooldown of Black Death Steam by -1 second.
@@ -22531,7 +22531,7 @@ This item was crafted to overpower the powerful Skiaclipse. However, the demons 
 Skiaclipse Brigandine
  - Applies Skiaclipse - Assault buff when equipped{nl} {nl}Skiaclipse - Assault{nl}- Damage increased by +(1.25 * buff stack)%{nl}- Threat decreased by -(5 * buff stack)%
 Skiaclipse Steel Mail
- - Applies Skiaclipse - Iron Wall buff when equipped{nl} - 5% chance to apply Skiaclipse - Exalt when hit{nl} {nl}Skiaclipse - Iron Wall{nl} - Damage received reduced by -(1.25 * Iron Wall buff stack)%{nl}Skiaclipse - Exalt{nl}- Maximum HP increased by +(5 * Exalt buff stack)%% (Duration: 10 seconds)
+ - Applies Skiaclipse - Iron Wall buff when equipped{nl} - 5% chance to apply Skiaclipse - Exalt when hit{nl} {nl}Skiaclipse - Iron Wall{nl} - Damage received reduced by -(1.25 * Iron Wall buff stack)%{nl}Skiaclipse - Exalt{nl}- Maximum HP increased by +(5 * Exalt buff stack)% (Duration: 10 seconds)
 Skiaclipse Varna Plate Armor
 Skiaclipse Varna Robe
 Skiaclipse Varna Leather Armor
@@ -22542,7 +22542,7 @@ Sage Master Rhupas Kehel was interested more in how the materials were transport
 Skiaclipse Plate Pants
 Creating an alloy out of Pyranium and Cryonium was believed to be impossible but the dark magic of the Skiaclipse was found to act as an emulsifier and made it possible to mix the two ores to create a new alloy, which was used to create this item.
 Skiaclipse Slacks
-Skiaclipse Trouser
+Skiaclipse Trousers
 Skiaclipse Steel Pants
 Skiaclipse Varna Plate Pants
 Skiaclipse Varna Leather Pants
@@ -22682,3 +22682,459 @@ Upgrades your equipment to Stage 10 Transcendence.{nl}Can only be used on items 
 [PP] Rare Enchant Jewel
 [PP] Unique Enchant Jewel
 [PP] Legend Enchant Jewel
+[PP] Lv. 400 Stage 10 Transcendence Scroll
+Upgrades your equipment to Stage 10 Transcendence.{nl}Can only be used on items of Stage 0~9 Transcendence. Right-click on the item and choose the equipment that you want to upgrade.{nl}Can only be used on items of Lv. 400 or below.
+Scarlet Beachware Costume (Male)
+Cool summer costume for the hot summer. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.
+Scarlet Beachware Costume (Female)
+Marina Oceanware Costume (Male)
+Cool summer costume for the hot summer. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.
+Marina Oceanware Costume (Female)
+Beached Out Trunks (Male)
+Cool summer costume for the hot summer. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.
+Beached Out See-through Costume (Female)
+Hibiscus Straw Hat
+Straw hat decorated with a hibiscus flower.{nl}Can be exchanged for medals at the Exchange Shop.
+Lobelia Straw Hat
+Straw hat decorated with a lobelia flower.{nl}Can be exchanged for medals at the Exchange Shop.
+Ribbon Straw Hat
+Straw hat decorated with a cool blue ribbon.{nl}Can be exchanged for medals at the Exchange Shop.
+Cool Shades
+Cool shades to block out the blinding sun.{nl}Can be exchanged for medals at the Exchange Shop.
+Manly Man Beard
+Fake beard made with Chupacabra fur.{nl}Can be exchanged for medals at the Exchange Shop.
+Red Pincer Sword
+Sawfish Two-handed Sword
+Sawfish Rapier
+Conch Shell Horn Dagger
+Pink Parasol Spear
+Blue Parasol Pike
+Butter-roasted Squid Rod
+Crab-hunter Staff
+Ukulele Mace
+Guitar Two-handed Mace
+Toucan Toy Musket
+Octo-cannon
+Mackerel Pistol
+Rubber Ducky Crossbow
+Hibiscus Bow
+Steering Wheel Shield
+Emerald Beach Wings
+Mysterious wings created from the essence of the clear, blue ocean.{nl}Can be exchanged for medals at the Exchange Shop.
+[Event] Chupacabra Food
+Food used to feed and grow your Chupacabra.{nl}Visit the Chupacabra Adoption Agent in the Pyromancer Master's laboratory to grow your Chupacabra.{nl}Will be automatically deleted at the end of the event period.
+Title - My Buddy Chupacabra
+Title given to participants of the My Buddy Chupacabra event. Right-click to use.
+A special type of bait used for fishing. Gives you a chance of catching Hidden Treasure Chests, Silver Fish and Small Silver Fish when used as bait.{nl}Will be automatically 
+ at the end of the event period.
+Select and obtain one Lv. 400 unidentified equipment item.{nl}The item will not be timed or include any trading restrictions.{nl}Will be removed at the end of the event period.
+2nd Anniversary Armband
+This weapon reacts to the slightest movement of the target after hitting it. However, only the finest movement is required making the delay almost non-exinstant. 
+ - 2x damage against knocked down enemies
+Many Rogues used this weapon for assassination but it has since gone out of style for some reason. However, this weapon is still appreciated among some circles for its deadliness.
+ - Final block rate {img green_up_arrow 16 16}2%{nl} - 5% chance of resisting all removable status ailments.
+{nl} {nl}Iron Will{nl} - Immunity to removable status ailments when the following skills are used{nl} {nl} - Steed Charge{nl} - Joust{nl} - Rhongomiant{nl} - Dragon Fall{nl}
+ - Additional attack during Backstab +100%
+ - Triggers the Ignas - Immunity buff when equipped{nl} {nl}Ignas - Immunity{nl} - Grants a (2.5 * Ignas - Immunity stacks)% chance of resisting all removable debuff.
+ - Applies Skiaclipse - Iron Wall buff when equipped{nl} - 5% chance to apply Skiaclipse - Exalt when hit{nl} {nl}Skiaclipse - Iron Wall{nl} - Damage received reduced by -(1.25 * Iron Wall buff stack)%{nl}Skiaclipse - Exalt{nl}- Maximum HP increased by +(5 * Exalt buff stack)% (Duration: 10 seconds)
+ - Triggers the Ignas - Immunity buff when equipped{nl} {nl}Ignas - Immunity{nl} - Grants a (2.5 * Ignas - Immunity stacks)% chance of resisting all removable debuff.
+[Event] Adventurer's Necklace (30 Days)
+Carnas Magija Necklace
+A necklace rewarded to wise adventurers who helped in defending Saalus Convent.
+Carnas Zeisty Necklace
+A necklace rewarded to fearsome adventurers who helped in defending Saalus Convent.
+Carnas Pyginis Necklace
+A necklace rewarded to brave adventurers who helped in defending Saalus Convent.
+[Event] Adventurer's Bracelet (30 Days)
+Carnas Magija Bracelet
+A bracelet rewarded to wise adventurers who helped in defending Saalus Convent.
+Carnas Zeisty Bracelet
+A bracelet rewarded to fearsome adventurers who helped in defending Saalus Convent.
+Carnas Pyginis Bracelet
+A bracelet rewarded to brave adventurers who helped in defending Saalus Convent.
+Red Champion Costume
+White Champion Costume
+Blue Champion Costume
+Popolion Pirate Costume (Male)
+A fearsome Popolion pirate costume. Use to change your appearance.
+Popolion Pirate Costume (Female)
+Yellow Beret
+It is said that great merchants do not shy away from spending a fortune in acquiring valuable goods.{nl}This hat is said to be such an item.{nl}Use to change your appearance.
+[Event] Deathweaver Cutter (30 Days)
+[Event] Deathweaver Tooth (30 Days)
+[Event] Deathweaver Rod (30 Days)
+[Event] Melinas Staff (30 Days)
+[Event] Deathweaver Bow (30 Days)
+[Event] Deathweaver Crossbow (30 Days)
+[Event] Vubbe Morning Star (30 Days)
+[Event] Vubbe Armor ( 30 Days)
+[Event] Vubbe Pants (30 Days)
+[Event] Cheminis Sword (30 Days)
+[Event] Chapparition Two-handed Sword (30 Days)
+[Event] Chapparition Rod (30 Days)
+[Event] Patrice Staff (30 Days)
+[Event] Chapparition Bow (30 Days)
+[Event] Chapparition Shooter (30 Days)
+[Event] Chapparition Mace (30 Days)
+[Event] Silver Spear (30 Days)
+[Event] Cheminis Pike (30 Days)
+[Event] Mark Tunic (30 Days)
+[Event] Mark Pants (30 Days)
+[Event] Durandal (30 Days)
+[Event] Flamini (30 Days)
+[Event] Secretum (30 Days)
+[Event] Candle Staff (30 Days)
+[Event] Heart Seeker (30 Days)
+[Event] Shooting Star (30 Days)
+[Event] Escanciu Mace (30 Days)
+[Event] Doom Spear (30 Days)
+[Event] Laideca (30 Days)
+[Event] Brigandine Armor (30 Days)
+[Event] Brigandine Pants (30 Days)
+[Event] Velniup (30 Days)
+[Event] Tily Two-handed Sword (30 Days)
+[Event] Temere (30 Days)
+[Event] Sunflower (30 Days)
+[Event] Wildling Bane (30 Days)
+[Event] Seimos Crossbow (30 Days)
+[Event] Seimos Mace (30 Days)
+[Event] Seimos Spear (30 Days)
+[Event] Seimos Pike (30 Days)
+[Event] Hunting Armor (30 Days)
+[Event] Hunting Pants (30 Days)
+[Event] Flame (30 Days)
+[Event] Hell and Heaven (30 Days)
+[Event] Casti Rod (30 Days)
+[Event] Maledoom (30 Days)
+[Event] Casti Bow (30 Days)
+[Event] Karacha Crossbow (30 Days)
+[Event] Drake Tail (30 Days)
+[Event] Casti Spear (30 Days)
+[Event] Magas Pike (30 Days)
+[Event] Duelist (30 Days)
+[Event] Veteran Tunic (30 Days)
+[Event] Veteran Pants (30 Days)
+[Event] Pensara Sword (30 Days)
+[Event] Pensara Two-handed Sword (30 Days)
+[Event] Pensara Rod (30 Days)
+[Event] Power Staff (30 Days)
+[Event] Marksman (30 Days)
+[Event] Didel Grand Cross (30 Days)
+[Event] Pensara Mace (30 Days)
+[Event] Pensara Spear (30 Days)
+[Event] Pensara Pike (30 Days)
+[Event] Spada (30 Days)
+[Event] Finisher (30 Days)
+[Event] Bandit Armor (30 Days)
+[Event] Bandit Pants (30 Days)
+[Event] Primus Migantis Sword (30 Days)
+[Event] Primus Migantis Two-handed Sword (30 Days)
+[Event] Primus Migantis Rod (30 Days)
+[Event] Primus Migantis Bow (30 Days)
+[Event] Primus Migantis Crossbow (30 Days)
+[Event] Primus Migantis Mace (30 Days)
+[Event] Primus Migantis Two-handed Mace (30 Days)
+[Event] Primus Migantis Spear (30 Days)
+[Event] Primus Migantis Pike (30 Days)
+[Event] Primus Migantis Staff (30 Days)
+[Event] Primus Migantis Pistol (30 Days)
+[Event] Primus Migantis Rapier (30 Days)
+[Event] Primus Migantis Cannon (30 Days)
+[Event] Primus Migantis Musket (30 Days)
+[Event] Primus Albinosas Leather Armor (30 Days)
+[Event] Primus Albinosas Leather Pants (30 Days)
+[Event] Primus Pevordimas Sword (30 Days)
+[Event] Primus Pevordimas Two-handed Sword (30 Days)
+[Event] Primus Pevordimas Rod (30 Days)
+[Event] Primus Pevordimas Bow (30 Days)
+[Event] Primus Pevordimas Crossbow (30 Days)
+[Event] Primus Pevordimas Mace (30 Days)
+[Event] Primus Pevordimas Two-handed Mace (30 Days)
+[Event] Primus Pevordimas Spear (30 Days)
+[Event] Primus Pevordimas Pike (30 Days)
+[Event] Primus Pevordimas Staff (30 Days)
+[Event] Primus Pevordimas Pistol (30 Days)
+[Event] Primus Pevordimas Rapier (30 Days)
+[Event] Primus Pevordimas Cannon (30 Days)
+[Event] Primus Pevordimas Musket (30 Days)
+[Event] Primus Kaulas Leather Armor (30 Days)
+[Event] Primus Kaulas Leather Pants (30 Days)
+[Event] Primus Raffye Sword (30 Days)
+[Event] Primus Raffye Two-handed Sword (30 Days)
+[Event] Primus Raffye Rod (30 Days)
+[Event] Primus Raffye Bow (30 Days)
+[Event] Primus Raffye Crossbow (30 Days)
+[Event] Primus Raffye Mace (30 Days)
+[Event] Primus Raffye Two-handed Mace (30 Days)
+[Event] Primus Raffye Shield (30 Days)
+[Event] Primus Raffye Spear (30 Days)
+[Event] Primus Raffye Pike (30 Days)
+[Event] Primus Raffye Dagger (30 Days)
+[Event] Primus Raffye Staff (30 Days)
+[Event] Primus Raffye Pistol (30 Days)
+[Event] Primus Raffye Rapier (30 Days)
+[Event] Primus Raffye Cannon (30 Days)
+[Event] Primus Raffye Musket (30 Days)
+[Event] Primus Jenevellis Leather Armor (30 Days)
+[Event] Primus Jenevellis Leather Pants (30 Days)
+[Event] Stiletto (30 Days)
+[Event] Blue Stiletto (30 Days)
+[Event] Berthas Sketis Dagger (30 Days)
+[Event] Berthas Short Duelist (30 Days)
+[Event] Berthas Small Crystaras (30 Days)
+[Event] Berthas Pajoritas Dagger (30 Days)
+[Event] Primus Migantis Dagger (30 Days)
+[Event] Primus Pevordimas Dagger (30 Days)
+[Event] Wooden Buckler (30 Days)
+[Event] Round Shield (30 Days)
+[Event] Berthas Sketis Shield (30 Days)
+[Event] Berthas Spike Kindl (30 Days)
+[Event] Berthas Rodeleine Shield (30 Days)
+[Event] Berthas Pajoritas Shield (30 Days)
+[Event] Primus Migantis Shield (30 Days)
+[Event] Primus Pevordimas Shield (30 Days)
+[Event] Practice Cannon (30 Days)
+[Event] Berthas Reine Cannon (30 Days)
+[Event] Berthas Pajoritas Cannon (30 Days)
+[Event] Practice Musket (30 Days)
+[Event] Berthas Crystaras Musket (30 Days)
+[Event] Practice Rapier (30 Days)
+[Event] Dunkel Rapier (30 Days)
+[Event] Berthas Sketis Rapier (30 Days)
+[Event] Berthas Duelist Rapier (30 Days)
+[Event] Dunkel Pistol (30 Days)
+[Event] Dunkel Wooden Pistol (30 Days)
+[Event] Berthas Sketis Pistol (30 Days)
+[Event] Berthas Spiare Pistol (30 Days)
+[Event] Berthas Alcris (30 Days)
+[Event] Berthas Pajoritas Pistol (30 Days)
+Cannot dismantle, enhance, transcend, extracted for ichors, add sockets, change appearance, awaken or enchant.
+[Event] Traxia (30 Days)
+[Event] Erera Cannon (30 Days)
+[Event] Two-handed Battle Maul (30 Days)
+[Event] Crystaras Musket (30 Days)
+[Event] Adatag (30 Days)
+[Event] Pensara Musket (30 Days)
+[Event] Reine Two-handed Mace (30 Days)
+[Event] Stropy Cannon (30 Days)
+[Event] Vista Cannon (30 Days)
+[Event] Migantis Musket (30 Days)
+[Event] Finisher (30 Days)
+[Event] Two-handed Rune Mace (30 Days)
+[Event] Veinarazis Two-handed Mace (30 Days)
+[Event] Pajoritas Two-handed Mace (30 Days)
+[Event] Krendall Two-handed Mace (30 Days)
+[Event] Savinose Legva Sword
+[Event] Savinose Legva Two-handed Sword
+[Event] Savinose Legva Rod
+[Event] Savinose Legva Bow
+[Event] Savinose Legva Crossbow
+[Event] Savinose Legva Mace
+[Event] Savinose Legva Two-handed Mace
+[Event] Savinose Legva Spear
+[Event] Savinose Legva Pike
+[Event] Savinose Legva Staff
+[Event] Savinose Legva Rapier
+[Event] Savinose Legva Cannon
+[Event] Savinose Legva Musket
+[Event] Savinose Legva Dagger
+[Event] Savinose Legva Pistol
+[Event] Savinose Legva Shield
+[Event] Savinose Pilgriste Gloves
+[Event] Savinose Pilgriste Boots
+[Event] Savinose Pilgriste Pants
+[Event] Savinose Pilgriste Robe
+[Event] Savinose Vymedzai Leather Gloves
+[Event] Savinose Vymedzai Leather Boots
+[Event] Savinose Vymedzai Leather Pants
+[Event] Savniose Vymedzai Leather Armor
+[Event] Savinose Akmo Gauntlets
+[Event] Savinose Akmo Greaves
+[Event] Savinose Akmo Plate Pants
+[Event] Savinose Akmo Plate Armor
+Savinose Legva Sword (20 min)
+PVP Rental Equipment. The item will be removed when leaving the current zone.
+Savinose Legva Two-handed Sword (20 min)
+Savinose Legva Rod (20 min)
+Savinose Legva Bow (20 min)
+Savinose Legva Crossbow (20 min)
+Savinose Legva Mace (20 min)
+Savinose Legva Two-handed Mace (20 min)
+Savinose Legva Spear (20 min)
+Savinose Legva Pike (20 min)
+Savinose Legva Staff (20 min)
+Savinose Legva Rapier (20 min)
+Savinose Legva Cannon (20 min)
+Savinose Legva Musket (20 min)
+Savinose Legva Dagger (20 min)
+Savinose Legva Pistol (20 min)
+Savinose Legva Shield (20 min)
+Savinose Pilgriste Gloves (20 min)
+Savinose Pilgriste Boots (20 min)
+Savinose Pilgriste Pants (20 min)
+Savinose Pilgriste Robe (20 min)
+Savinose Vymedzai Leather Gloves (20 min)
+Savinose Vymedzai Leather Boots (20 min)
+Savinose Vymedzai Leather Pants (20 min)
+Savniose Vymedzai Leather Armor (20 min)
+Savinose Akmo Gauntlets (20 min)
+Savinose Akmo Greaves (20 min)
+Savinose Akmo Plate Pants (20 min)
+Savinose Akmo Plate Armor (20 min)
+Nepagristas Necklace (20 min)
+Nepatristas Necklace (20 min)
+Rangovas Necklace (20 min)
+Abyss Irredian Necklace (20 min)
+Cevisa Irredian Necklace (20 min)
+Nepagritas Bracelet (20 min)
+Nematomas Bracelet (20 min)
+Rangovas Bracelet (20 min)
+Abyss Irredian Bracelet (20 min)
+Cevisa Irredian Bracelet (20 min)
+[Kupole] Savinose Weapon Selection Box
+Collect 20 and use to obtain a choice of Asiomage equipment recipe. Right-click to use.
+Collect 20 and use to obtain a choice of Wastrel equipment recipe. Right-click to use.
+Collect 40 and use to obtain a choice of Ignas equipment recipe. Right-click to use.
+Collect 10 and use to obtain a choice of Masinios equipment recipe. Right-click to use.
+Boruta's Pouch: Guild
+Boruta Seal Box: Guild
+Upgrades your equipment to Stage 5 Transcendence.{nl}Can only be used on items of Stage 0~4 Transcendence. Right-click on the item and choose the equipment that you want to upgrade.
+[Event] Golden Ichor Extraction Kit
+[Event] Transcendence Stage 8 Scroll (90 Days)
+(Applies to the character's basic weight value)
+[Event] Growth Gem
+[Event] Growth Gem. Will be automatically deleted at the end of the event period.
+Battle Point Coin
+Can be used to buy timed equipment for PvP. Can be used at the Rental Shop.{nl}Will be automatically removed when leaving the current zone.
+[Event] Level Up Chest (Lv. 15)
+Right-click to use. You character must be level 15 or above to use.{nl}Will be automatically deleted at the end of the event period.
+[Event] Level Up Chest (Lv. 40)
+Right-click to use. You character must be level 40 or above to use.{nl}Will be automatically deleted at the end of the event period.
+[Event] Level Up chest (Lv. 50)
+Right-click to use. You character must be level 50 or above to use.{nl}Will be automatically deleted at the end of the event period.
+[Event] Level Up Chest (Lv. 75)
+Right-click to use. You character must be level 75 or above to use.{nl}Will be automatically deleted at the end of the event period.
+[Event] Level Up Chest (Lv. 85)
+Right-click to use. You character must be level 85 or above to use.{nl}Will be automatically deleted at the end of the event period.
+[Event] Level Up Chest (Lv. 100)
+Right-click to use. You character must be level 100 or above to use.{nl}Will be automatically deleted at the end of the event period.
+[Event] Level Up Chest (Lv. 120)
+Right-click to use. You character must be level 120 or above to use.{nl}Will be automatically deleted at the end of the event period.
+[Event] Level Up Chest (Lv. 140)
+Right-click to use. You character must be level 140 or above to use.{nl}Will be automatically deleted at the end of the event period.
+[Event] Level Up Chest (Lv. 170)
+Right-click to use. You character must be level 170 or above to use.{nl}Will be automatically deleted at the end of the event period.
+[Event] Level Up Chest (Lv. 180)
+Right-click to use. You character must be level 180 or above to use.{nl}{nl}Will be automatically deleted at the end of the event period.
+[Event] Level Up Chest (Lv. 200)
+Right-click to use. You character must be level 200 or above to use.{nl}Will be automatically deleted at the end of the event period.
+[Event] Level Up Chest (Lv. 220)
+Right-click to use. You character must be level 220 or above to use.{nl}Will be automatically deleted at the end of the event period.
+[Event] Level Up Chest (Lv. 230)
+Right-click to use. You character must be level 230 or above to use.{nl}Will be automatically deleted at the end of the event period.
+[Event] Level Up Chest (Lv. 270)
+Right-click to use. You character must be level 270 or above to use.{nl}{nl}Will be automatically deleted at the end of the event period.
+[Event] Level Up Chest (Lv. 315)
+Right-click to use. You character must be level 315 or above to use.{nl}Will be automatically deleted at the end of the event period.
+[Event] Level Up Chest (Lv. 330)
+Right-click to use. You character must be level 330 or above to use.{nl}Will be automatically deleted at the end of the event period.
+[Event] Level Up Chest (Lv. 350)
+Right-click to use. You character must be level 350 or above to use.{nl}Will be automatically deleted at the end of the event period.
+[Event] Daily Attribute Points Box
+Event item.{nl}Grants 500 Attribute Points. Right-click to use.{nl}Will be automatically deleted at the end of the event period.
+[Event] Level Up Chest (Lv. 380)
+Right-click to use. You character must be level 380 or above to use.{nl}Will be automatically deleted at the end of the event period.
+[Event] Attribute Points 1,000
+Event item.{nl}Grants 1000 Attribute Points. Right-click to use.{nl}Will be automatically deleted at the end of the event period.
+Increases looting chance by +200 for 30 minutes.{nl}Will be automatically deleted at the end of the event period.
+[Summer Festa] Event item. Will be automatically removed at the end of the event period.
+[Summer Festa] Event item. Recovers _500 HP and SP every 10 seconds for 30 minutes{nl}Can only be used in Klaipeda, Orsha and Fedimian.{nl}Will be automatically deleted at the end of the event period.
+[Summer Festa] Event item. Use to increase movement speed by +2 for 30 minutes{nl}Can only be used in Klaipeda, Orsha and Fedimian.{nl}Will be automatically deleted at the end of the event period.
+[Summer Festa] Event item. Use to increase looting chance +300 for 30 minutes{nl}Can only be used in Klaipeda, Orsha and Fedimian.{nl}Will be automatically deleted at the end of the event period.
+Select the equipment you want to receive from the list.{nl}Will be automatically deleted at the end of the event period.
+[Event] Level Up Chest (Lv. 400)
+Right-click to use. You character must be level 400 or above to use.{nl}Will be automatically deleted at the end of the event period.
+[Event] Savinose Weapon Selection Box
+Use to obtain a +11 ENH Stage 8 TRA [Event] Savinose Weapon of your choice.{nl}Obtained item cannot be dismantled or further enhanced.
+[Event] Masinios Weapon Selection Box
+Use to obtain a +11 ENH Stage 5 TRA [Event] Masinios Weapon of your choice.{nl}Obtained item cannot be dismantled or further enhanced.
+[Event] Asio Weapon Selection Box
+Use to obtain a +11 ENH Stage 5 TRA [Event] Asio Weapon of your choice.{nl}Obtained item cannot be dismantled or further enhanced.
+[Event] Vasalos Coin
+Special coins created for the 2019 summer event.{nl}Can be used at the Vasalos Coin Shop.{nl}Will be automatically removed at the end of the event period.{nl}
+Title - Core Member
+Contains a title awarded for participating in the Guilds Make TOS event.{nl}Will be automatically deleted at the end of the event period.
+[Event] Savinose Armor Selection Box
+Use to obtain a +11 ENH [Event] Savinose Armor of your choice.{nl}Obtained item cannot be dismantled or further enhanced.
+Monster Card Album: Red (14 Days)
+Monster Card Album: Blue (14 Days)
+Monster Card Album: Green (14 Days)
+Monster Card Album: Purple (14 Days)
+Collects energy released during combat. It collects experience points during battle when activated.
+Solution filled to the brim. Use to add stats on Legend-grade items.
+[GTW] Status Ailment Resistance Potion
+Removes all debuffs of rank 3 and below and applies the following effects when used.{nl}    - Immunity to Knockback/Knockdown for 5 seconds{nl}    - Immunity to debuffs of rank 3 and below for 5 seconds{nl}    - Boosts movement speed momentarily. Movement speed returns to normal gradually over 5 seconds{nl}Can only be used in Spot Areas.
+TOS Beach Ball
+Use to obtain a TOS Beach Ball.{nl}Will be automatically deleted at the end of the event period.
+Use to warp to the Goddess Statue in Klaipeda. Right-click to use. Cooldown: 60 min.
+Orsha Warp Stone
+Use to warp to the Goddess Statue in Orsha. Right-click to use. Cooldown: 60 min.
+Black Bear Helmet
+Cute Black Bear helmet.{nl}Use to change your appearance.{nl}Can be exchanged for medals at the Exchange shop.
+Black Bear Armband
+Cute Black Bear armband.{nl}Can be exchanged for medals at the Exchange shop.
+Black Bear Costume
+Cute and huggable Black Bear Costume. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.
+Camping Costume (Male)
+Costume for a romantic camping trip. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.
+Camping Costume (Female)
+Jungle Explorer Costume (Male)
+Practical costume for exploring the harsh jungles. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.
+Jungle Explorer Costume (Femlae)
+Bubble Tea Accessory
+Bubble Tea hair accessory with a black bear decoration.{nl}Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.
+Gabija Doll Accessory
+A doll made in the likeness of the Goddess Gabija.{nl}Can be exchanged for medals at the Exchange Shop.
+Explorer's Hat
+A practical hat worn when exploring the jungles.{nl}Can be exchanged for medals at the Exchange Shop.
+Black Bear Ears
+Cute accessory in the shape of black bear ears.{nl}Can be exchanged for medals at the Exchange Shop.
+BBQ Skewer Two-handed Sword
+Roasted Marshmallow Rapier
+Survival Knife
+Roasted Kepa Spear
+Red Kepa Roast Spike
+Steel Frying Pan Rod
+Grilled Mackerel Staff
+Lumberjack Axe Mace
+Buttered Corn Two-handed Mace
+Canned Kepa Cannon
+Sausage Crossbow
+Calcot Bow
+Grilled Platter Shield
+Explorer's Backpack
+A perfect backpack for traveling. Cannot be worn with wings.{nl}Can be exchanged for medals at the Exchange Shop.
+[Summer Festa] Event item. Will be automatically removed at the end of the event period.
+[Summer Festa] Event item. Recovers +500 HP and SP every 10 seconds for 30 minutes{nl}Can only be used in Klaipeda, Orsha, Fedimian, Saalus Convent, Guild Hangout, Highlander Master's Training Hall, Bokor Master's House and Pyromancer Master's Lab.{nl}Will be automatically deleted at the end of the event period.
+[Summer Festa] Event item. Use to increase movement speed by +2 for 30 minutes{nl}Can only be used in Klaipeda, Orsha, Fedimian, Saalus Convent, Guild Hangout, Highlander Master's Training Hall, Bokor Master's House and Pyromancer Master's Lab.{nl}Will be automatically deleted at the end of the event period.
+[Summer Festa] Event item. Use to increase looting chance +300 for 30 minutes{nl}Can only be used in Klaipeda, Orsha, Fedimian, Saalus Convent, Guild Hangout, Highlander Master's Training Hall, Bokor Master's House and Pyromancer Master's Lab.{nl}Will be automatically deleted at the end of the event period.
+A seal carried by Kupole Urbas who kept watch over Boruta under orders from the Goddess Auste.{nl}Give to Goddess Auste in Sulivinas Lair to reduce the effect of Boruta's Roar.
+A seal carried by Kupole Urbas who kept watch over Boruta under orders from the Goddess Auste.{nl}Give to Goddess Auste in Sulivinas Lair to reduce the effect of Boruta's Roar.{nl}Will be removed automatically at the end of the event period.
+[Summer Festa] Lv. 15 Basic Condensed HP Potion
+Instantly restores 5614 of max. HP. {nl}Additionally restores 5614 HP every 2 seconds over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.{nl}Will be automatically deleted at the end of the event period.
+[Summer Festa] Lv. 15 Basic Condensed SP Potion
+Instantly restores 1288 of max. SP. {nl}Additionally restores 1288 SP every 2 seconds over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.{nl}Will be automatically deleted at the end of the event period.
+[Event] Guild Quest Reward Coin: Bronze
+Use to increase Guild EXP by +100.{nl}Will be automatically deleted at the end of the event period.
+[Event] Guild Quest Reward Coin: Silver
+Use to increase Guild EXP by +200.{nl}Will be automatically deleted at the end of the event period.
+[Event] Guild Quest Reward Coin: Gold
+Use to increase Guild EXP by +400.{nl}Will be automatically deleted at the end of the event period.
+Increases an item's transcendence stage to Stage 3.{nl}Can only be used in items transcended to Stage 0~2. Right-click the scroll, then select the item to transcend.{nl}Will be automatically deleted at the end of the event period.
+Increases an item's transcendence stage to Stage 5.{nl}Can only be used in items transcended to Stages 0 to 4. Right-click the scroll, then select the item to transcend.{nl}Will be automatically deleted at the end of the event period.
+[Summer Festa] Red Reward Box
+Right-click to obtain one of the following items at random.{nl}- [Event] Stage 3 Transcendence Scroll x1{nl}- [Event] Guild Quest Reward Coin: Bronze x1{nl}- [Summer Festa] Lv.15 Basic Condensed HP Potion x1{nl}- [Summer Festa] Lv.15 Basic Condensed SP Potion x1{nl}- [Event] Vasalos Coin x(1~2){nl}Will be automatically deleted at the end of the event period.
+[Summer Festa] Blue Reward Box
+Right-click to obtain one of the following items at random.{nl}- [Event] Stage 5 Transcendence Scroll x1{nl}- [Event] Guild Quest Reward Coin: Silver x1{nl}- [Summer Festa] Lv.15 Basic Condensed HP Potion x2{nl}- [Summer Festa] Lv.15 Basic Condensed SP Potion x2{nl}- [Event] Vasalos Coin x(5~10){nl}Will be automatically deleted at the end of the event period.
+[Summer Festa] Black Reward Box
+Right-click to obtain one of the following items at random.{nl}- Butler and Maid Costume Box (Black) x1{nl}- [Event] Guild Quest Reward Coin: Gold x1{nl}- [Event] Small Elixir of HP Recovery x2{nl}- [Event] Small Elixir of SP Recovery x2{nl}- [Summer Festa] Lv.15 Basic Condensed HP Potion x5{nl}- [Summer Festa] Lv.15 Basic Condensed SP Potion x5{nl}- [Event] Vasalos Coin x(10~20){nl}Will be automatically deleted at the end of the event period.

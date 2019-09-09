@@ -9585,7 +9585,7 @@ Apsimesti Crossroads
 Uskis Arable Land
 Vilna Forest
 Dina Bee Farm
-Baron Allerno 
+Baron Allerno
 Monastery
 Verkti Square
 Petrified City
@@ -15346,7 +15346,7 @@ You've restored the energies!
 You've restored the energies!{nl}The energies form the crystal pole are coming into the body!
 Capture a Hanaming!
 Capture the Hanaming before the other players!
-NA
+Capture the Hanaming before the other players!
 The game has ended.
 {@st42}Goal
 Mage Tower Formation Movement Magic Circle
@@ -20762,7 +20762,7 @@ Defeat all monsters to wake up Tomb Lord!
 Attack the center Royal Cube to activate it and wake up Shnayim!
 Entered Earth Tower's Lolopanther Area
 Enter Earth Tower's Lolopanther Area
-Wait for Kupole Lhuta
+Wait for Kupole Ruta
 The passage to 1F opens after 20 seconds
 Moving to 1F
 Move to Earth Tower 1F
@@ -23350,7 +23350,7 @@ To move to {FLOOR}F, you need [{ITEM}] ({VALUE}x).{nl}You can move right away.{n
 Entered Earth Tower Solmiki Area
 About the Solmiki Area
 Starting the Solmiki Area
-About Kupole Lhuta
+About Kupole Ruta
 About the Origin of Area Names
 : use to move.
 Use leader symbol
@@ -24671,8 +24671,8 @@ Monsters have started to attack as soon as Jaonus disappeared after tinkering wi
 The monster have started to attack!
 Help me!!
 Stop
-Lhuta!
-Lhuta, I was worried
+Ruta!
+Ruta, I was worried
 There is something that I must discuss with you
 Please gather closely
 Goddess...
@@ -25470,7 +25470,7 @@ Now let's go and deal with Vhaldobas.
 I shall return to Flurry first.{nl}Come to the center.
 You'll need [{ITEM}] (x{VALUE}) to move to {FLOOR}.{nl}Only you and your party members will be able to go together.{nl}Do you wish to proceed?
 Follow Party Leader
-Move to the Solmiki Area with your party leader{nl}(You may go there by talking to Kupole Lhuta)
+Move to the Solmiki Area with your party leader{nl}(You may go there by talking to Kupole Ruta)
 Move to the Solmiki Area with your party leader
 You cannot enter the Earth Tower Solmiki Area!{nl}The party members do not meet the specified conditions{nl}(Level not high enough)
 Level Up {Auto_1}!
@@ -25632,7 +25632,7 @@ The mission for Earth Tower 37F will begin shortly
 The mission for Earth Tower 37F was a success!{nl}Move to the next floor
 Earth Tower 38F
 The first objective has begun{nl}Protect the Kupole for 270 seconds from the monsters
-Protect Kupole Lhuta
+Protect Kupole Ruta
 The mission for Earth Tower 38F will begin shortly
 The mission for Earth Tower 38F was a success!{nl}Move to the next floor
 Earth Tower 39F
@@ -25729,7 +25729,7 @@ Kannushi
 This item cannot be enhanced.
 Items with 0 potential will be consumed if transcendence fails.{nl}Attempt transcendence?
 Equipment will not be destroyed when attempting enhancement with this anvil, but its enhancement stage can be reduced if the process fails. Attempt enhancement?
-Extracting a gem will cause its level to decrease. Monster gems and Lv 1 gems will be consumed when extracted. Are you sure you want to inster it?
+Extracting a gem will cause its level to decrease. Monster gems and Lv 1 gems will be consumed when extracted. Are you sure you want to insert it?
 Repair Cost: {Price}{nl}Are you sure you want to repair?
 Identify
 Cannot use an unidentified item.
@@ -26588,7 +26588,7 @@ Merchant NPCs can be found in town{nl}and in certain fields.
 {nl} {nl} 
 Items Sold
 {nl}Items are shown in the order you sold them.
- 
+registered items can be right-clicked {img mouseclick_right 30 30} to repurchase or delete them.
 You need silver funds and an anvil to enhance an item.
 {nl}{nl}Select an item, then click Repair to restore its durability to 100%.
 Gems can be used for extra item effects and are obtained from dungeons.
@@ -28364,10 +28364,10 @@ No field boss in this region.
 N/A
 Your sell list contains expired items.
 Discount
-[Premium] New Items [20% OFF]
-[Premium] Bestsellers [30% OFF]
-[Premium] Half Price [50% OFF]
-[Premium] Mega Deal [70% OFF]
+[Premium] New Items
+[Premium] Bestsellers
+[Premium] Half Price
+[Premium] Mega Deal
 Dungeon Info
 Destroying a Tree Root Crystal restores stamina and, for characters until level 200, increases movement speed.
 {s24}Congratulations!{nl}{PC} has obtained a(n) {ITEMNAME}{nl}from Leticia's Secret Cube!
@@ -37518,7 +37518,7 @@ Follow Giltine: Assault on Klaipeda
 Nope, this isn't for me.
 You are wise, indeed.
 You have already collected the event reward for the day.
-- Click the summoning devices near the Statue of Goddess Ausrine to summon monsters!{nl}- The summoned monsters are sent to the opposing camp.{nl}- The team who successfully sends the most monsters during the 8-minute limit wins.{nl}- You need to defeat the other monsters so they don't trespass into your camp.{nl}- At the 4-minute mark, the team with the lowest number of successful breaks receives a +10 movement speed increase on their monsters.{nl}  Be careful, the monsters are quick!
+- Click the summoning devices near the Statue of Goddess Ausrine to summon monsters!{nl}- The summoned monsters are sent to the opposing camp.{nl}- The team who successfully sends the most monsters during the 8-minute limit wins.{nl}- You need to defeat t
  Requires 30 items.
 Select companion
 [Dico Tomb Thieves]{nl}Arghidas
@@ -37753,9 +37753,9 @@ Siege Towers cannot be mounted while under the [{buffNAME}] buff.
 No guild has seized this region yet.
 After abandoning a guild, you cannot participate in GTW for {day} days.{nl}(You can participate in {time}.)
 {day} days {hour} hrs {min} min {sec} sec
-- Guilds that seize a Spot can adjust the tax rates in cities ({Min}% to {Max}%). {nl}- The default tax rate applied is {Default}%.{nl}- Tax rates can be adjusted only by the Guild Master or members with the corresponding authority.{nl}- Tax rates can be readjusted {ModifyDelay} hours after the initial adjustment.{nl}- The process ends {DisableModifyDelay1} hours before the start of GTW {DisableModifyDe
-- Purchasing items, weapons, armor, accessories and recipes{nl}- Adopting and training Companions, and purchasing Companion food{nl}- Purchasing from the Magic Association{nl}- Purchasing fishing supplies{nl}- Repairs, identification, dismantlement, socket addition and gem extraction{nl}- Changing weapon appearance without preventing Potential loss{nl}- Expanding Team Storage slots{nl}- Purchasing Gems from the Geraldas siblings{nl}- Purchasing items from Blacksmith Teliavelis
-- Tax lists are updated {TaxLoadDelay} hours after the end of GTW.{nl}- Tax allocation is available for {TaxDistributeTime} days after the payment day.{nl}- Important: Tax not distributed during the aforementioned period disappears from the system.{nl}- Important: Tax can no longer be distributed after the guild is disbanded.{nl}- Taxes can be allocated by the Guild Master or a member with corresponding authority.{nl}- Guilds that completed tax allocation
+- Guilds that seize a Spot can adjust the tax rates in cities ({Min}% to {Max}%). {nl}- The default tax rate applied is {Default}%.{nl}- Tax rates can be adjusted only by the Guild Master or members with the corresponding authority.{nl}- Tax rates can be 
+- Purchasing items, weapons, armor, accessories and recipes{nl}- Adopting and training Companions, and purchasing Companion food{nl}- Purchasing from the Magic Association{nl}- Purchasing fishing supplies{nl}- Repairs, identification, dismantlement, socke
+- Tax lists are updated {TaxLoadDelay} hours after the end of GTW.{nl}- Tax allocation is available for {TaxDistributeTime} days after the payment day.{nl}- Important: Tax not distributed during the aforementioned period disappears from the system.{nl}- I
 {Date} days
 {#000000}You have {#ff0000}Silver{#000000} distributed from the guild.{nl}Will you collect it now?
 Different cities are taxed depending on the Spot seized.{nl}({Cities})
@@ -37767,7 +37767,7 @@ Collected taxes from city: {img silver 20 20/} {Amount}
 Total Collected Amount: {img silver 20 20/} {Amount}
 {Percent}% of commission earned during the week
 {City}'s current tax rate: {Rate}%{nl}{City}'s taxing guild: {GuildName}
-- Guild members can collect distributed taxes for {TaxReceiveTime} days.{nl}- Upon collection, silver is deposited directly into the player's inventory.{nl}- Take note that all taxes uncollected during the remaining time will be removed from the game.{nl}- Also take note that any uncollected taxes will be removed when leaving the guild
+- Guild members can collect distributed taxes for {TaxReceiveTime} days.{nl}- Upon collection, silver is deposited directly into the player's inventory.{nl}- Take note that all taxes uncollected during the remaining time will be removed from the game.{nl}
 Collect Tax
 You can adjust tax rates after {min} minutes.
 Tax rates cannot be set at the moment.
@@ -40724,8 +40724,8 @@ Aqueduct Bridge Area: Not Seized
 Baron Allerno: Not Seized
 This week's GTW session is now complete. Here are the winning guilds.
 GTW will be back next week at the same time. Make sure to come back!
-- Guilds that seize a Spot can adjust tariff rates in cities ({Min}% to {Max}%). {nl}- The default rate applied is {Default}%.{nl}- City tariff rates can be adjusted only by the Guild Master or members with the corresponding authority.{nl}- Tariff rates can be readjusted {ModifyDelay} hour(s) after the initial adjustment.{nl}- The process ends {DisableModifyDelay1} hour(s) before the start of GTW
-- Tariff fund distribution details are updated {TaxLoadDelay} hours after the end of GTW.{nl}- Fund distribution is available for {TaxDistributeTime} days after being received.{nl}- Important: Funds not distributed during the aforementioned period disappear from the system.{nl}- Important: Funds can no longer be distributed after the guild is disbanded.{nl}- Tariff funds can be distributed by the Guild Master or a member with corresponding authority.{nl
+- Guilds that seize a Spot can adjust tariff rates in cities ({Min}% to {Max}%). {nl}- The default rate applied is {Default}%.{nl}- City tariff rates can be adjusted only by the Guild Master or members with the corresponding authority.{nl}- Tariff rates c
+- Tariff fund distribution details are updated {TaxLoadDelay} hours after the end of GTW.{nl}- Fund distribution is available for {TaxDistributeTime} days after being received.{nl}- Important: Funds not distributed during the aforementioned period disappe
 Tariffs apply for different cities depending on the Spot seized.{nl}({Cities})
 City tariff fund data is refreshed every hour.
 Market tariff funds are collected depending on the fees generated on a weekly basis{nl}and the rate is dependent on the seized Spot area.{nl}({Cities})
@@ -40734,7 +40734,7 @@ Retrieved Market Tariffs: {img silver 20 20/} {Amount}
 Retrieved City Tariffs: {img silver 20 20/} {Amount}
 Total Tariff Funds: {img silver 20 20/} {Amount}
 {City} Tariff Rate: {Rate}%{nl}Managing Guild: {GuildName}
-- Guild members can retrieve their distributed tariff funds for {TaxReceiveTime} days.{nl}- Upon retrieving them, the Silver is deposited directly into the current character's inventory.{nl}- Take note that all funds not retrieved during the time limit will be removed from the game.{nl}- Also take note that any funds not retrieved will be removed if you leave the guild.
+- Guild members can retrieve their distributed tariff funds for {TaxReceiveTime} days.{nl}- Upon retrieving them, the Silver is deposited directly into the current character's inventory.{nl}- Take note that all funds not retrieved during the time limit wi
 City tariff rate adjustments available in {min} minute(s).
 You cannot adjust city tariff rates now.
 All tariff funds have been distributed.
@@ -41983,7 +41983,7 @@ Recipe - Skiaclipse Cotton Wear
 Recipe - Skiaclipse Brigandine
 Recipe - Skiaclipse Steel Mail
 Recipe - Skiaclipse Slacks
-Recipe - Skiaclipse Trouser
+Recipe - Skiaclipse Trousers
 Recipe - Skiaclipse Steel Pants
 /badge
 The skill cannot be used in this area.
@@ -42145,3 +42145,505 @@ Heals allies within 80 range for 25% of the amount healed when using skill (Dura
 Goduma's Barrier{nl}- Reduces damage received by missing HP%(Maximum of 90%, duration 30 seconds){nl}Dragon Strength Lv 1:{nl}- Duration increased by 10 seconds
 Gymas' Conviction{nl}- Healing: +30%, SP consumption for all skills: -25% (duration 40 seconds){nl}Dragon Strength Lv 1:{nl}- Additional SP consumption reduction by 25%
 Smugis' Counterattack{nl}- Accumulates the damage dealt over 10 seconds then deals the accumulated damage divided over 3~7 hits{nl} {nl}Dragon Strength Lv 1:{nl}- The number of hits fixed to 7
+Right-click to use and obtain the items.{nl}- [PP] Legend Enchant Jewel x1{nl}- [PP] Unique Enchant Jewel x20
+Challenge Mode Entry Reset Time
+Restricted from personal trades
+My Buddy Chupacabra
+Scarlet Beachware Costume Selection Box
+Use to select one of the following items.{nl} - Scarlet Beachwear Costume (Male) x1{nl} - Scarlet Beachwear Costume (Female) x1
+Marina Oceanware Costume Selection Box
+Use to select one of the following items.{nl} - Marina Beachwear Costume (Male) x1{nl} - Marina Beachwear Costume (Female) x1
+Beached Out Costume Selection Box
+Use to select one of the following items.{nl}- Beached Out Trunks (Male) x1{nl}- Beached Out See-through Costume (Female) x1
+Use synchronized player location (YES:1 or NO:0)
+Use latency time and location calculation (1/0)
+[Rota's Special Support] Participate (Astral Tower Closed Quarters)
+[Rota's Special Support] Participate (Tomb of the White Crow: Unique)
+{@st47}{s18}{PET}{/}{/} is already accompanying you.
+You require {@st66d_y}{s18}{COUNT}{/}{/} {@st47}{s18}{ITEM}{/}{/} in order to grow your Chupacabra.
+I haven't eaten anything today, chuchu...
+Wait up, chu...
+You cannot grow your Chupacabra any more.
+{@st47}{s18}{PET}{/}{/} will grow when you go outside.
+{NAME}'s {PET}
+You can no longer grow your Chupacabra today.
+Go Together
+Go Alone
+Right-click to use and obtain the items.{nl} - To begin: Weapon Box{nl} - Elixir of HP Recovery x20{nl} - Elixir of SP Recovery x20{nl} - Diamond Anvil (14 Days){nl} - Token{nl} - Recipe - 1 Day HP Potion x5{nl} - Recipe - 1 Day SP Potion x5
+Right-click to use and obtain the items.{nl} - Attribute Points 10,000 x2{nl} - Instanced Dungeon Reset Voucher x5{nl} - Challenge Mode One Entry Voucher x3{nl} - Challenge Portal Scroll x10{nl} - Instanced Dungeon Multiply Token x20{nl} -x8 EXP Tome x3{nl} - Lv15 Basic Condensed HP Potion x100{nl} - Lv15 Basic Condensed SP Potion x100
+Stage 8 Transcendence SCroll
+Upgrades your equipment to Stage 8 Transcendence.{nl}Can only be used on items of Stage 0~7 Transcendence. Right-click on the item and choose the equipment that you want to upgrade.
+Enhancement Package 
+Right-click to use and obtain the items.{nl}- Stage 8 Transcendence Scroll{nl}- Mysterious Magnifier x10 + 1{nl}- Artisan Magnifierx10 +1{nl}- Diamond Anvil (14 Days){nl}- Golden Anvil x3{nl}- Silver Anvil x5{nl}- Recipe - 1 Day HP Potion{nl}- Recipe - 1 Day SP Potion
+Card Package
+Right-click to use and obtain the items.{nl}- Shining Legend Enhancement Card{nl}- Lv. 10 Enhancement Card Album x3{nl}- Shining Monster Card Album: ㅒOminous{nl}- Elixir of HP Recovery x10{nl}- Elixir of SP Recovery x10
+Gem Package
+Right-click to use and obtain the items.{nl}- Shining 8-Star Gem Abrasive x3{nl}- Ancient Golden Coins x25{nl}- Ancient Golden Socket{nl}- Elixir of HP Recovery x20{nl}- Elixir of SP Recovery x20
+Growth Package
+Right-click to use and obtain the items.{nl}- Attribute Points 10,000 x2{nl}- Legend Card Slot Unlock Voucher{nl}- Instanced Dungeon Reset Voucher x5{nl}- Challenge Mode One Entry Voucher x3{nl}- Challenge Portal Scroll x10{nl}- Instanced Dungeon Multiplier Token x20{nl}- x8 EXP Tome x3{nl}- Elixir of HP Recovery x20{nl}- Elixir of SP Recovery x20
+ALL-IN-ONE Package
+Right-click to use and obtain the items.{nl}- Enhancement Package{nl}- Card Package{nl}- Gem Package{nl}-Level Up Package{nl}Planium x5{nl}- Silver Ichor Kit (14 Days){nl}- Shining Golden Ichor Extraction Kit
+[Lv. 400] Stage 8 Transcendence Scroll
+Upgrades your equipment to Stage 8 Transcendence.{nl}Can only be used on items of Stage 0~7 Transcendence. Right-click on the item and choose the equipment that you want to upgrade.{nl}Can only be used on items of Lv. 400 or below.
+2019 Leticia's Treasure Chest (August)
+A chest filled with Leticia's most precious items. Use to obtain the following items.{nl} - Token Box (5 ea) x1{nl}Transcendence Selection Box x1{nl} Shining Golden Socket Box x1
+August Attendance Check
+Borutos Minivern
+Borutos Miniverns are the scavengers of the demon world. They can feed on carcasses, but they tend to hunt other small necrophagous animals. These monsters aren't built to live underground, but they are often spotted in sewers or caves, where they go to hunt.
+Borutos Minivern Warrior
+Borutos Miniverns are less prone to following orders, preferring to listen to their instinctive needs. Therefore, this species was modified by high-rank demons to play a more specific role in combat. It is slightly stronger and more intelligent than other Miniverns.
+Borutos Minivern Mage
+Some Borutos Minivern Warriors have the ability to draw out magic from their bodies through the process of awakening. These monsters are an example of that.
+Borutos Rabbler
+Borutos Rabblers and Punters are closely related creatures that serve in the demon world as both livestock and hunting companions. 
+Core Member
+Title given to players who were the first to complete [The Tomb of the White Crow: Legend] Raid on the server.
+Title given to players who completed [The Tomb of the White Crow] within the event period.
+First on the server to clear [The Tomb of the White Crow: Legend] raid
+Cleared [The Tomb of the White Crow: Legend] raid within even period
+The monster has petrified.{nl}Petrify the other monsters within 5 seconds or the petrification will become undone and the monster will power up.
+Weaken Defense
+Your equipment begins to break down from enemy attacks.{nl}Your defense is lowered for 10 seconds and will continue to decrease when attacked by enemies.
+Strike of Wrath
+The minions of Skiaclipse gain powerful attacks.{nl}Being attacked by monsters with this buff grants 
+ buff.
+Lapezard's Shield
+Provides 90% reduction against damage received from Lapezard's shield and immunity to some status ailments.
+Immune to Status Ailments
+Grants immunity to some status ailments.
+Party Reinforcement (Uphill Defense)
+Party members have been reinforced with Fire Crystals.{nl}Their attack will be increased during the Uphill Defense mission.
+The monsters have become electrocuted from lightning.{nl}Their movement speed has drastically reduced and recieve continuous damage.
+The boss goes into a fit of rage. Its attack and attack speed increases and deals continuous damage to those around it.
+Stop Immunity
+Immune to Stop
+The Mark of the Skiaclipse
+Increases the damage received from the Skiaclipse.
+Damage reduction
+Movement speed reduced, received damage reduced
+Shadowmancer Master's Blessing
+Deactivated the sealing stone device to receive the powers hidden away by the Shadowmancer Master.{nl}Increase attack +100%{nl}Increase healing +100%{nl}SP Recovery
+Tile Removal Count
+Joint Penalty Immunity
+Ancient Being
+Orders from Goddess Austeja has arrived. Dragon Boruta has awakened in Sulivinas Lair and is preparing to return to this world. Help Goddess Austeja and her Kupoles to stop Boruta and seal him away once again.
+ {@st66d_y}{s17}{nl}[Important]{/}{/}{nl}- To participate in the Territory Wars, you need to set the option in the Guild window's Territory Wars tab to   
+{nl} {nl}Territory Wars sessions take place on a set schedule in maps called Spot Areas.{nl} {nl}It is divided into Champions League and Challengers League.{nl} {nl}{@st66d_y}{s17}[Champions League] Spots{/}{/}{nl} - Genar Field{nl} - Aqueduct Bridge Area{nl} - Baron Allerno{nl} {nl}{@st66d_y}{s17}[Challengers League] Spots{/}{/}{nl} - Nuoridin Falls{nl} - Sventimas Exile{nl} - Salvia Forest{nl} {nl}Please take not of the fact that the rewards differ for each League.{nl} {nl}
+are fields in which Territory Wars can take place and the location of these areas can be checked via the World Map.{nl}(From top-left: Champions League free Spot area, Challengers League free Spot area, Champions League seized Spot are and Challengers League seized Spot area)
+If you become incapable of combat inside a Spot Area, you can choose one area to respawn out of the following.{nl}- Nearby city {nl}- Guild Tower (requires an installed Guild Tower){nl}- Base Camp (requires a Squire Base Camp){nl} {nl}[Important]{nl}{@st66d_y}{s17}[Important]{/}{/}{nl}You will automatically be moved to a nearby city after some time has passed.
+Seize buffs increase in level the longer the spot area remains seized by the same guild.{nl}The buff effects are as follows.{nl} {nl}{@st66d_y}{s17}[Guardian]{/}{/}{nl} - Decreases damage received by 10%{nl} - Additional 5% decrease per stack (10% starting from 6 stacks){nl} - Max. 7 stacks (stack increases with the duration the spot is seized for){nl} {nl}The buff will be removed upon leaving the seized spot area.
+The guild of the player who deals the last blow to an Amplifier earns 5 seize points the following beneficial buffs.{nl} {nl}{@st66d_y}{s17}[Damage and move speed increase]{/}{/}{nl} - Damage +30% increase{nl} - Move speed +5{nl} {nl} {nl}The buff will be removed upon leaving the Spot area where the amplifiers are located.
+The last guild to attack the monster receives a buff which includes the following.{nl} {nl}{@st66d_y}{s17}[Thick Skin]{/}{/}{nl} - Damage received reduced by 50%{nl} - Damage dealt +50%{nl} - Status Ailment Resistance +20%{nl} - Movement Speed +5{nl} - Immunity to knockback and knockdown{nl} {nl}The buff will be removed once you leave the spot area in which the monster was killed.{nl} {nl}The last guild to attack the Tree Root Crystal receives various buffs depending on the type of Crystal destroyed.
+In Gemstone Feud, players are divided into two teams, Golden Note Mercenary and Pledge of the Blade Mercenary, to participate in a PvP battle.
+{@st66d_y}{s17}[Entry Requirement]{/}{/}{nl}Players must be above Character Lv. 300 and not belong in a party.{nl} {nl}{@st66d_y}{s17}[Entry Point]{/}{/}{nl}The Gemstone Feud can be entered through the Gemstone Feud NPC.{nl}The NPC can be located in the following areas.{nl}1. Klaipeda (North) 2. Miner's Village (North end){nl}3. Orsha (East) 4. Fedimian (West)
+{nl} {nl}{@st66d_y}{s17}[Entry]{/}{/}{nl}- Takes place daily in two sessions from 21:10 ~ 21:25/21:30 ~ 21:45{nl}- Daily entry times are 21:10 ~ 21:15 and 21:30 ~ 21:35{nl}- The first session will be held in [Uniform Mode] and the second session will be held in [Normal Mode].{nl} {nl}{@st66d_y}{s17}[Important]{/}{/}{nl}- You will be placed into a random Gemstone Feud channel regardless of the city you have entered from and you will also be returned to a random channel of the city you have entered from after the Feud ends.{nl}- Re-entering the Feud area will place you in your originally allocated team.{nl}- You will not be eligible to receive [Mercenary Badges] when failing to collect a minimum of 10 points in Gemstone Feud.{nl}- But you can still receive bonus badges earned from ranking.
+{nl} {nl}{@st66d_y}{s17}[Participation]{/}{/}{nl}- Players are given 1 minute to prepare before Feud begins and no skills can be used for this duration.{nl}- Players are allocated into random teams when entering the Feud area.{nl}- Upon being allocated in a team, players are transported to the starting area.{nl}- Defeat monsters and ores to acquire 
+.{nl}- The number of Gemstones possessed will be displayed overhead when a player carries over 30 Gemstones.
+{nl} {nl}- Every time you defeat a monster, you receive the   
+   buff, which stacks up as you defeat more monsters. You can have a maximum of 50 buff stacks.{nl} {nl} 
+{nl}You get points according to how many   
+{nl} {nl}- Cleric and Swordsman tree classes have their movement speed increased when approaching the Crystal ore.{nl} {nl}- All players receive a +3 movement speed and HP/SP recovery cycles are reduced by 10 seconds.{nl}- The damage received while not being able to use skills is also reduced by 30%
+{nl} {nl}- You can check your current score at the board in the upper section of the screen. The scoreboard shows you the points of both camps, how much time is left, and how many members are in each camp.
+{nl} {nl}{@st66d_y}{s17}[Safety Zone]{/}{/}{nl}Players become 
+ when in a non-combat state inside the Safety Zone and recover 3% of their HP and SP every second.{n}Invincibility effects are removed for enemy players while inside the Safety Zone and they are transported their starting area after 30 seconds when defeated.
+{nl} {nl}{@st66d_y}{s17}[Plundering Gemstones]{/}{/}{nl}If you defeat a character or the Gemstone trader of the opposite camp, you can steal their 
+.{nl}{nl}The number of plundered 
+ s you steal increases in proportion to how many they are carrying.{nl}If you defeat the exchanger, their   
+s are distributed amongst the team members and the player who has defeated the trader will receive twice the number of 
+.{nl} {nl}When you are killed by a player in the opposing team, you will revive at the starting point in 5 seconds and gain 1 minute of 
+{nl} {nl}{@st66d_y}{s17}[Buff Objects]{/}{/}{nl}There are various Buff Objects scattered in the Gemstone Feud area.{nl}- Buff Objects grant beneficial buffs to players in its closest proximity.
+{nl} {nl}{@st66d_y}{s17}[Boss]{/}{/}{nl}After 10 minutes in the session, a boss monster appears.
+{nl} {nl}{@st66d_y}{s17}[Battle Results]{/}{/}{nl}The session lasts 15 minutes. After it ends, the final results are revealed and the rewards are sent to the participants.
+Victory is decided based on the total of points gathered by each camp. After the results are announced, you receive Mercenary Badges that equal to 3x the Personal Points that you have earned, to a maximum of 1500 badges.{nl}The winning team receives 1500 bonus badges while the losing team receives 300 badges additionally. In the event of a tie, both teams receive a bonus of 300 Badges.
+{nl} {nl}You can use the Mercenary Badges you receive from{nl}the Gemstone Feud to purchase other items through the Gemstone Feud NPC.{nl} {nl}{@st66d_y}{s17}[MVP]{/}{/}{nl}
+Mine Points
+have reached the Top 5 Rank for your team, you receive additional Mercenary Badges.{nl} {nl}{@st66d_y}{s17}[Uniform Mode]{/}{/}{nl}- Uniform Mode is Gemstone Feud that provides all players with equipment of equal grade.{nl}- In Uniform Mode, the player's equipment is removed and only equipment rented from the [Rental Shop] can be equipped.{nl}(* Appearance items and monster cards will remain as is.)
+{nl}- Rental Shops are located in each team's starting areas and are removed at the end of the session.{nl}- Equipment can be rented using [Battle Point Coins] that are issued upon entry.{nl}- All rented gear and Battle Point Coins are removed when leaving the Feud area.
+{nl} {nl}{@st66d_y}{s17}[Rental Items]{/}{/}{nl}- All items are at +16 ENH and Stage 10 TRA, and do not have Set Stats.{nl}- Players are each issued 15 Battle Point Coins.{nl}- Weapon and Armor{nl} Level and Grade: Lv. 400 Legend{nl} Required Battle Point Coin: 1 per item{nl}- Accessories{nl} Level and Grade: Lv. 350~380 Unique{nl} Required Battle Point Coin: 1 per item
+The final guild to seize a Champions League Spot at the end of each GTW session can adjust a city's tariff rates and retrieve the funds accumulated in the Market.
+{@st66d_y}{s17}[City Tariffs]{/}{/}{nl}Each Champions League Spot seized corresponds to one city where the winning guild can temporarily adjust the tariff rates and collect the accumulated amount.
+Genar Field: Klaipeda{nl}Baron Allerno: Orsha{nl}Aqueduct Brdige Area: Fedimian{nl}(Champions League Spots: Tariffed cities) 
+{nl} {nl}{@st66d_y}{s17}[Adjusting Tariffs]{/}{/}{nl}Click the [Champions League] button under the combat category of your Guild window to adjust your city's tariff rates.
+{@st66d_y}{s17}[Setting Up Tariff]{/}{/}{nl}- City tariff rates are set to a default of 10%, and you can adjust them to any value between 0% and 20%.{nl}- The rates can be adjusted only by the guild master or a member with the corresponding authority.{nl}- After changing a city's rates, they can changed again only after 1 hour.{nl}- The rates cannot be changed 1 hour or less before a GTW session, nor until 5 minutes after.{nl}- After each session, if the winning guild for Champions League spots is different from the previous week's, tariff rates are reset to 10%.{nl}- No tariffs (0%) apply to members of the winning guild in the corresponding city.
+{nl} {nl}{@st66d_y}{s17}[Retrieving Tariff Funds]{/}{/}{nl}Whenever Silver is spent on eligible items within the city, the corresponding tariffs accumulate accordingly.{nl}(Tariff funds accumulate starting 5 minutes after a GTW session, and until the end of the next session.)
+{@st66d_y}{s17}[Eligible Items]{/}{/}{nl}- Various items, weapons, armor, accessories and recipes{nl}- Companion adoption, training and companion food{nl}- Magic Association supplies{nl}- Fishing supplies{nl}- Repair, identification, item dismantling, socket addition and gem extraction{nl}- Changing weapon appearance with the potential loss option unchecked{nl}- Expanding Team Storage slots{nl}- Geraldas family gems{nl}- Blacksmith Teliavelis supplies{nl}- Seal enhancement{nl} {nl}- When tariff rates are set to 10%, the amount of Silver spent is the same as before. If they're set to higher or lower than that, the amount changes accordingly.{nl}- No tariffs (0%) apply to members of the winning guild in the corresponding city.
+{nl} {nl}{@st66d_y}{s17}[Market Tariffs]{/}{/}{nl}According to your seized Spot Area, a percentage of the Market fees generated will accumulate as tariffs and can be retrieved.
+{nl} {nl}{@st66d_y}{s17}[Tariff Fund Distribution]{/}{/}{nl}After the collecting period is over, you can share the funds with your team in the [Fund Distribution] tab.
+{@st66d_y}{s17}[Fund Distribution]{/}{/}{nl}- Tariff distribution details are updated 1 hour after the collecting period ends.{nl}- The total funds available for collecting include both city tariffs and Market tariffs.{nl}- You can distribute the funds collected until 7 days after they become available.{nl}- Funds not distributed within this 7-day period will be eliminated.{nl}- If the guild is disbanded, non-distributed funds will be eliminated.{nl}- Tariff funds can be distributed only by the guild master or members with the corresponding authority.{nl}- Guild members who receive distributed funds can retrieve them through the alert message on the bottom left side of their screen.{nl}- Members to whom the funds have been distributed have 14 days to retrieve them (the funds will be eliminated after that).{nl}- All records of tariff fund distribution are kept in the Fund Records tab.
+{nl} {nl}{@st66d_y}{s17}[Retrieving Funds]{/}{/}{nl}After tariff funds are distributed through the guild, each member can then retrieve their own allocated amount.
+If you have funds to receive, an alert will pop up on the bottom left side of your screen, from where you can retrieve them.{nl}[Important]{nl}- The alert message will pop up for all your characters.{nl}- The alert will continue to display as long as you have funds left to retrieve.{nl}- Members have 14 days to retrieve the funds after they are distributed.{nl}- Retrieved funds will be sent to the inventory of the character that receives them.{nl}- Funds not retrieved within 14 days will be permanently eliminated.{nl}- If you abandon the guild, you will no longer be able to retrieve any funds you may have been allotted.
+Server's MongoDB Driver Error Count
+Tomb of the White Crow: Unique
+Tomb of the White Crow: Legend
+Legend Raid: Tomb of the White Crow
+Tomb of the White Crow Legend Cube
+Secret Cube Gold Reopen Voucher
+Grants exemption from your first Secret Cube Gold reopening cost.{nl}Item is removed on use.
+Secret Cube Gold Reopen Voucher x5 Box
+Box containing Secret Cube Gold Reopen Voucher x5.{nl}Use to receive the items.
+[Event] Mysterious Magnifier (14 Days)
+[Event] Artisan Magnifier (14 Days)
+at the Barbershop (Beauty Shop 1F). 
+Change Hairstyle
+can be clicked to receive a 10% discount when dying your hair.{nl}Cannot be used along with other discount coupons. Cannot be used when dying wigs.
+can be clicked to receive a 20% discount when dying your hair.{nl}Cannot be used along with other discount coupons. Cannot be used when dying wigs.
+can be clicked to receive a 30% discount when dying your hair.{nl}Cannot be used along with other discount coupons. Cannot be used when dying wigs.
+can be clicked to receive a 40% discount when dying your hair.{nl}Cannot be used along with other discount coupons. Cannot be used when dying wigs.
+can be clicked to receive a 50% discount when dying your hair.{nl}Cannot be used along with other discount coupons. Cannot be used when dying wigs.
+can be clicked to receive a 60% discount when dying your hair.{nl}Cannot be used along with other discount coupons. Cannot be used when dying wigs.
+can be clicked to receive a 70% discount when dying your hair.{nl}Cannot be used along with other discount coupons. Cannot be used when dying wigs.
+can be clicked to receive a 80% discount when dying your hair.{nl}Cannot be used along with other discount coupons. Cannot be used when dying wigs.
+can be clicked to receive a 90% discount when dying your hair.{nl}Cannot be used along with other discount coupons. Cannot be used when dying wigs.
+can be clicked to dye your hair for free.{nl}Cannot be used along with other discount coupons. Cannot be used when dying wigs.
+[Event] Hair 90% OFF (14 Days)
+[Event] Dye 90% OFF (14 Days)
+Can be clicked to receive a 90% discount when dying your hair.{nl}Cannot be used along with other discount coupons. Cannot be used when dying wigs.
+[Swordsman]
+[Highlander]
+[Peltasta]
+[Hoplite]
+[Centurion]
+[Barbarian]
+[Cataphract]
+[Doppelsoeldner]
+[Rodelero]
+[Murmillo]
+[Fencer]
+[Dragoon]
+[Templar]
+[Lancer]
+[Matador]
+[Nak Muay]
+[Retiarius]
+[Hackapell]
+[Wizard]
+[Pyromancer]
+[Cryomancer]
+[Psychokino]
+[Alchemist]
+[Sorcerer]
+[Chronomancer]
+[Necromancer]
+[Elementalist]
+[Mimic]
+[Sage]
+[Warlock]
+[Featherfoot]
+[Rune Caster]
+[Shadowmancer]
+[Onmyoji]
+[Taoist]
+[Bokor]
+[Archer]
+[Hunter]
+[Quarrel Shooter]
+[Ranger]
+[Sapper]
+[Wugushi]
+[Fletcher]
+[Pied Piper]
+[Appraiser]
+[Falconer]
+[Cannoneer]
+[Musketeer]
+[Mergen]
+[Matross]
+[Tiger Hunter]
+[Cleric]
+[Priest]
+[Krivis]
+[Druid]
+[Sadhu]
+[Dievdirbys]
+[Oracle]
+[Monk]
+[Pardoner]
+[Paladin]
+[Chaplain]
+[Shepherd]
+[Plauge Doctor]
+[Kabbalist]
+[Inquisitor]
+[Miko]
+[Zealot]
+[Exorcist]
+[Scout]
+[Assasin]
+[Outlaw]
+[Squire]
+[Corsair]
+[Shinobi]
+[Thaumaturge]
+[Enchanter]
+[Linker]
+[Rogue]
+[Schwarzer Reiter]
+[Bullet Marker]
+[Ardito]
+[Sheriff]
+INT {img green_up_arrow 16 16} 25{nl}SPR {img green_up_arrow 16 16} 25{nl}STR {img green_up_arrow 16 16} 25{nl}DEX {img green_up_arrow 16 16} 25
+Magic Attack {img green_up_arrow 16 16} 571{nl}Physical Attack {img green_up_arrow 16 16} 571
+SP {img green_up_arrow 16 16} 1435{nl}Sumazinti{nl}- Reduces the magic/physical defense of 5 enemies nearby by 25% for 10 seconds (cooldown 100 sec){nl} {nl}Dragon Strength Lv. 1{nl}- Duration increased to 15 sec and magic/physical defense reduction increased to 30%
+DEX {img green_up_arrow 16 16} 25{nl}SPR {img green_up_arrow 16 16} 25
+HP {img green_up_arrow 16 16} 25{nl}DEX {img green_up_arrow 16 16} 25{nl}SPR {img green_up_arrow 16 16} 25
+Goduma's Barrier{nl}- Reduces damage received by 1/5 of consumed HP%(Maximum of 10%, continuous effect){nl}- Damage reduction effect on allies on use in proportion to caster's maximum HP (maximum 50%){nl}- 1% damage reduction every 0.5 sec for 20 sec duration{nl} {nl}Dragon Strength Lv. 1:{nl}- Maximum damage reduction increased to 60%
+Gymas' Conviction{nl}- Healing: +40%, SP consumption for all skills: -25% (40 sec duration){nl}- Damaged received reduced by 10% for allies when used (20 sec duration){nl} {nl}Dragon Strength Lv. 1:{nl}- Additional SP consumption reduction by 25%
+Smugis' Counterattack{nl}- Increases damage dealt in proportion to enemy's current HP value (Enemy's current HP / Enemy's max. HP) x 200% (min. 120% ~ max. 240%){nl}- Fixed damage equal to 1% of enemy's max. HP (maximum: 10,000, Damage cycle: 0.5 sec, Duration: 20 sec){nl} {nl}Dragon Strength Lv 1:{nl}- Duration increased by 5 sec
+{/}: Defeat the purple monsters in {@st66d_y}fields of level 100 and above{/} to create a portal to the Challenge Mode.{nl}Inside, your Looting Chance, i.e. {@st66d_y}your chances of getting random stat equipment increase{/} and, for each Stage, you can receive {@st66d_y}
+{/}provides items such as Silver Ichor Extraction Kit, Goddess' Blessed Gems, Premium Awakening Stone and miscellaneous items that temporarily boost your character's attributes when fighting bosses.{nl}Gemstone Feud can be entered through {@st66d_y}
+Equipment Rental Shop
+Uska's Support Shop
+Receive City Warpstones
+Defeat the Yeti that suddenly appeared
+Carnas Magija Set
+Enhancement: Magic Critical Attack +45 for every ENH (max. 2,100){nl} {nl}Transcendence: Magic Critical Attack +30 per stage of TRA
+Carnas Zeisty Set
+Enhancement: Healing +8 for every ENH (max. 400){nl} {nl}Transcendence: Healing +16 per stage of TRA
+Carnas Pyginis Set
+Enhancement: Physical Critical Attack +45 for every ENH (max. 2,100){nl} {nl}Transcendence: Physical Critical Attack +30 per stage of TRA
+Limited to once per target (Shares count with Resurrection skills).
+Buff duration 1/3
+Leather armor doesn't provide a lot of defense, but if you complete a Leather set you can get increased critical rates.
+/guildquest
+/coin
+This item cannot be dismantled.
+You have used all level {LEVEL} {GRADE} Enchant Jewel items.{nl}Close the Enchant Jewel UI?
+The equipped Ichor will be destroyed.{nl}Proceed?
+Random Stat Ichors cannot be equipped on Random Stat Legend Items.
+You do not have the required class to use this companion.
+You cannot have more than {MaxStack} [{Name}] items.
+Some quest effects may not be displayed correctly. Proceed?
+This item can only used in the cities of Klaipeda, Orsha and Fedimian
+Enhance Party Attack [Requires Fire Crystal x{COUNT}]
+Summon Lightning Field [Requires Fire Crystal x{COUNT}]
+Event Rewards can only be received while joined in a Guild
+You have received your City Warpstone.{nl}Check your inventory!
+Open to players below Lv. 380.
+Use the Vasalos Coin Shop
+You have gathered a total of {@st66d_y}{s18}{GET}{/}{/} coins today. You can gather {@st66d_y}{s18}{REMAIN}{/}{/} more coins.
+Receive Guild Membership Reward
+Traded Supply Certificate for Green Supplies.
+You do not have any Supply Certificates. 
+Inserting Supply Certificate
+You already have Green Supplies.
+Obtained Purple Supplies.
+Receive item.
+Do not receive item.
+The Supply Device has been activated.{nl}To attack the Coward Chesha,{nl}you must obtain a Magical Bracelet from the Supply Device.
+Coward Chesha has appeared.{nl}Coward Chesha can be attacked using the Magical Charm.
+Successfully broke the Coward Chesha's shield.{nl}Coward Chesha has ran away leaving behind a trail of Supplies.
+Coward Chesha has run away.
+You already have the Yellow Scroll.
+Used the scroll. Damage dealt against Misrus increases.
+You do not have any scrolls in possession.
+You hear something approach.
+You hear loud approaching footsteps.{nl}It seems the Coward Chesha has almost arrived at the sewers.
+Supply Device
+Coward Chesha
+Used the scroll. Damage received from Misrus decreases.
+Used the scroll. Damage received from Misrus will be nullified to a certain amount.
+Go see Monk Aistis.
+(Old) Check individual rewards
+The path has been opened.{nl}Becareful
+Your Guild is battling against the Dragon Boruta
+Your Guild has successfully subdued the Dragon Boruta
+After abandoning a guild, you cannot participate in Guild Events for {day} days.{nl}(You can participate in {time}.)
+This week's Battle in Sulivanis Lair has come to an end, and the ranking is as follows.
+The Guild Territory Wars will soon begin,{nl}taking place from 8 pm to 9 pm.
+Seizing a spot in GTW{nl}allows you access to the Battle in Sulivinas Lair.{nl}We are looking forward to see you there.
+1st : [{partyName}] Guild [ {TimeRankMin} min {TimeRankSec} sec ]
+2nd : [{partyName}] Guild [ {TimeRankMin} min {TimeRankSec} sec ]
+3rd : [{partyName}] Guild [ {TimeRankMin} min {TimeRankSec} sec ]
+4th : [{partyName}] Guild [ {TimeRankMin} min {TimeRankSec} sec ]
+5th : [{partyName}] Guild [ {TimeRankMin} min {TimeRankSec} sec ]
+The rewards for Battle in Sulivinas Lair can be received from{nl}Kupole Kaze in Vedas Plateau.
+[Mission Start] Battle with Dragon Boruta
+Check the records of Battle in Sulivinas Lair
+There are no previous records
+[{partyName}] Guild [ {TimeRankMin} min {TimeRankSec} sec ]
+Hand in Urbas Seal [Current: {COUNT} / 100]
+ handed in
+Handed in Urbas Seal x{COUNT}
+This week's Battle in Sulivinas Lair has come to an end,{nl}and no Guild has defeated the Dragon Boruta.
+Check the additionally eligible classes. (Class: Mergen)
+12 o'clock direction
+10 o'clock direction
+7 o'clock direction
+6 o'clock direction
+5 o'clock direction
+4 o'clock direction
+3 o'clock direction
+The remaining monsters are undoing the petrification process!
+The entire party will come under the effect of 
+ !
+The lightning field is active!{nl}The affected enemies have their movement speed reduced and receive continuous damage!
+The lightning field is already active.
+The Enhancement value is already at maximum.
+Install Stockades [Requires Fire Crystal x{COUNT}]
+The Stockade has been installed!
+The maximum number of Stockades have already been installed!
+Please... Perhaps you could put an end to this curse!
+I was beginning to give up... But now there is hope!
+Advancing into the class requires {@st41}[Companions]{/} to use skills, and adopting a {@st41}[Companion]{/} takes up a {@st41}[Character Slot]{/} in the barracks
+Joint Penalty immunity!!
+Mackangdal's invincibility effect removed!!
+Display Combat Stats {ONOFF}
+CC Duration Penalty {ONOFF}
+Temporary Immunity!
+Your guild will be applied to neutral status.{nl}You will not be able to declare wars.{nl}The neutral status can be removed after 7 days.{nl}Continue?
+You have already used up the Guild Quest.{nl}Please try again after 6 AM tomorrow.
+You have already completed the Guild Quest.{nl}Please try again after 6 AM tomorrow.
+This Guild Quest cannot be started at the moment.{nl}Schedule: Available from 5 AM to 6 PM the following day
+This Guild Quest cannot be started at the moment.{nl}Schedule: Available only on Sundays from 6 PM to 6 AM the following Monday
+Would you like to banish [{NAME}] from the Guild?
+Creating Guild Mission Room.
+This Guild Event cannot be stopped once started.
+Very Hard (Level Restriction: 400) - Participating Party Members
+Cannot be used currently.
+Cannot craft or enhance items inside Challenge Mode.
+The party is currently in Very Hard difficulty. Characters below Lv. 400 will not be able to enter so please try again with a character of Lv. 400 or above.
+Auto Move
+Zoom In
+Zoom Out
+You have collected all 200 coins for the day.
+Coins will be issued shortly. If you return before they are issued, you can miss out on receiving the items.
+{#003399}Swordsman Tree{/}{nl} - {Char1}
+{#003399}Wizard Tree{/}{nl} - {Char2}
+{#003399}Archer Tree{/}{nl} - {Char3}
+{#003399}Cleric Tree{/}{nl} - {Char4}
+{#003399}Scout Tree{/}{nl} - {Char5}
+Gemstone Feud Uniform Mode starting in 30 minutes.
+Gemstone Feud Uniform Mode starting in 10 minutes.
+Gemstone Feud Uniform Mode starting in 5 minutes.{nl}The entrance is at the north end of the Miners' Village and at the major cities.
+The Gemstone Feud Uniform Mode is starting now!{nl}Enter at the north end of the Miners' Village and at the major cities.
+Session 2 of the Gemstone Feud Normal Mode starting in 3 minutes.{nl}The entrance is at the north end of the Miners' Village and at the major cities.
+Session 2 of the Gemstone Feud Normal Mode is starting now!{nl}Enter at the north end of the Miners' Village and at the major cities.
+Entry allowed only during the following schedule.{nl}Uniform Mode: {HOUR}h {MINf}m to {HOUR}h {MINf2}m{nl}Normal Mode: {HOUR}h {MINs}m to {HOUR}h {MINs2}m
+Gemstone Feud Rental Shop
+{ol}{img mine_pvp_teamicon_bladetryst 40 40}{/}{#5ae2e7} Golden Note Mercenary{/} {NAME} has received the Power of the Goddess buff.
+{ol}{img mine_pvp_teamicon_goldencroon 40 40}{/}{#ff6d00} Pledge of the Blade Mercenary's{/} {NAME} has received the Power of the Goddess buff.
+{NAME} has defeated a {ol}{img mine_pvp_teamicon_bladetryst 40 40}{/} {#5ae2e7}Golden Note Mercenary Member{/}.{nl}{POINT} points have been plundered from the {ol}{img mine_pvp_teamicon_bladetryst 40 40}{/}{#5ae2e7} Golden Note Mercenary{/}.
+{NAME} has defeated a {ol}{img mine_pvp_teamicon_goldencroon 40 40}{/}{#ff6d00} Pledge of the Blade Mercenary Member{/}.{nl}{POINT} points have been plundered from the {ol}{img mine_pvp_teamicon_goldencroon 40 40}{/}{#ff6d00} Pledge of the Blade Mercenary{/}.
+{ol}{img mine_pvp_teamicon_bladetryst 40 40}{/}{#5ae2e7} Golden Note Mercenary{/} is under attack.
+{ol}{img mine_pvp_teamicon_goldencroon 40 40}{/}{#ff6d00} Pledge of the Blade Mercenary{/} is under attack.
+Undo Installation
+Moving to a nearby area soon ({SEC} seconds).
+Seized areas cannot be entered for 20 seconds after the spot has been seized.{nl}(Time remaining: {time} seconds)
+Cannot be used naer GTW Towers, Amplifiers or entry points.
+Cannot be used near the Amplifier.
+Nuoridin Falls: [{partyName}] Guild
+Sventimas Exile: [{partyName}] Guild
+Salvia Forest: [{partyName}] Guild
+Nuoridin Falls: Not Seized
+Sventimas Exile: Not Seized
+Salvia Forest: Not Seized
+Destroy {Value} installation?
+- Guilds that seize a Champions League Spot can adjust tariff rates in cities ({Min}% to {Max}%). {nl}- The default rate applied is {Default}%.{nl}- City tariff rates can be adjusted only by the Guild Master or members with the corresponding authority.{nl
+Tariffs apply for different cities depending on the Champions League Spot seized.{nl}({Cities})
+Market tariff funds are collected depending on the fees generated on a weekly basis{nl}and the rate is dependent on the seized Champions League Spot area.{nl}({Cities})
+ⓘ The Guilds that have seized spot in the respective leagues can obtain league-specific rewards through the 
+Champions League
+Challengers League
+ buttons.{nl}ⓘ For the full list of GTW benefits, please refer to the Guide section on our official homepage.
+Reward items have been issued. Reward items will be available to retrieve from your Guild Storage.
+You already have the maximum capacity allowed for {Item}. Please try again after removing them.
+- Guilds that have successfully seized Challengers League Spots can obtain items selected as rewards for Challengers League victors.{nl}- The reward items are refreshed {RewardLoadDelay} hours after GTW ends.{nl}- Items can be retrieved for {RewardReceive
+Contains unsupported characters(or language).
+{partyMember} party has cleared {raidName} for the first time in {clearMin} minutes and {clearSec} seconds!
+{partyMember} party has set a new record for {raidName} by completing the raid in {clearMin} mintues and {clearSec} seconds!
+has spawned an Emergency Quest.
+Defeat the monsters
+Defeated
+Emergency Quest is ending.
+Will you end the Emergency Quest?
+※ Emergency Quests automatically end when changing zones.
+Emergency Quest has started
+Part-time Job
+The mission will begin shortly
+The portal to the depths of the cave has been opened
+Dragon Boruta has appeared
+Borutos Rabbler has appeared
+Borutos Minivern Mage has appeared
+Borutos Minivern has appeared
+Borutos Minivern Warrior has returned
+Dragon Boruta has been suppressed{nl}Rewards will be available
+Move to Vedas Plateau
+Time exceeded
+10 minutes remaining
+5 minutes remaining
+You have participated in the Battle in Sulivinas Lair
+The Skiaclipse has entered into a fit of rage.
+Returning in 30 seconds.
+ difficulty is chosen.{nl}Stage 1 begins in 10 seconds.{nl}Players who do not meet the level requirement will be returned to their original areas in 5 seconds.
+The boss monster and Lapezards appear. Lapezards cast a shield spell on the boss!
+Hidden Stage!{nl}Defeat all monsters and the boss within 90 seconds for bonus points!
+Bonus Stage!{nl}Defeat all monsters and the boss within the time limit!
+Hidden Stage is ending due to time out.{nl}Mission Success: Returning in 60 seconds.
+You have defeated all the bosses and obtained bonus points!{nl}Mission Success: Returning in 60 seconds.
+Puppy6
+Campfire Popup Book
+Battle March Package
+Right-click to obtain the following items.{nl}- Soul Crystal x20{nl}- Small Elixir of HP Recovery x20{nl}- Small Elixir of SP Recovery x20{nl}- Movement Speed Potion: 1 Hour x1{nl}- Urgent Repair Kit x5{nl}- Recipe - 1 Day HP Potion{nl}- Recipe - 1 Day SP Potion
+Right-click to obtain the following items.{nl}- Class Change Voucher Lv. 3{nl}- Attribute Reset Potion{nl}- Skill Reset Potion{nl}- Stat Reset Potion
+Teliavelis' Forge Package
+Right-click to obtain the following items.{nl}- shining Golden Ichor Extraction Kit x3{nl}- Artisan Magnifier x3{nl}- Glowing Awakening Stone{nl}- Shining Golden Anvil x10
+Camping Costume Selection Box
+Use to select one of the following items.{nl} - Camping Costume (Male) x1{nl}Camping Costume (Female) x1
+Jungle Explorer Costume Selection Box
+Use to select one of the following items.{nl} - Jungle Explorer Costume (Male) x1{nl} - Jungle Explorer Costume (Female)
+Black Bear Costume Box
+Use to obtain the following items.{nl}- Black Bear Costume x1{nl}- Black Bear Helmet x1
+Sunday No Entry Time
+Monday No Entry Time
+Tuesday No Entry Time
+Wednesday No Entry Time
+Thursday No Entry Time
+Friday No Entry Time
+Saturday No Entry Time
+Duration halved
+Nuaele? That little thing grew larger?
+Can only be used while in towns.{nl}Check the tooltip for the specific areas where the item can be used.
+Daily purchase limit of {Count} 
+We are supporting Saviors who have advanced into classes affected by balance changes.{nl}Please check the list of eligible classes.
+September Attendance Rewards
+Vakarine Package
+Right-click to use and acquire the contents of the box. Will receive 1 item per day when you login for up to 25 days. 
+Vakarine First Time Package
+[Vakarine] Token
+Right-click to use and obtain the items.{nl}- Token: 15 Days [Vakarine]
+[Vakarine] Raid Portal Stone
+Right-click to use and obtain the items.{nl}- Raid Portal Stone x30
+[Vakarine] Ichor Extraction Kit
+Right-click to use and obtain the items.{nl}- Shining Silver Ichor Extraction Kit
+[Vakarine] Attribute Points
+Right-click to use and obtain the items.{nl}- Attribute Points 500 x10
+[Vakarine] Challenge Reset Box
+Right-click to use and obtain the items.{nl}- Challenge Reset Box
+[Vakarine] Artisan Enchant Scroll
+Right-click to use and obtain the items.{nl}- Artisan Enchant Scroll x3
+[Vakarine] x8 EXP Tome
+Right-click to use and obtain the items.{nl}- x8 EXP Tome x5
+[Vakarine] Legend Card Slot Unlock Voucher
+Right-click to use and obtain the items.{nl}- Legend Card Slot Unlock Voucher
+[Vakarine] Token
+Right-click to use and obtain the items.{nl}- Token: 7 Days
+[Vakarine] x8 EXP Tome
+[Vakarine] Instanced Dungeon Reset Voucher
+Right-click to use and obtain the items.{nl}- Instanced Dungeon Reset Voucher x10
+[Vakarine] Instanced Dungeon Multiplier Token
+Right-click to use and obtain the items.{nl}- Instanced Dungeon Multiplier Token x20
+[Vakarine] Character Slot Voucher
+Right-click to use and obtain the items.{nl}- Character Slot Voucher
+[Vakarine] Free Hair Coupon
+Right-click to use and obtain the items.{nl}- Free Hair Coupon
+[Vakarine] Class Change Voucher
+Right-click to use and obtain the items.{nl}- Class Change Voucher Lv. 3
+[Vakarine] Class Unlock Selection Box
+Right-click to use and obtain the items.{nl}- [Event] Class Unlock Voucher Selection Box
+{s24}Congratulations!{nl}{PC} has acquired {ITEMNAME}{nl}from {BOX}!
+[Summer Festa] Magic Ice Cube Shop
+[Vakarine] Character Slot Voucher + Free Hair Coupon
+You cannot give an offer nor receive blessings{nl}Visit the Pardoner Master for advice
+Vakarine NBU Voucher Pack
+Right-click to use and obtain the following items.{nl}- Character Slot Voucher{nl}- Free Hair Coupon
+Right-click to use and obtain the items.{nl}- Class Unlock Selection Box

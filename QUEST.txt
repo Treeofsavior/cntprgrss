@@ -3689,7 +3689,7 @@ Blue Fortress Dungeon (Recommended Lv : 240){nl}Only you and your party members 
 Ancient Warp Magic Circle
 You cannot return once you enter.{nl}Do you wish to proceed?
 It's all done!{nl}Now all we have to do is blow it up!
-Kupole Lhuta
+Kupole Ruta
 Revelator, I've been waiting for you.{nl}Goddess Zemyna is hiding somewhere in this Earth Tower.
 After the day in which you humans call Medzio Diena...{nl}Goddess Zemyna has hidden herself from the human realm.{nl}
 The life of humans and the fertility of vegetation...{nl}Medzio Diena must have been a great woe for the goddess of fertility.
@@ -4910,7 +4910,7 @@ You seem to be holding a seal from the demon leaders.{nl}I'll help you get throu
 How dare you intrude the resting place of a Goddess.{nl}Who are you?
 My most sincere apologies for leaving my place for so long.{nl}The demons that took over the Tower had been stopping me from returning.{nl}I would never have made it back if not for these people.
 I beg of you, please do not cast them out...
-Kupole Lhuta is talking about the world{nl}after Medzio Diena to Goddess Zemyna.
+Kupole Ruta is talking about the world{nl}after Medzio Diena to Goddess Zemyna.
 I was able to meet the Goddess thanks to you.
 I would have perished if I had not met you.
 I am planning on staying here with her.{nl}She needs me.
@@ -4922,9 +4922,9 @@ All that grows on the earth is like a child to me.
 The day called Medzio Diena was a shock to me as well.
 All my sisters and my priests had prayed to me to help the humans.{nl}However, the plants are as precious to me as the lives of humans are.
 That's why I had gone into the Earth Tower without making a decision.{nl}I had decided to close my eyes and ears.
-However...{nl}After listening to Lhuta, it seems as if there is reason to rethink about your world.
-Revelator...{nl}Thank you for helping Lhuta.
-Please go back for the moment.{nl}Lhuta will send you back to the entrance.
+However...{nl}After listening to Ruta, it seems as if there is reason to rethink about your world.
+Revelator...{nl}Thank you for helping Ruta.
+Please go back for the moment.{nl}Ruta will send you back to the entrance.
 I do not want to do this.{nl}Sister... Can you not understand me?{nl}Please rethink this...
 Goddess Vaivora
 You have harmed my Kupoles, destroyed my library and are now threatening me.
@@ -10950,3 +10950,53 @@ You have insufficient Talt or Silver to obtain a Victory Cube.{nl}Will you still
 You have reached the weekly limit of Victory Cubes that can be traded using using Talt or Silver. Will you still enter?{nl}(The weekly trade limit will be reset during the next scheduled maintenance)
 You have reached the weekly limit of Victory Cubes that can be traded using using Talt. Will you still enter?{nl}(The weekly trade limit will be reset during the next scheduled maintenance)
 You have reached the weekly limit of Victory Cubes that can be traded using using Silver. Will you still enter?{nl}(The weekly trade limit will be reset during the next scheduled maintenance)
+It seems that the Shadowmancer Master needs your help to defeat the terrible Skiaclipse.{nl}Visit the Shadowmancer Master at Rasvoy Lake to assist her.
+Please stop the Skiaclipse from wreaking havoc.{nl}We're counting on you, Savior.
+ The three rulers of Nicopolis are now more powerful than ever. Their greed knows no limits. Not satisfied with holding a grasp over Nicopolis, they are trying to influence life in the Kingdom beyond the city.{nl}The Kingdom and its laws are all that stands between them and ultimate power. The citizens of Nicopolis will grow more shackled if they are freed from the boundaries of the Kingdom's laws. By all means necessary, they will tighten their grip on Nicopolis. 
+Chupacabra Adoption Agent
+Adopt a Chupacabra during the event period to take along in your adventures. Grow them to receive a special reward.
+Have a lovely time with your pet Chupacabra.
+I will take care of your Chupacabra for now.{nl}Farewell.
+ The three rulers of Nicopolis are now more powerful than ever. Their greed knows no limits. Not satisfied with holding a grasp over Nicopolis, they are trying to influence life in the Kingdom beyond the city.{nl}The Kingdom and its laws are all that stands between them and ultimate power. The citizens of Nicopolis will grow more shackled if they are freed from the boundaries of the Kingdom's laws. By all means necessary, they will tighten their grip on Nicopolis. 
+If you want to have a go, make sure to use my special bait during the event period.{nl}Just get some from the bucket over here!
+s can be traded here.{nl}
+We are giving out BBQ Prawn Skewers for 5, Blue Lemonade for 10, Fresh Coconut Water for 20 Ice Cubes.{nl}We are also giving out {#003399}[Event]Vasalos Coins{/} for every Ice Cube you bring us.{nl}We will also be giving out additional {#003399}[Event]Vasalos Coins{/} for all Saviors who have traded in Ice Cubes for snacks 20 times!
+2019 Summer event is under way!{nl}{#003399}We are currently exchanging [Event]Vasalos Coins{/} and supporting Guild memberships.{nl}{#003399}[Event]Savinose Armor Selection Box and [Event] +8 Transcendence Scroll (90 Days){/}will be added to the shop soon.
+We are giving away amazing prizes in return for {#003399}[Event]Vasalos Coins{/}.{nl}Please take note that different prizes require a different number of coins.
+{#003399}[Event]Vasalos Coins{/} can be earned by the following methods.
+1. Twice the number of coins can be earned when completing the following contents while joined in a Guild.{nl}- {#003399}Level Dungeon{/}, {#003399}Mercenary Post Missions and Saalus Missions{/}, {#003399}Unique and Legend Raids{/}{nl}- {#003399}Completing 10 stages of Uphill Defense in Normal difficulty or 5 stages in Hard and Very Hard difficulties{/}{nl}- {#003399}Reaching Stage 5 or above in Challenge Mode{/}{nl}- Dropped by defeating monsters in the player's level range
+2. Exchanged through the {#003399}[Summer Festa] Summer in Klaipeda event{/}{nl}3. Exchanged through the {#003399}Growth Gem Shop{/}
+[Summer Festa] Part-timer
+I'm here to help out my brother.{nl}Unfortunately there are no toys this time.
+I will be back again with new toys!
+You agreed not to harm any humans by obtaining my staff, and you agreed not to modify in any way the staff or the Contract Token.{nl}The conditions you violated are too many for me to even mention them all.
+Because I was careless, Boruta is about to wreak havoc on this world once again.{nl}Please help us keep him from escaping.
+Here is the records for your Guild.
+Thanks to your devotion we could keep Boruta at bay.{nl}But I am sure that he will attempt to escape again one day.
+Let's hope that its hatred for the Goddesses and humanity ends here...
+If you bring me Urbas Seals, I can help you protect yourself from Boruta's roar.{nl}You can use up to a 100 at a time.
+You have enough Urbas Seal.{nl}You can now battle Boruta.
+Please check the list of eligible classes (Mergens can receive a separate additional support).
+Swordsman Tree{nl} - Doppelsoeldner, Dragoon, Retiarius, Matador, Barbarian, Cataphract, Templar, Fencer, Peltasta, Highlander, Hackapell, Hoplite{nl}Wizard Tree{nl}- Psychokino, Elementalist, Onmyoji{nl}Archer Tree{nl}- Musketeer, Mergen, Wugushi, Fletcher{nl}Cleric Tree{nl}- Cleric, Druid, Priest
+{#003399}Tip 1{/}{nl}If you select the {#003399}Class Points{/}, you receive 1,000 points.{nl}{#FF0000}However, tree base classes receive compensation in the form of items.{/}{nl}E.g. If you have advanced into 2 of the classes included in the list, you can choose between receiving support items or 2,000 Class Change Points
+Growth is certainly valuable in itself, but a little reward never hurt anyone. Bring me your {#003399}[Event] Growth Gems{/} and you, too, will understand.{nl}*{#003399}[Event] Growth Gems{/} can be obtained from Uska's event.{nl}* New and Returning Saviors will be able to obtain {#003399}twice{/}the number of items from the exchange shop.
+You cannot battle Dragon Boruta without an Urbas Seal.
+{#003399}Tip!{/}{nl}You must participate in GTW and successfully seize a spot in order to participate.
+You cannot battle Dragon Boruta without your Guild members.
+{#003399}Tip!{/}{nl}Join a Guild and participate in Guild Territory Wars.{nl}You must seize a spot in GTW in order to participate.
+Cannot enter Sulivinas Lair.
+A structure installed by a Guild member.
+You can remove the structure.
+You can remove or repair the structure.
+Welcome! I moved here because customers kept complaining that I was hard to reach.{nl}So, what is it that you need?
+He can work out something to amplify the power of your equipment.{nl}Go see him, he'll know what to do.
+You are now able to enter the Gemstone Feud Normal Mode. Do you want to enter?{nl}- On entering, you will be assigned to a random camp and battle the other camp.{nl}{#FF0000}(You may not receive your reward if you have too many Mercenary Badges in your inventory.){/}
+You are now able to enter the Gemstone Feud Normal Mode. Would you like to enter?{nl}- Note that you will be assigned a random camp, and you will be able to fight the opposite camp (PvP).
+You are now able to enter the Gemstone Feud Uniform Mode. Do you want to enter?{nl}- On entering, you will be assigned to a random camp and battle the other camp.{nl}{#FF0000}(You may not receive your reward if you have too many Mercenary Badges in your inventory.){/}
+You are now able to enter the Gemstone Feud Uniform Mode. Would you like to enter?{nl}- Note that you will be assigned a random camp, and you will be able to fight the opposite camp (PvP).
+A force field surrounds the orb just as the Skiaclipse tried to destroy the orb!{nl}Defeat the minions of the Skiaclipse that have been summoned near the orb!
+Tomb of the White Crow: Unique (Recommended Level: 400){nl}Only you and your party members can enter together.{nl}Are you sure you want to enter?
+Tomb of the White Crow: Legend (Recommended Level: 420){nl}Only you and your party members can enter together.{nl}Are you sure you want to enter?
+ The three rulers of Nicopolis are now more powerful than ever. Their greed knows no limits. Not satisfied with holding a grasp over Nicopolis, they are trying to influence life in the Kingdom beyond the city.{nl}The Kingdom and its laws are all that stands between them and ultimate power. The citizens of Nicopolis will grow more shackled if they are freed from the boundaries of the Kingdom's laws. By all means necessary, they will tighten their grip on Nicopolis. 
+I'm here to help out my brother.{nl}Unfortunately there are no toys this time so I'm helping out with exchanging the ice cubes for prizes!
+[Summer Festa] I am giving out special rewards for everyone who brings me Magic Ice Cubes!{nl}How many do you need?

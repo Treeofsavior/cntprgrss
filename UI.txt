@@ -3899,3 +3899,21 @@ Enchant Item Name
 {s16}{ol} Tracking Quests
 {@st66b}Item trade counts and entry limits will be reset during weekly scheduled maintenance.{/}
 {@st43}{s22}Victory Cube{/}
+{@st42}{s20}Challenger's League
+{@st42}{s20}Champion's League
+{@st41b}{s16}{b}Champion's League
+{@st41b}{s16}{b}Challenger's League
+Regional League
+Unequip Ichor (Fixed)
+{@st43b}{s18}Ichor Stats (Fixed)
+Unequip Ichor (Random)
+{@st43b}{s18}Ichor Stats (Random)
+Click on confirm to return.
+{@st42b}You can dash by double-tapping a directional key{/}
+{@st41b}{s18}Current %s Enchant Jewels: %s
+{@st66}{s18}{b}Consumes %sx %s Enchant Jewel(s).
+Cannot be dismantled
+Regional League
+{@st42}{s16}Retrieve
+{@st66b}Dead Parts
+{@st66b}Item Drop Effects{/}
